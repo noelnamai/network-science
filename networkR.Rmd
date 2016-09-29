@@ -1,0 +1,26 @@
+---
+title: "Untitled"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r cars}
+setwd(".")
+library("networkD3")
+
+nodes = read.csv("Rnodes.csv")
+links = read.csv("Rlinks.csv")
+
+nodes$group = sample(c(1,2,3), nrow(nodes), replace=TRUE)
+
+network = forceNetwork(Links=links, Nodes=nodes, Source="source", Target="target", Value="value", NodeID="name", Group="group", opacity=10, fontSize=10, fontFamily="serif"); network
+```
