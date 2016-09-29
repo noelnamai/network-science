@@ -2,4 +2,4 @@
 
 ## Final project repository for Preston Epps and Noel Namai.
 
-Python code: https://github.com/noelnamai/network_science/blob/master/StockTwits.ipynb
+Python code: [StockTwits.ipynb](https://github.com/noelnamai/network_science/blob/master/StockTwits.ipynb)
