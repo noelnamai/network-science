@@ -1,4 +1,5 @@
 name,title
+PFE,Pfizer Inc.
 EW,Edwards Lifesciences Corp.
 CCOI,Cogent Communications Group Inc.
 LANC,Lancaster Colony Corporation
@@ -22,7 +23,6 @@ CMC,Commercial Metals Company
 HD,"The Home Depot, Inc."
 CIB,Bancolombia S.A.
 MTZ,"MasTec, Inc."
-AWK,"American Water Works Company, Inc."
 TSN,Tyson Foods Inc.
 CSAL,Communications Sales & Leasing Inc.
 MET,"MetLife, Inc."
@@ -40,7 +40,7 @@ NDSN,Nordson Corporation
 CAR,"Avis Budget Group, Inc."
 BIDU,"Baidu, Inc."
 UCO,ProShares Ultra DJ-UBS Crude Oil
-XES,SPDR S&P Oil & Gas Equipment & Services
+ZFGN,Zafgen
 XIV,VelocityShares Daily Inverse VIX ST ETN
 GDXJ,VanEck Vectors Junior Gold Miners ETF
 PNC,PNC Financial Services Group Inc.
@@ -63,7 +63,6 @@ CAC,Camden National Corp.
 OPXA,"Opexa Therapeutics, Inc."
 BND,Vanguard Total Bond Market ETF
 NK_F,Nikkei 225 Futures
-MSFT,Microsoft Corporation
 GPRO,GoPro
 AGN,Allergan Inc.
 TGTX,TG Therapeutics
@@ -100,11 +99,11 @@ KORS,Michael Kors Holdings Ltd
 SAM,Boston Beer Co. Inc.
 STUDY,StockTwits Education
 CSX,CSX Corp.
-MXIM,Maxim Integrated Products Inc.
 FXB,CurrencyShares British Pound Sterling Tr
 EA,Electronic Arts Inc.
 XCOM,Xtera Communications
 XPO,XPO Logistics
+URI,"United Rentals, Inc."
 SYK,Stryker Corp.
 GDJJ,ProShares Ultra Junior Miners
 MLM,Martin Marietta Materials Inc.
@@ -115,6 +114,7 @@ NEP,Nextera Energy Partners
 NXTD,NXT-ID Inc
 USAT,USA Technologies Inc.
 EVI,"EnviroStar, Inc."
+VRA,"Vera Bradley Designs, Inc."
 AKS,AK Steel Holding Corporation
 ADS,Alliance Data Systems Corporation
 GUSH,Direxion Daily S&P Oil & Gas Exploration & Production Bull 3X Shares
@@ -129,14 +129,13 @@ FRC,First Republic Bank
 STRZA,Starz 
 LYB,LyondellBasell Industries NV
 XLE,Energy Select Sector SPDR
-BK,The Bank of New York Mellon Corporation
 MGT,MGT Capital Investments
 COF,Capital One Financial Corp.
 GILD,Gilead Sciences Inc.
 PBR,Petroleo Brasileiro
 BABA,Alibaba
 DUK,Duke Energy Corporation
-ONTX,"Onconova Therapeutics, Inc."
+KBR,"KBR, Inc."
 RF,Regions Financial Corp.
 NEE,"NextEra Energy, Inc."
 TTD,The Trade Desk Inc
@@ -146,6 +145,7 @@ MT.CA,Miranda Technologies
 HDSN,Hudson Technologies Inc.
 PCG,PG & E Corp.
 OGE,OGE Energy Corp.
+BRK.B,Berkshire Hathaway Inc.
 HNR,Harvest Natural Resources Inc.
 ONVO,Organovo Holdings Inc
 RWX,SPDR Dow Jones Intl Real Estate
@@ -178,7 +178,7 @@ ING,ING Groep NV
 CHK,Chesapeake Energy Corporation
 ETR,Entergy Corporation
 SYRG,Synergy Resources Corp
-HAWK,Blackhawk Network Holdings Inc
+DMO,Western Asset Mortgage Defined
 KEY,KeyCorp
 JNUG,Direxion Daily Jr Gld Mnrs Bull 3X Shrs
 EUO,ProShares UltraShort Euro
@@ -202,6 +202,7 @@ XPH,SPDR S&P Pharmaceuticals
 NWBO,"Northwest Biotherapeutics, Inc. "
 NG_F,Natural Gas
 PCY,PowerShares Emerging Mkts Sovereign Debt
+SCHD,Schwab US Dividend Equity ETF
 CTRL,Control4 Corporation
 SM,SM Energy Company
 SOXX,iShares PHLX SOX Semiconductor Sector
@@ -213,13 +214,14 @@ LQDT,"Liquidity Services, Inc."
 APHB,AmpliPhi Biosciences Corporation
 HRL,Hormel Foods Corp.
 DWTI,VelocityShares 3x Inverse Crude ETN
-SPGI,"S&P Global, Inc."
+ND_F,NASDAQ 100 Futures
 RENN,Renren Inc. American Depositary
 XON,INTREXON CORP
 WATT,Energous Corp
 VHC,VirnetX Holding Corp
 CGC.CA,Canopy Growth Corp.
 QCOM,QUALCOMM Incorporated
+SNAP,Snapchat
 IWD,iShares Russell 1000 Value Index
 ANET,Arista Networks
 CNC,Centene Corp.
@@ -247,7 +249,7 @@ NUGT,Direxion Daily Gold Miners Bull 3X Shrs
 MOVE,"Move, Inc."
 ESEA,"Euroseas, Ltd."
 PVH,Phillips-Van Heusen Corp.
-VRA,"Vera Bradley Designs, Inc."
+INCY,Incyte Corporation
 JNJ,Johnson & Johnson
 TKAI,Tokai Pharmaceuticals
 CUZ,Cousins Properties Inc.
@@ -257,14 +259,13 @@ VBLT,Vascular Biogenics Ltd.
 FED,The Federal Reserve
 JNK,SPDR Barclays High Yield Bond ETF
 K,Kellogg Company
-IBIO,"iBio, Inc."
 DOW,The Dow Chemical Company
 PBF,PBF Energy Inc.
 PKY,Parkway Properties Inc.
 XLK,Technology Select Sector SPDR
 BMY,Bristol-Myers Squibb Company
 PRGO,Perrigo Co.
-LM,Legg Mason Inc.
+STT,State Street Corp.
 ACG,"AllianceBernstein Income Fund, Inc."
 MSCC,Microsemi Corp.
 WMS,Advanced Drainage Systems
@@ -290,7 +291,7 @@ WPZ,Williams Partners L.P.
 IVC,Invacare Corporation
 CLVS,"Clovis Oncology, Inc. "
 C,"Citigroup, Inc."
-ARRS,Arris Group Inc.
+NVFY,Nova Lifestyle Inc
 MDVN,"Medivation, Inc."
 INFN,Infinera Corporation
 IWB,iShares Russell 1000 Index
@@ -307,7 +308,7 @@ VIVE,Viveve Medical
 CURE,Direxion Daily Healthcare Bull 3X Shares
 UA,"Under Armour, Inc."
 IFGL,iShares FTSE EPRA/NAREIT Dev RE ex-US
-AMGN,Amgen Inc.
+GOLD,Randgold Resources Ltd.
 AMAT,Applied Materials Inc.
 RLYP,Relypsa
 GXP,Great Plains Energy Incorporated
@@ -322,10 +323,11 @@ BKD,Brookdale Senior Living Inc.
 ALKS,"Alkermes, Inc."
 PGR,Progressive Corp.
 EDU,New Oriental Education & Technology Group
-SNAP,Snapchat
+AWK,"American Water Works Company, Inc."
 IBB,iShares Nasdaq Biotechnology ETF
 BCS,Barclays PLC
 UGAZ,VelocityShares 3x Long Natural Gas ETN
+DEF,Guggenheim Defensive Equity
 LPCN,Lipocine Inc.
 SO,Southern Company
 DJU,Dow Jones Utility Average
@@ -346,7 +348,7 @@ THO,Thor Industries Inc.
 IYZ,iShares Dow Jones US Telecom
 RJF,Raymond James Financial Inc.
 XOMA,XOMA Ltd.
-KGC,Kinross Gold Corporation
+PKI,PerkinElmer Inc.
 IYT,iShares Dow Jones Transportation Average
 CMA,Comerica Incorporated
 SRE,Sempra Energy
@@ -360,23 +362,23 @@ BKE,Buckle Inc.
 SGY,Stone Energy Corp.
 EXR,Extra Space Storage Inc.
 CMTL,Comtech Telecommunications Corp.
-ND_F,NASDAQ 100 Futures
+SPGI,"S&P Global, Inc."
 VZ,Verizon Communications Inc.
 CBMX,CombiMatrix Corporation
 TBRA,Tobira Therapeutics
 IMAX,IMAX Corporation
+HST,Host Hotels & Resorts Inc.
 MNK,Mallinckrodt plc
 JRS,Nuveen Real Estate Income Fund
-CRBP,Corbus Pharmaceuticals Holdings Inc
 PYPL,PayPal
 PKW,PowerShares Buyback Achievers
-URI,"United Rentals, Inc."
+GEVA,Synageva BioPharma Corp
 PTCT,"PTC Therapeutics, Inc."
 EPE,EP Energy Corp
 MS,Morgan Stanley
-DEF,Guggenheim Defensive Equity
+THC,Tenet Healthcare Corp.
 BBRY,BlackBerry
-PKI,PerkinElmer Inc.
+GNMK,"GenMark Diagnostics, Inc."
 BZUN,Baozun
 SNHY,Sun Hydraulics Corp.
 ZS_F,Soybean Futures
@@ -397,7 +399,7 @@ INSY,Insys Therapeutics
 XLV,Health Care Select Sector SPDR
 CSCO,"Cisco Systems, Inc."
 ASX,Advanced Semiconductor Engineering Inc.
-SCHD,Schwab US Dividend Equity ETF
+GME,GameStop Corp.
 GDDY,GoDaddy Group
 SIX,Six Flags Entertainment Corp.
 GRUB,GrubHub
@@ -411,7 +413,7 @@ HSBC,HSBC Holdings plc
 DCM,"NTT DOCOMO, Inc."
 MSTX,Mast Therapeutics Inc
 CXW,Corrections Corporation of America
-STT,State Street Corp.
+LXU,LSB Industries Inc.
 KITE,Kite Pharma
 IPO,Renaissance IPO ETF 
 REM,iShares FTSE NAREIT Mort Plus Cp Idx
@@ -423,7 +425,7 @@ OZRK,"Bank of the Ozarks, Inc."
 AIG,"American International Group, Inc."
 MANH,"Manhattan Associates, Inc."
 KBW,KBW Inc
-CVX,Chevron Corp.
+OPK,"Opko Health, Inc."
 SYY,Sysco Corp.
 IOO,iShares S&P Global 100 Index
 BSV,Vanguard Short-Term Bond ETF
@@ -432,14 +434,14 @@ FIT,Fitbit
 PFG,Principal Financial Group Inc.
 ZYNE,Zynerba Pharmaceuticals
 TMUS,"T-Mobile US, Inc. "
-EMB,iShares JPMorgan USD Emerg Markets Bond
+CATO,Cato Corp.
 TJX,"The TJX Companies, Inc."
 TASR,TASER International Inc.
 HDS,HD Supply Holdings Inc.
-HES,Hess Corporation
+BK,The Bank of New York Mellon Corporation
 FDX,FedEx Corporation
 UAL,"United Continental Holdings, Inc."
-BGFV,Big 5 Sporting Goods Corp.
+LUB,Luby's Inc.
 TTM,Tata Motors Ltd.
 MACRO,Global Macro
 VHT,Vanguard Health Care ETF
@@ -472,7 +474,7 @@ TEAM,Atlassian
 EVBG,Everbridge Inc.
 RAI,Reynolds American Inc.
 RTN,Raytheon Co.
-STZ,Constellation Brands Inc.
+IBIO,"iBio, Inc."
 XOM,Exxon Mobil Corporation
 SCHW,Charles Schwab Corp.
 RDHL,RedHill Biopharma Ltd.
@@ -488,7 +490,7 @@ AAP,Advance Auto Parts Inc.
 MOG.A,Moog Inc.
 HSY,Hershey Co.
 HUN,Huntsman Corporation
-HST,Host Hotels & Resorts Inc.
+CRBP,Corbus Pharmaceuticals Holdings Inc
 COUPA,Coupa
 BNO,United States Brent Oil
 ALNY,"Alnylam Pharmaceuticals, Inc."
@@ -515,7 +517,7 @@ KO,The Coca-Cola Company
 LDOS,"Leidos Holdings, Inc."
 BGI,Birks Group Inc
 CLSD,Clearside Biomedical
-KBR,"KBR, Inc."
+ONTX,"Onconova Therapeutics, Inc."
 VSLR,Vivint Solar
 LEA,Lear Corp.
 SPHS,Sophiris Bio Inc.
@@ -523,7 +525,7 @@ BRG,Bluerock Residential
 VVC,Vectren Corporation
 AIB,Allied Irish Banks plc
 BHI,Baker Hughes Incorporated
-DMO,Western Asset Mortgage Defined
+HAWK,Blackhawk Network Holdings Inc
 ZB_F,30 Year U.S. Treasury Bonds
 ABB,ABB Ltd.
 WUBA,58.com
@@ -584,13 +586,14 @@ GDX,VanEck Vectors Gold Miners ETF
 ADM,Archer Daniels Midland Company
 SLV,iShares Silver Trust
 F,Ford Motor Co.
+V,"Visa, Inc."
 ZTS,Zoetis Inc.
 CL_F,"Light, Sweet Crude Oil Futures"
 EMR,Emerson Electric Co.
 SCYX,SCYNEXIS
 ACAD,"ACADIA Pharmaceuticals, Inc."
 SKM,SK Telecom Co. Ltd.
-OPK,"Opko Health, Inc."
+CVX,Chevron Corp.
 VIX,CBOE Volatility Index
 UN,Unilever NV
 CMG,"Chipotle Mexican Grill, Inc."
@@ -649,9 +652,7 @@ LN,Line
 PVG,Pretium Resources Inc.
 CSOD,Cornerstone OnDemand Inc.
 UUP,PowerShares DB US Dollar Index Bullish
-GNMK,"GenMark Diagnostics, Inc."
 ITB,iShares Dow Jones US Home Construction
-GME,GameStop Corp.
 AMTX,Aemetis Inc.
 VNQ,Vanguard REIT Index ETF
 STX,Seagate Technology PLC
@@ -662,14 +663,14 @@ MO,Altria Group Inc.
 VWO,Vanguard MSCI Emerging Markets ETF
 HRTX,Heron Therapeutics Inc. 
 DUST,Direxion Daily Gold Miners Bear 3X Shrs
-LUB,Luby's Inc.
 SHOP,Shopify
 AVGO,Broadcom
 EWS,iShares MSCI Singapore Index
 CYCC,"Cyclacel Pharmaceuticals, Inc."
+KGC,Kinross Gold Corporation
 GLW,Corning Inc.
-ZFGN,Zafgen
-CATO,Cato Corp.
+XES,SPDR S&P Oil & Gas Equipment & Services
+EMB,iShares JPMorgan USD Emerg Markets Bond
 CMCSA,Comcast Corporation
 XLU,Utilities Select Sector SPDR
 CNK,Cinemark Holdings Inc.
@@ -695,6 +696,7 @@ BBT,BB & T Corp.
 LLY,Eli Lilly & Co.
 MUR,Murphy Oil Corporation
 AREX,"Approach Resources, Inc."
+CMI,Cummins Inc.
 SBH,Sally Beauty Holdings Inc.
 SVC.CA,Sandvine Corp J
 AMP,Ameriprise Financial Inc.
@@ -721,12 +723,13 @@ XME,SPDR S&P Metals & Mining
 XLI,Industrial Select Sector SPDR
 NOK,Nokia Corporation
 PBYI,Puma Biotechnology Inc.
+BGFV,Big 5 Sporting Goods Corp.
 APD,Air Products & Chemicals Inc.
 FLXN,Flexion Therapeutics
 KIN,Kindred Biosciences
 DDR,DDR Corp.
-GEVA,Synageva BioPharma Corp
-THC,Tenet Healthcare Corp.
+MXIM,Maxim Integrated Products Inc.
+JBL,Jabil Circuit Inc.
 SYF,Synchrony Financial
 TOL,Toll Brothers Inc.
 RWR,SPDR Dow Jones REIT
@@ -738,7 +741,7 @@ PPG,PPG Industries Inc.
 KRE,SPDR KBW Regional Banking
 UDN,PowerShares DB US Dollar Index Bearish
 PPP,Primero Mining Corp.
-UEPS,Net 1 Ueps Technologies Inc.
+HES,Hess Corporation
 NBL,"Noble Energy, Inc."
 UBA,Urstadt Biddle Properties Inc.
 CVBF,CVB Financial Corp.
@@ -760,7 +763,6 @@ EXAS,Exact Sciences Corporation
 LRCX,Lam Research Corporation
 LB,"L Brands, Inc. "
 AUPH,Aurinia Pharmaceuticals Inc.
-LXU,LSB Industries Inc.
 ALL,The Allstate Corporation
 AKER,Akers Biosciences Inc.
 VRX,"Valeant Pharmaceuticals International, Inc."
@@ -779,7 +781,7 @@ MA,MasterCard Incorporated
 FHLC,Fidelity MSCI Health Care ETF
 RY,Royal Bank of Canada
 BGT,BlackRock Floating Rate Income Trust
-CMI,Cummins Inc.
+LM,Legg Mason Inc.
 GLD,SPDR Gold Shares
 MDT,"Medtronic, Inc."
 ANF,Abercrombie & Fitch Co.
@@ -836,7 +838,7 @@ POST,"Post Holdings, Inc."
 JUNO,Juno Therapeutics
 PM,"Philip Morris International, Inc."
 DAX,DAX (Deutscher Aktien Index - Germany)
-NVFY,Nova Lifestyle Inc
+ARRS,Arris Group Inc.
 CPA,Copa Holdings SA
 FL,"Foot Locker, Inc."
 CTSO,CytoSorbents Corporation 
@@ -860,8 +862,8 @@ ECA,Encana Corporation
 REX,REX American Resources Corporation
 ATNM,Actinium Pharmaceuticals
 LOW,Lowe's Companies Inc.
-BRK.B,Berkshire Hathaway Inc.
-BSTG,Biostage Inc.
+MSFT,Microsoft Corporation
+PSTB,Park Sterling Bank Inc.
 EQR,Equity Residential
 DBEF,Deutsche X-trackers MSCI EAFE Hedged Eq
 LC,LendingClub
@@ -886,16 +888,13 @@ X,United States Steel Corp.
 TARO,Taro Pharmaceutical Industries
 NFLX,"Netflix, Inc."
 AGG,iShares Barclays Aggregate Bond
-GOLD,Randgold Resources Ltd.
 CRM,Salesforce.com
 KIM,Kimco Realty Corporation
 DFT,"DuPont Fabros Technology, Inc."
 CB,The Chubb Corporation
 AVG,AVG Technologies
-MDCO,Medicines Co.
 IONS,Ionis Pharmaceuticals Inc
 SPY,SPDR S&P 500
-PSTB,Park Sterling Bank Inc.
 ARDM,Aradigm Corporation
 ONCS,OncoSec Medical Incorporated
 ZION,Zions Bancorp.
@@ -933,9 +932,11 @@ SNN,Smith & Nephew plc
 TWLO,Twilio
 PHM,"PulteGroup, Inc."
 UNG,United States Natural Gas
+AMGN,Amgen Inc.
 EWJ,iShares MSCI Japan Index
-PFE,Pfizer Inc.
-V,"Visa, Inc."
+HRTG,Heritage Insurance Holdings
+UEPS,Net 1 Ueps Technologies Inc.
+BSTG,Biostage Inc.
 RUSS,Direxion Daily Russia Bear 3x
 OIL,iPath S&P GSCI Crude Oil TR Index ETN
 JDST,Direxion Daily Jr Gld Mnrs Bear 3X Shrs
@@ -957,7 +958,7 @@ NDX,NASDAQ 100
 KURA,Kura Oncology
 JD,JD.com
 HTBX,Heat Biologics Inc.
-JBL,Jabil Circuit Inc.
+MDCO,Medicines Co.
 DBB,PowerShares DB Base Metals
 AVB,Avalonbay Communities Inc.
 XL,XL Group plc
@@ -974,7 +975,6 @@ NCLH,Norwegian Cruise Lines
 SPLV,PowerShares Exchange-Traded Fund Trust II
 BBBY,"Bed Bath & Beyond, Inc."
 SI_F,Silver Futures
-HRTG,Heritage Insurance Holdings
 STRP,Straight Path Communications Inc.
 KBWY,PowerShares KBW Prem Yield Equity REIT
 IDRA,"Idera Pharmaceuticals, Inc."
@@ -984,6 +984,7 @@ MOBL,MobileIron
 VSTM,"Verastem, Inc."
 RFI,Cohen & Steers Total Return Realty Fund Inc.
 OSK,Oshkosh Corporation
+STZ,Constellation Brands Inc.
 EBIO,Eleven Biotherapeutics
 WGBS,WaferGen Bio-systems Inc.
 TIP,iShares Barclays TIPS Bond
