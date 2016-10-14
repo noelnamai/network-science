@@ -1,495 +1,789 @@
 name,title
-CWEI,Clayton Williams Energy Inc.
-DVAX,Dynavax Technologies Corporation
-AMZN,Amazon.com Inc.
-TLT,iShares 20+ Year Treasury Bond ETF
-GOLD,Randgold Resources Ltd.
-FTR,Frontier Communications Corporation
-YHOO,Yahoo! Inc.
-ENZ,Enzo Biochem Inc.
-LUV,Southwest Airlines Co.
-AAXJ,iShares MSCI All Country Asia ex Jpn Idx
-LRCX,Lam Research Corporation
-DBA,PowerShares DB Agriculture
-LNN,Lindsay Corporation
-WYY,WidePoint Corp.
-ARNA,"Arena Pharmaceuticals, Inc."
-EBAY,eBay Inc.
-STM,STMicroelectronics NV
-PAY,"VeriFone Systems, Inc"
-TSM,Taiwan Semiconductor Manufacturing Co. Ltd.
-FCEL,FuelCell Energy Inc.
-SLV,iShares Silver Trust
-ETN,Eaton Corporation
-SBI,Western Asset Intermediate Muni Fund Inc.
-XLF,Financial Select Sector SPDR
-DOW,The Dow Chemical Company
-BIDU,"Baidu, Inc."
-YUM,"Yum! Brands, Inc."
-QBAK,Qualstar Corp.
-FB,Facebook
-NYMX,Nymox Pharmaceutical Corporation
-EMR,Emerson Electric Co.
-JAZZ,"Jazz Pharmaceuticals, Inc."
-PHMD,"PhotoMedex, Inc."
-FE,FirstEnergy Corp.
-NTES,"NetEase.com, Inc."
-EDU,New Oriental Education & Technology Group
-SPY,SPDR S&P 500
-KO,The Coca-Cola Company
-AA,Alcoa Inc.
-GFI,Gold Fields Ltd.
-MTG,MGIC Investment Corp.
-DOV,Dover Corp.
-OPK,"Opko Health, Inc."
-STMP,Stamps.com Inc.
-NCS,NCI Building Systems Inc.
-LYG,Lloyds Banking Group plc
-INTU,Intuit Inc.
-SYMC,Symantec Corporation
-XLK,Technology Select Sector SPDR
-AXTI,AXT Inc.
-ASNA,Ascena Retail Group inc.
-ENDP,Endo Pharmaceuticals Holdings Inc.
-OCN,Ocwen Financial Corp.
-DG,Dollar General Corporation
-CI,CIGNA Corporation
-ASA,ASA Limited
-SMI,Semiconductor Manufacturing International Corp.
-RAX,"Rackspace Hosting, Inc"
-SMG,The Scotts Miracle-Gro Co.
-GDX,VanEck Vectors Gold Miners ETF
-WDC,Western Digital Corp.
-HD,"The Home Depot, Inc."
-MNTA,Momenta Pharmaceuticals Inc.
-SGYP,"Synergy Pharmaceuticals, Inc."
-BCS,Barclays PLC
-NOK,Nokia Corporation
-RVLT,Revolution Lighting Tech Inc.
-ILMN,Illumina Inc.
-INFY,Infosys Technologies Limited
-OMER,Omeros Corporation
-FITB,Fifth Third Bancorp
-USO,United States Oil ETF
-BIS,ProShares UltraShort Nasdaq Biotech
-AG,First Majestic Silver Corp.
-FBT,First Trust NYSE Arca Biotech Index
-EWY,iShares MSCI South Korea Index
-SCHN,Schnitzer Steel Industries Inc.
-TMV,Direxion Daily 20+ Yr Trsy Bear 3X Shrs
-WFM,"Whole Foods Market, Inc."
-GLD,SPDR Gold Shares
-PEP,"PepsiCo, Inc."
-AMD,"Advanced Micro Devices, Inc."
-STRL,Sterling Construction Co. Inc.
-TWM,ProShares UltraShort Russell2000
-MSI,"Motorola Solutions, Inc."
-NUGT,Direxion Daily Gold Miners Bull 3X Shrs
-RDN,Radian Group Inc.
-SINA,Sina Corp.
-GDXJ,VanEck Vectors Junior Gold Miners ETF
-SOCL,Global X Social Media ETF
-NEM,Newmont Mining Corp.
-CLDT,Chatham Lodging Trust
-ABT,Abbott Laboratories
-KEY,KeyCorp
-NEON,"Neonode, Inc."
-FNSR,Finisar Corp.
-ABX,Barrick Gold Corporation
-EGAS,Gas Natural Inc.
-CURE,Direxion Daily Healthcare Bull 3X Shares
-BBRY,BlackBerry
-GME,GameStop Corp.
-ENH,Endurance Specialty Holdings Ltd.
-ESRX,Express Scripts Inc.
-IBB,iShares Nasdaq Biotechnology ETF
-OXY,Occidental Petroleum Corporation
-USLV,VelocityShares 3x Long Silver ETN
-CMG,"Chipotle Mexican Grill, Inc."
-CLF,Cliffs Natural Resources Inc.
-STS,Supreme Industries Inc.
-XIV,VelocityShares Daily Inverse VIX ST ETN
-MDT,"Medtronic, Inc."
-ULTA,"Ulta Salon, Cosmetics & Fragrance, Inc."
-VOO,Vanguard S&P 500 ETF
-RIG,Transocean Ltd.
-XRS,TAL Education Group
-TSLA,"Tesla Motors, Inc."
-PFPT,Proofpoint
-ETE,"Energy Transfer Equity, L.P."
-HBI,Hanesbrands Inc.
-UNP,Union Pacific Corporation
-TMH,"Team Health Holdings, Inc."
-BIO,"Bio-Rad Laboratories, Inc."
-MOH,Molina Healthcare Inc.
-MED,Medifast Inc.
-APH,Amphenol Corporation
-WBA,Walgreens Boots Alliance
-CF,"CF Industries Holdings, Inc."
-BMY,Bristol-Myers Squibb Company
-MYL,"Mylan, Inc."
-MGT,MGT Capital Investments
-LULU,Lululemon Athletica Inc.
-USD,ProShares Ultra Semiconductors
-XHB,SPDR S&P Homebuilders
-DIS,Walt Disney Co.
-USB,U.S. Bancorp
-ETRM,"EnteroMedics, Inc."
-COST,Costco Wholesale Corporation
-AEZS,AEterna Zentaris Inc. (USA)
-RENN,Renren Inc. American Depositary
-XLE,Energy Select Sector SPDR
-BAC,Bank of America Corporation
-PAAS,Pan American Silver Corp.
-CRME,Cardiome Pharma Corp.
-INTC,Intel Corporation
-SDRL,SeaDrill Limited
-GORO,Gold Resource Corp
-FIZZ,National Beverage Corp.
-SIL,Global X Silver Miners ETF
-VOD,Vodafone Group plc
-SWKS,Skyworks Solutions Inc.
-NRP,Natural Resource Partners LP
-BRKS,Brooks Automation Inc.
-VNQ,Vanguard REIT Index ETF
-LVS,Las Vegas Sands Corp.
-RAD,Rite Aid Corp.
-WLL,Whiting Petroleum Corp.
-ZAGG,ZAGG Incorporated
-MHK,Mohawk Industries Inc.
-SPU,"SkyPeople Fruit Juice, Inc."
-MT,Arcelor Mittal
-GBR,"New Concept Energy, Inc."
-VAC,Marriott Vacations Worldwide Corporation
-UNH,"Unitedhealth Group, Inc."
-WGO,Winnebago Industries Inc.
-SHLD,Sears Holdings Corporation
-SPLK,Splunk
-X,United States Steel Corp.
-NRG,"NRG Energy, Inc."
-HTCO,Hickory Tech Corp.
-UPS,"United Parcel Service, Inc."
-HYG,iShares iBoxx $ High Yield Corporate Bd
-IONS,Ionis Pharmaceuticals Inc
-NGD,"New Gold, Inc."
-RCII,Rent-A-Center Inc.
-KEP,Korea Electric Power Corp.
-ITW,Illinois Tool Works Inc.
-PJP,PowerShares Dynamic Pharmaceuticals
-VSR,Versar Inc.
-CMP,Compass Minerals International Inc.
-WFC,Wells Fargo & Company
-K,Kellogg Company
-LXU,LSB Industries Inc.
-PTN,Palatin Technologies Inc.
-GEO,"The GEO Group, Inc."
-JBLU,JetBlue Airways Corporation
-V,"Visa, Inc."
-JASO,"JA Solar Holdings Co., Ltd."
-APT,Alpha Pro Tech Ltd.
-VNDA,"Vanda Pharmaceuticals, Inc."
-VXX,iPath S&P 500 VIX Short-Term Futures ETN
-SRPT,Sarepta Therapeutics Inc.
-AKS,AK Steel Holding Corporation
-LOCK,LifeLock
-DBC,PowerShares DB Commodity Index Tracking
 XLNX,Xilinx Inc.
-TSEM,Tower Semiconductor Ltd.
-QQQ,PowerShares Nasdaq-100 QQQ
-MMM,3M Co.
-CIEN,CIENA Corp.
-EW,Edwards Lifesciences Corp.
-ZIOP,"ZIOPHARM Oncology, Inc."
-CL,Colgate-Palmolive Co.
-GCI,"Gannett Co., Inc."
-SNY,Sanofi-Aventis
-AGX,"Argan, Inc."
-SDS,ProShares UltraShort S&P500
-SDY,SPDR S&P Dividend
-STEM,StemCells Inc.
-XLP,Consumer Staples Select Sector SPDR
-KGC,Kinross Gold Corporation
-EXFO,EXFO Inc
-LMNX,Luminex Corporation
-RXII,RXi Pharmaceuticals Corporation
-CRM,Salesforce.com
-ESV,Ensco plc
-ATLS,"Atlas Energy, Inc."
-CBMX,CombiMatrix Corporation
-ROCK,"Gibraltar Industries, Inc."
-MET,"MetLife, Inc."
-DIA,SPDR Dow Jones Industrial Average
-MO,Altria Group Inc.
-SANW,S&W Seed Company
-FNV,Franco Nevada Corporation
-BLK,"BlackRock, Inc."
-XBI,SPDR S&P Biotech
-LLY,Eli Lilly & Co.
-PG,Procter & Gamble Co.
-FCX,Freeport-McMoRan Copper & Gold Inc.
-CORN,Teucrium Corn
-FLDM,Fluidigm Corporation
-IL,"IntraLinks Holdings, Inc."
-STJ,St. Jude Medical Inc.
-DDD,3D Systems Corporation
-MSFT,Microsoft Corporation
-TROV,Trovagene Inc
-ALNY,"Alnylam Pharmaceuticals, Inc."
-EIS,iShares MSCI Israel Cap Invest Mkt Index
-LM,Legg Mason Inc.
-STX,Seagate Technology PLC
-CPRT,"Copart, Inc."
-NLS,Nautilus Inc.
-OIL,iPath S&P GSCI Crude Oil TR Index ETN
-CUZ,Cousins Properties Inc.
-MCD,McDonald's Corp.
-PTX,"Pernix Therapeutics Holdings, Inc."
-FRC,First Republic Bank
-IYR,iShares Dow Jones US Real Estate
-BIIB,Biogen Idec Inc.
-DEPO,DepoMed Inc.
-OAS,Oasis Petroleum Inc.
-WU,Western Union Co.
-ETP,Energy Transfer Partners L.P.
-CADC,"China Advanced Construction Materials Group, Inc."
-P,Pandora
-STI,"SunTrust Banks, Inc."
-THC,Tenet Healthcare Corp.
-SPXU,ProShares UltraPro Short S&P500
-MCF,Contango Oil & Gas Co.
-LNG,"Cheniere Energy, Inc."
-AMED,Amedisys Inc.
-AET,Aetna Inc.
-MEET,MeetMe Inc.
-UA,"Under Armour, Inc."
-T,"AT&T, Inc."
-NTGR,Netgear Inc.
-GILD,Gilead Sciences Inc.
-TEVA,Teva Pharmaceutical Industries Limited
-AIR,AAR Corp.
-PACB,"Pacific Biosciences of California, Inc."
-N,NetSuite Inc.
-HALO,"Halozyme Therapeutics, Inc."
-EGLE,"Eagle Bulk Shipping, Inc."
-KMI,"Kinder Morgan, Inc."
-IGT,International Game Technology
-DB,Deutsche Bank AG
-BAK,Braskem S.A.
-ISIL,Intersil Corporation
-JNJ,Johnson & Johnson
-DPS,"Dr Pepper Snapple Group, Inc."
-RIO,Rio Tinto plc
-IYT,iShares Dow Jones Transportation Average
-GEVO,"Gevo, Inc."
-DXD,ProShares UltraShort Dow30
-ABBV,AbbVie Inc.
-PGR,Progressive Corp.
-BBY,Best Buy Co. Inc.
-CBRL,"Cracker Barrel Old Country Store, Inc."
-AMGN,Amgen Inc.
-IWM,iShares Russell 2000 Index ETF
-LNKD,LinkedIn
-SPYG,SPDR S&P 500 Growth ETF
-NXPI,NXP Semiconductors NV
-MWA,"Mueller Water Products, Inc."
-NAT,Nordic American Tanker Shipping Ltd.
-RBS,Royal Bank of Scotland Group plc
-EEFT,Euronet Worldwide Inc.
-KLAC,KLA-Tencor Corporation
-SIG,Signet Jewelers Limited
-EWJ,iShares MSCI Japan Index
-WMT,Walmart Stores Inc.
-CAT,Caterpillar Inc.
-CVS,CVS Caremark Corporation
-CBS,CBS Corporation
-IPCI,IntelliPharmaCeutics International Inc.
-HIMX,"Himax Technologies, Inc."
-KSU,Kansas City Southern
-PRGO,Perrigo Co.
-LWAY,Lifeway Foods Inc.
-NVDA,NVIDIA Corporation
-WF,Woori Finance Holdings Co. Ltd.
-XLI,Industrial Select Sector SPDR
-HAL,Halliburton Company
-TNA,Direxion Daily Small Cap Bull 3X Shares
-AMN,Ameron International Corporation
-TMF,Direxion Daily 20+ Yr Trsy Bull 3X Shrs
-XLV,Health Care Select Sector SPDR
-PANW,"PALO ALTO NETWORKS, INC"
-IEC,IEC Electronics Corp.
-EWW,iShares MSCI Mexico Investable Mkt Idx
-BMRN,BioMarin Pharmaceutical Inc.
-UL,Unilever plc
-NNN,"National Retail Properties, Inc."
-EXEL,"Exelixis, Inc."
-NTRI,NutriSystem Inc.
-NSC,Norfolk Southern Corp.
-CCI,Crown Castle International Corp.
-GE,General Electric Co.
-PCLN,Priceline
-XME,SPDR S&P Metals & Mining
-ECHO,"Echo Global Logistics, Inc."
-GG,Goldcorp Inc.
-VALE,Vale S.A.
-GM,General Motors Company
-UVXY,ProShares Trust Ultra VIX Short-Term Futures ETF
-RGSE,"Real Goods Solar, Inc."
-BCOV,Brightcove
-UBNT,"Ubiquiti Networks, Inc."
-QCOM,QUALCOMM Incorporated
-NFLX,"Netflix, Inc."
-MS,Morgan Stanley
-VIXY,ProShares VIX Short-Term Futures ETF
-MNST,Monster Beverage Corporation
-VZ,Verizon Communications Inc.
-NE,Noble Corp.
-CXW,Corrections Corporation of America
-HON,Honeywell International Inc.
-EXPE,Expedia Inc.
-LPLA,LPL Investment Holdings Inc.
-HZNP,Horizon Pharma Inc
-AEG,AEGON N.V.
-AOSL,"Alpha & Omega Semiconductor, Ltd."
-CELG,Celgene Corporation
-MSTX,Mast Therapeutics Inc
-IJH,iShares S&P MidCap 400 Index
-KMG,KMG Chemicals Inc.
-SMH,VanEck Vectors Semiconductor ETF
-GOOG,Alphabet Inc. Class C
-LOW,Lowe's Companies Inc.
-ERIC,LM Ericsson Telephone Co.
-NOW,ServiceNow
-BUD,Anheuser-Busch InBev
-CYTR,CytRx Corporation
-BBH,Biotech HOLDRs
-CHK,Chesapeake Energy Corporation
-ARE,Alexandria Real Estate Equities Inc.
-UGAZ,VelocityShares 3x Long Natural Gas ETN
-IPHI,Inphi Corporation
-NWL,Newell Rubbermaid Inc.
-SWK,"Stanley Black & Decker, Inc."
-DRWI,DragonWave Inc.
-UUP,PowerShares DB US Dollar Index Bullish
-SVXY,Short VIX Short-Term Futures ETF
-MKSI,MKS Instruments Inc.
-IEF,iShares Barclays 7-10 Year Treasury
-LPI,Laredo Petroleum 
-ASX,Advanced Semiconductor Engineering Inc.
-VCEL,Vericel Corporation
-DVY,iShares Dow Jones Select Dividend Index
-SAR,Saratoga Investment Corp.
-IMPV,"IMPERVA, INC."
-PVG,Pretium Resources Inc.
-MBT,Mobile Telesystems OJSC
-XLY,Consumer Discret Select Sector SPDR
-SCO,ProShares UltraShort Bloomberg Crude Oil
-AAPL,Apple Inc.
-BRK.B,Berkshire Hathaway Inc.
-CGI,Celadon Group Inc.
-ZNGA,Zynga
-TIP,iShares Barclays TIPS Bond
-PII,"Polaris Industries, Inc."
-MFIN,Medallion Financial Corp.
-IBM,International Business Machines Corp.
-SOXL,Direxion Daily Semicondct Bull 3X Shares
-MON,Monsanto Co.
-ALJ,"Alon USA Energy, Inc."
-TSN,Tyson Foods Inc.
-VOXX,Audiovox Corporation
-ORCL,Oracle Corp.
-OCLR,"Oclaro, Inc."
-MUX,McEwen Mining Inc.
-GLOG,GasLog
-MRVL,Marvell Technology Group Ltd.
-SMP,Standard Motor Products Inc.
-UAL,"United Continental Holdings, Inc."
-IDRA,"Idera Pharmaceuticals, Inc."
-DX,Dynex Capital Inc.
-NANO,Nanometrics Incorporated
-XOM,Exxon Mobil Corporation
-HUM,Humana Inc.
-RICK,Rick's Cabaret International Inc.
-DMLP,Dorchester Minerals LP
-FSM,Fortuna Silver Mines Inc
-HOS,"Hornbeck Offshore Services, Inc."
-WMB,"Williams Companies, Inc."
-CLVS,"Clovis Oncology, Inc. "
-VRX,"Valeant Pharmaceuticals International, Inc."
-F,Ford Motor Co.
-CHKP,Check Point Software Technologies Ltd.
-TCK,Teck Resources Limited
-MGA,"Magna International, Inc."
-PACD,Pacific Drilling SA
-RDNT,"RadNet, Inc."
-PKG,Packaging Corp. of America
-INCY,Incyte Corporation
-UPRO,ProShares UltraPro S&P500
-ACAD,"ACADIA Pharmaceuticals, Inc."
-GS,"Goldman Sachs Group, Inc."
-UNG,United States Natural Gas
-RIC,Richmont Mines Inc.
-CSCO,"Cisco Systems, Inc."
-FN,Fabrinet
-DAL,Delta Air Lines Inc.
-CARB,"Carbonite, Inc"
-STT,State Street Corp.
-C,"Citigroup, Inc."
-PXD,Pioneer Natural Resources Co.
-MDLZ,"Mondelez International, Inc."
-IVV,iShares S&P 500 Index
-FTNT,Fortinet Inc.
-JNK,SPDR Barclays High Yield Bond ETF
-PFE,Pfizer Inc.
-JNPR,"Juniper Networks, Inc."
-AMRS,Amyris Biotechnologies Inc.
-LEDS,SemiLEDs Corporation
-TZA,Direxion Daily Small Cap Bear 3X Shares
-PPG,PPG Industries Inc.
-BSPM,"Biostar Pharmaceuticals, Inc."
+BAS,"Basic Energy Services, Inc."
+SYNA,Synaptics Inc.
 M,"Macy's, Inc."
-ALU,Alcatel-Lucent
-ACN,Accenture plc
-PBE,PowerShares Dynamic Biotech & Genome
-G,Genpact Ltd.
-DY,Dycom Industries Inc.
-MDVN,"Medivation, Inc."
-GPRO,GoPro
-ASPS,Altisource Portfolio Solutions S.A.
-PPL,PPL Corporation
-SQQQ,ProShares UltraPro Short QQQ
-S,Sprint Nextel Corp.
-SFUN,SouFun Holdings Ltd.
-FFIV,"F5 Networks, Inc."
-CTL,"CenturyLink, Inc."
-AGN,Allergan Inc.
-ADC,Agree Realty Corp.
-CSX,CSX Corp.
-NKE,Nike Inc.
-WIN,Windstream Corporation
-QID,ProShares UltraShort QQQ
-TQQQ,ProShares UltraPro QQQ
-BHP,BHP Billiton Ltd.
-BGFV,Big 5 Sporting Goods Corp.
-ELMD,"Electromed, Inc."
-SIMO,Silicon Motion Technology Corp.
-ARWR,Arrowhead Research Corp.
-BIB,ProShares Ultra Nasdaq Biotechnology
-AOS,AO Smith Corp.
-ATEC,"Alphatec Holdings, Inc."
-TV,Grupo Televisa SA
-RMTI,Rockwell Medical Technologies Inc.
-REN,Resolute Energy Corporation
-NVAX,"Novavax, Inc."
-UTX,United Technologies Corp.
-XLU,Utilities Select Sector SPDR
-TPL,Texas Pacific Land Trust
-SAP,SAP AG
-PUK,Prudential plc
-UCO,ProShares Ultra DJ-UBS Crude Oil
-KR,The Kroger Co.
-TWTR,Twitter
-MRK,Merck & Co. Inc.
-TVIX,VelocityShares Daily 2x VIX ST ETN
+HAS,Hasbro Inc.
+CYOU,Changyou.com Limited
+HSBC,HSBC Holdings plc
+NWL,Newell Rubbermaid Inc.
+ILF,iShares S&P Latin America 40 Index
+CSIQ,Canadian Solar Inc.
+BAA,Banro Corporation
+EWG,iShares MSCI Germany Index
+TWER,TowerStream Corporation
+BWP,"Boardwalk Pipeline Partners, LP"
+ADTN,ADTRAN Inc.
+PETS,PetMed Express Inc.
+MGH,Minco Gold Corporation
+LGF,Lions Gate Entertainment Corp.
+MRTN,Marten Transport Ltd.
+AMBA,"Ambarella, Inc."
+POT,"Potash Corp. of Saskatchewan, Inc."
+CGI,Celadon Group Inc.
+FDX,FedEx Corporation
+WDC,Western Digital Corp.
+GG,Goldcorp Inc.
+FAZ,Direxion Daily Financial Bear 3X Shares
+LNN,Lindsay Corporation
+ORCL,Oracle Corp.
+XRA,Exeter Resource Corporation
+CCL,Carnival Corporation
+RF,Regions Financial Corp.
+BAX,Baxter International Inc.
+NOG,"Northern Oil and Gas, Inc."
+CUT,Guggenheim Timber
+ST,Sensata Technologies Holding NV
+CTRP,Ctrip.com International Ltd.
+PEP,"PepsiCo, Inc."
+JBHT,JB Hunt Transport Services Inc.
+RWR,SPDR Dow Jones REIT
+DV,"DeVry, Inc."
+ICE,"IntercontinentalExchange, Inc."
+XLB,Materials Select Sector SPDR
+TDC,Teradata Corporation
+SGY,Stone Energy Corp.
+AIG,"American International Group, Inc."
+SFLY,"Shutterfly, Inc."
+SHW,The Sherwin-Williams Company
+LLL,L-3 Communications Holdings Inc.
+AEZS,AEterna Zentaris Inc. (USA)
+UN,Unilever NV
+MTRN,Materion Corporation
+VNET,21Vianet Group Inc.
+EWZ,iShares MSCI Brazil Index
+DB,Deutsche Bank AG
+DIS,Walt Disney Co.
+XRT,SPDR S&P Retail
+MTB,M&T Bank Corp.
+EEM,iShares MSCI Emerging Markets Index
+BLK,"BlackRock, Inc."
+NAT,Nordic American Tanker Shipping Ltd.
 ARIA,Ariad Pharmaceuticals Inc.
-PPLT,ETFS Physical Platinum Shares
+CHK,Chesapeake Energy Corporation
+MMM,3M Co.
+SDRL,SeaDrill Limited
+UPRO,ProShares UltraPro S&P500
+JNPR,"Juniper Networks, Inc."
+FIVE,Five Below Inc.
+FBT,First Trust NYSE Arca Biotech Index
+RJA,ELEMENTS Rogers Intl Commodity Agri ETN
+VMW,"VMware, Inc."
+DIA,SPDR Dow Jones Industrial Average
+ETR,Entergy Corporation
+PPL,PPL Corporation
+BOSC,B.O.S. Better Online Solutions Ltd.
+PXD,Pioneer Natural Resources Co.
+WLB,Westmoreland Coal Co.
+WMB,"Williams Companies, Inc."
+BKD,Brookdale Senior Living Inc.
+BRK.B,Berkshire Hathaway Inc.
+HAIN,"The Hain Celestial Group, Inc."
+TRQ,Turquoise Hill Resources Ltd
+ALXN,"Alexion Pharmaceuticals, Inc."
+XIV,VelocityShares Daily Inverse VIX ST ETN
+VXX,iPath S&P 500 VIX Short-Term Futures ETN
+SOXL,Direxion Daily Semicondct Bull 3X Shares
+FAST,Fastenal Co.
+EIX,Edison International
+RAI,Reynolds American Inc.
+HE,Hawaiian Electric Industries Inc.
+SSYS,Stratasys Inc.
+CHII,Global X China Industrials ETF
+PCLN,Priceline
+BANC,Banc of California
+SGYP,"Synergy Pharmaceuticals, Inc."
+PBI,Pitney Bowes Inc.
+DTE,DTE Energy Co.
+PNM,"PNM Resources, Inc."
+P,Pandora
+UA,"Under Armour, Inc."
+GNC,GNC Corp.
+ZTS,Zoetis Inc.
+IBB,iShares Nasdaq Biotechnology ETF
+GDX,VanEck Vectors Gold Miners ETF
+IBKR,"Interactive Brokers Group, Inc."
+STS,Supreme Industries Inc.
+GSK,GlaxoSmithKline plc
+FTR,Frontier Communications Corporation
+CLD,Cloud Peak Energy Inc.
+FITB,Fifth Third Bancorp
+ALTR,Altera Corp.
+VIXY,ProShares VIX Short-Term Futures ETF
+YUM,"Yum! Brands, Inc."
+MGT,MGT Capital Investments
 JPM,JPMorgan Chase & Co.
+PPP,Primero Mining Corp.
+AEO,"American Eagle Outfitters, Inc."
+DNR,Denbury Resources Inc.
+HUM,Humana Inc.
+FVE,Five Star Quality Care Inc.
+ES,Eversource Energy
+GBR,"New Concept Energy, Inc."
+MACK,Merrimack Pharmaceuticals
+ETAK,Elephant Talk Communications Inc
+UNM,Unum Group
+TLT,iShares 20+ Year Treasury Bond ETF
+JJC,iPath DJ-UBS Copper TR Sub-Idx ETN
+GTXI,GTX Inc.
+VNR,"Vanguard Natural Resources, LLC"
+EZA,iShares MSCI South Africa Index
+NFLX,"Netflix, Inc."
+CBS,CBS Corporation
+CMA,Comerica Incorporated
+XOM,Exxon Mobil Corporation
+PBR,Petroleo Brasileiro
+UVXY,ProShares Trust Ultra VIX Short-Term Futures ETF
+UNG,United States Natural Gas
+KR,The Kroger Co.
+DO,Diamond Offshore Drilling Inc.
+DES,WisdomTree SmallCap Dividend
+BIB,ProShares Ultra Nasdaq Biotechnology
+OI,"Owens-Illinois, Inc."
+NTGR,Netgear Inc.
+AMRS,Amyris Biotechnologies Inc.
+CUB,Cubic Corporation
+S,Sprint Nextel Corp.
+EA,Electronic Arts Inc.
+WEAT,Teucrium Wheat Fund
+ESNC,EnSync Inc.
+CORN,Teucrium Corn
+XRX,Xerox Corp.
+STX,Seagate Technology PLC
+AET,Aetna Inc.
+HIT,Hitachi Ltd.
+SHY,iShares Barclays 1-3 Year Treasury Bond
+SQQQ,ProShares UltraPro Short QQQ
+SNP,China Petroleum & Chemical Corp.
+IYM,iShares Dow Jones US Basic Materials
+EXPR,Express Inc.
+XCO,EXCO Resources Inc.
+KMI,"Kinder Morgan, Inc."
+SN,Sanchez Energy Corp
+VAC,Marriott Vacations Worldwide Corporation
+NKX,Nuveen Insured California Tax Free Advantage Municipal Fund
+BIS,ProShares UltraShort Nasdaq Biotech
+TDW,Tidewater Inc.
+XLP,Consumer Staples Select Sector SPDR
+DY,Dycom Industries Inc.
+MSCC,Microsemi Corp.
+LLY,Eli Lilly & Co.
+NTES,"NetEase.com, Inc."
+YANG,Direxion Daily China Bear 3X Shares
+GWR,Genesee & Wyoming Inc.
+WM,"Waste Management, Inc."
+VNDA,"Vanda Pharmaceuticals, Inc."
+XME,SPDR S&P Metals & Mining
+VTR,"Ventas, Inc."
+FXZ,First Trust Materials AlphaDEX
+TWX,Time Warner Inc.
+ABX,Barrick Gold Corporation
+VRX,"Valeant Pharmaceuticals International, Inc."
+ABT,Abbott Laboratories
+KSS,Kohl's Corp.
+NFX,Newfield Exploration Co.
+TOT,Total SA
+WGO,Winnebago Industries Inc.
+TOL,Toll Brothers Inc.
+PCG,PG & E Corp.
+SPH,Suburban Propane Partners LP
+SQM,Chemical & Mining Co. of Chile Inc.
+EXPE,Expedia Inc.
+XBI,SPDR S&P Biotech
+CPA,Copa Holdings SA
+ERIC,LM Ericsson Telephone Co.
+CXW,Corrections Corporation of America
+TIP,iShares Barclays TIPS Bond
+UTX,United Technologies Corp.
+TBT,ProShares UltraShort 20+ Year Treasury
+SINA,Sina Corp.
+TRIB,Trinity Biotech plc
+STEM,StemCells Inc.
+EDZ,Direxion Daily Emrg Mkts Bear 3X Shares
+PTN,Palatin Technologies Inc.
+DG,Dollar General Corporation
+CSC,Computer Sciences Corporation
+UG,United-Guardian Inc.
+BNS,The Bank Of Nova Scotia
+LPLA,LPL Investment Holdings Inc.
+USCR,US Concrete Inc.
+AG,First Majestic Silver Corp.
+URRE,"Uranium Resources, Inc."
+SM,SM Energy Company
+HZNP,Horizon Pharma Inc
+KOLD,UltraShort DJ-UBS Natural Gas
+WSM,Williams-Sonoma Inc.
+USO,United States Oil ETF
+ITRI,"Itron, Inc."
+MT,Arcelor Mittal
+UAL,"United Continental Holdings, Inc."
+EZU,iShares MSCI EMU Index
+ROK,Rockwell Automation Inc.
+VIA.B,"Viacom, Inc."
+SLV,iShares Silver Trust
+VUG,Vanguard Growth ETF
+SPXU,ProShares UltraPro Short S&P500
+PBMD,Prima Biomed Ltd 
+AAU,Almaden Minerals Ltd.
+OIH,Oil Services HOLDRs
+SVU,SUPERVALU Inc.
+MU,Micron Technology Inc.
+ED,Consolidated Edison Inc.
+CVX,Chevron Corp.
+NAK,Northern Dynasty Minerals Ltd.
+SCO,ProShares UltraShort Bloomberg Crude Oil
+SJR,"Shaw Communications, Inc."
+PEG,Public Service Enterprise Group Inc.
+RMTI,Rockwell Medical Technologies Inc.
+NRG,"NRG Energy, Inc."
+BRK.A,Berkshire Hathaway Inc.
+SHPG,Shire plc
+CMG,"Chipotle Mexican Grill, Inc."
+MYL,"Mylan, Inc."
+MPC,Marathon Petroleum Corporation
+TSM,Taiwan Semiconductor Manufacturing Co. Ltd.
+REN,Resolute Energy Corporation
+BEAV,BE Aerospace Inc.
+CS,Credit Suisse Group
+CZZ,Cosan Ltd.
+AVGO,Broadcom
+EPI,WisdomTree India Earnings
+AEGR,"Aegerion Pharmaceuticals, Inc."
+Z,Zillow Class C
+INO,"Inovio Pharmaceuticals, Inc."
+AKRX,"Akorn, Inc."
+RHS,Rydex S&P Equal Weight Consumer Staples
+SGEN,Seattle Genetics Inc.
+LPI,Laredo Petroleum 
+MSFT,Microsoft Corporation
+WEC,Wisconsin Energy Corp.
+SBUX,Starbucks Corporation
+BBL,BHP Billiton plc
+CSCO,"Cisco Systems, Inc."
+WFM,"Whole Foods Market, Inc."
+IEF,iShares Barclays 7-10 Year Treasury
+COT,Cott Corporation
+LXU,LSB Industries Inc.
+HON,Honeywell International Inc.
+MDT,"Medtronic, Inc."
+XLY,Consumer Discret Select Sector SPDR
+JBLU,JetBlue Airways Corporation
+SNE,Sony Corporation
+FISV,"Fiserv, Inc."
+RSX,VanEck Vectors Russia ETF
+MTU,"Mitsubishi UFJ Financial Group, Inc."
+SJM,The J. M. Smucker Company
+PNR,"Pentair, Inc."
+PG,Procter & Gamble Co.
+SO,Southern Company
+ALK,"Alaska Air Group, Inc."
+TPLM,Triangle Petroleum Corporation
+NVAX,"Novavax, Inc."
+ABC,AmerisourceBergen Corporation
+RAD,Rite Aid Corp.
+VNQ,Vanguard REIT Index ETF
+TWTR,Twitter
+FXY,CurrencyShares Japanese Yen Trust
+ATVI,"Activision Blizzard, Inc."
+NYMT,New York Mortgage Trust Inc.
+NE,Noble Corp.
+SMH,VanEck Vectors Semiconductor ETF
+VGZ,Vista Gold Corp.
+AAP,Advance Auto Parts Inc.
+AKS,AK Steel Holding Corporation
+TM,Toyota Motor Corp.
+THM,International Tower Hill Mines Ltd.
+BRID,Bridgford Foods Corp.
+PTX,"Pernix Therapeutics Holdings, Inc."
+UBNT,"Ubiquiti Networks, Inc."
+DATA,Tableau Software
+THC,Tenet Healthcare Corp.
+NUGT,Direxion Daily Gold Miners Bull 3X Shrs
+UHS,Universal Health Services Inc.
+BHP,BHP Billiton Ltd.
+TQQQ,ProShares UltraPro QQQ
+SODA,SodaStream International Ltd.
+DGS,WisdomTree Emerging Mkts SmallCap Div
+X,United States Steel Corp.
+IYR,iShares Dow Jones US Real Estate
+LMT,Lockheed Martin Corporation
+COG,Cabot Oil & Gas Corporation
+WLL,Whiting Petroleum Corp.
+STT,State Street Corp.
+ETRM,"EnteroMedics, Inc."
+SIRI,SIRIUS XM Radio Inc.
+AES,The AES Corporation
+TRV,"The Travelers Companies, Inc."
+THD,iShares MSCI Thailand Invest Mkt Index
+BBRY,BlackBerry
+HOG,"Harley-Davidson, Inc."
+DISH,Dish Network Corp.
+VCR,Vanguard Consumer Discretionary ETF
+MNKD,MannKind Corp.
+ZUMZ,"Zumiez, Inc."
+FSLR,"First Solar, Inc."
+MENT,Mentor Graphics Corp.
+PFG,Principal Financial Group Inc.
+CNI,Canadian National Railway Company
+HSY,Hershey Co.
+LEA,Lear Corp.
+SRPT,Sarepta Therapeutics Inc.
+OXY,Occidental Petroleum Corporation
+TJX,"The TJX Companies, Inc."
+VAL,The Valspar Corporation
+ROST,Ross Stores Inc.
+EFII,"Electronics for Imaging, Inc."
+SKX,Skechers USA Inc.
+NEE,"NextEra Energy, Inc."
+V,"Visa, Inc."
+LVS,Las Vegas Sands Corp.
+DUK,Duke Energy Corporation
+AKAM,Akamai Technologies Inc.
+MWA,"Mueller Water Products, Inc."
+MGA,"Magna International, Inc."
+NI,NiSource Inc.
+HYG,iShares iBoxx $ High Yield Corporate Bd
+SAP,SAP AG
+RGLD,"Royal Gold, Inc."
+HBHC,Hancock Holding Co.
+BOIL,ProShares Ultra DJ UBS Natural
+PNC,PNC Financial Services Group Inc.
+IBM,International Business Machines Corp.
+K,Kellogg Company
+ADM,Archer Daniels Midland Company
+GLD,SPDR Gold Shares
+SPLV,PowerShares Exchange-Traded Fund Trust II
+DBA,PowerShares DB Agriculture
+CHKP,Check Point Software Technologies Ltd.
+KOL,VanEck Vectors Coal ETF
+CAT,Caterpillar Inc.
+AUY,"Yamana Gold, Inc."
+SPWR,SunPower Corporation
+BFS,Saul Centers Inc.
+AXP,American Express Company
+FB,Facebook
+UUP,PowerShares DB US Dollar Index Bullish
+INCY,Incyte Corporation
+NBR,Nabors Industries Ltd.
+EWT,iShares MSCI Taiwan Index
+EW,Edwards Lifesciences Corp.
+REGN,"Regeneron Pharmaceuticals, Inc."
+EWA,iShares MSCI Australia Index
+PEJ,PowerShares Dynamic Leisure & Entertain
+NFEC,NF Energy Saving Corp.
+DECK,Deckers Outdoor Corp.
+F,Ford Motor Co.
+USD,ProShares Ultra Semiconductors
+RRTS,"Roadrunner Transportation Systems, Inc."
+INTC,Intel Corporation
+LM,Legg Mason Inc.
+VHT,Vanguard Health Care ETF
+GILD,Gilead Sciences Inc.
+IGOV,iShares S&P/Citi Intl Treasury Bond
+MBT,Mobile Telesystems OJSC
+XHB,SPDR S&P Homebuilders
+OGXI,"OncoGenex Pharmaceuticals, Inc."
+AGN,Allergan Inc.
+CDE,Coeur d`Alene Mines Corporation
+VOXX,Audiovox Corporation
+ITUB,Ita
+TCK,Teck Resources Limited
+UNP,Union Pacific Corporation
+REED,"REEDS, Inc."
+GS,"Goldman Sachs Group, Inc."
+AUMN,Golden Minerals Company
+AGG,iShares Barclays Aggregate Bond
+SVXY,Short VIX Short-Term Futures ETF
+OMER,Omeros Corporation
+NVDA,NVIDIA Corporation
+ENZ,Enzo Biochem Inc.
+SPLK,Splunk
+EL,Estee Lauder Companies Inc.
+STAG,"Stag Industrial, Inc. Common St"
+TXN,Texas Instruments Inc.
+AWK,"American Water Works Company, Inc."
+NOC,Northrop Grumman Corporation
+PTIE,Pain Therapeutics Inc.
+CI,CIGNA Corporation
+FCFS,First Cash Financial Services Inc.
+KMG,KMG Chemicals Inc.
+CELG,Celgene Corporation
+GAZ,iPath DJ-UBS Natural Gas TR Sub-Idx ETN
+CU,First Trust ISE Global Copper Index
+KGJI,"Kingold Jewelry, Inc."
+FDN,First Trust Dow Jones Internet Index
+AZN,AstraZeneca PLC
+SWKS,Skyworks Solutions Inc.
+COGT,Cogint Inc.
+NKE,Nike Inc.
+CPN,Calpine Corp.
+KBE,SPDR KBW Bank
+EXC,Exelon Corp.
+KO,The Coca-Cola Company
+JNJ,Johnson & Johnson
+UGI,UGI Corp.
+ESS,Essex Property Trust Inc.
+RPAI,"Retail Properties of America, Inc."
+EXI,iShares S&P Global Industrials
+JCP,"J. C. Penney Company, Inc."
+MDR,McDermott International Inc.
+TZA,Direxion Daily Small Cap Bear 3X Shares
+T,"AT&T, Inc."
+IPCI,IntelliPharmaCeutics International Inc.
+AMGN,Amgen Inc.
+FLDM,Fluidigm Corporation
+BP,BP plc
+FIG,Fortress Investment Group LLC
+KKR,Kohlberg Kravis Roberts & Co.
+EDC,Direxion Daily Emrg Mkts Bull 3X Shares
+AMZN,Amazon.com Inc.
+MO,Altria Group Inc.
+APC,Anadarko Petroleum Corporation
+NDAQ,Nasdaq OMX Group Inc.
+PKG,Packaging Corp. of America
+STM,STMicroelectronics NV
+ATI,Allegheny Technologies Inc.
+HRL,Hormel Foods Corp.
+DKS,Dick's Sporting Goods Inc.
+FXB,CurrencyShares British Pound Sterling Tr
+BID,Sotheby's
+SIMO,Silicon Motion Technology Corp.
+EWI,iShares MSCI Italy Index
+WWD,"Woodward, Inc."
+EMN,Eastman Chemical Co.
+HIMX,"Himax Technologies, Inc."
+EWH,iShares MSCI Hong Kong Index
+MOS,Mosaic Co.
+AU,AngloGold Ashanti Ltd.
+ISRG,"Intuitive Surgical, Inc."
+BBBY,"Bed Bath & Beyond, Inc."
+AREX,"Approach Resources, Inc."
+DRH,Diamondrock Hospitality Co.
+C,"Citigroup, Inc."
+MELI,"Mercadolibre, Inc."
+FAS,Direxion Daily Financial Bull 3X Shares
+BKF,iShares MSCI BRIC Index
+CBSH,Commerce Bancshares Inc.
+DD,EI DuPont de Nemours & Co.
+PZZA,Papa John's International Inc.
+GPRO,GoPro
+AEM,Agnico Eagle Mines Ltd.
+ERJ,Embraer SA
+PACB,"Pacific Biosciences of California, Inc."
+DLN,WisdomTree LargeCap Dividend
+CRZO,Carrizo Oil & Gas Inc.
+GOOG,Alphabet Inc. Class C
+NFG,National Fuel Gas Co.
+ZIOP,"ZIOPHARM Oncology, Inc."
+EWQ,iShares MSCI France Index
+BK,The Bank of New York Mellon Corporation
+CENX,Century Aluminum Co.
+WBA,Walgreens Boots Alliance
+MS,Morgan Stanley
+AAPL,Apple Inc.
+GSS,"Golden Star Resources, Ltd."
+CNX,CONSOL Energy Inc.
+BBY,Best Buy Co. Inc.
+AEE,Ameren Corporation
+GIS,"General Mills, Inc."
+EXEL,"Exelixis, Inc."
+CRC,California Resources Corporation
+BRF,Market Vectors Brazil Small-Cap ETF
+BX,The Blackstone Group
+AA,Alcoa Inc.
+CMCSA,Comcast Corporation
+NHTC,Natural Health Trends Corp.
+NEM,Newmont Mining Corp.
+DE,Deere & Company
+VALE,Vale S.A.
+QQQ,PowerShares Nasdaq-100 QQQ
+SCTY,SolarCity
+PPC,Pilgrim's Pride Corporation
+PTEN,Patterson-UTI Energy Inc.
+RIG,Transocean Ltd.
+PNS,Pinnacle Data Systems Inc.
+HAL,Halliburton Company
+GRPN,Groupon
+EWY,iShares MSCI South Korea Index
+ARI,"Apollo Commercial Real Estate Finance, Inc."
+KGC,Kinross Gold Corporation
+MRK,Merck & Co. Inc.
+OPTT,"Ocean Power Technologies, Inc"
+SYMC,Symantec Corporation
+CVTI,"Covenant Transportation Group, Inc."
+AGX,"Argan, Inc."
+OMC,Omnicom Group Inc.
+COST,Costco Wholesale Corporation
+NGD,"New Gold, Inc."
+YNDX,Yandex N.V.
+CRK,Comstock Resources Inc.
+IVV,iShares S&P 500 Index
+HBI,Hanesbrands Inc.
+RYU,Rydex S&P Equal Weight Utilities
+FXI,iShares FTSE China 25 Index Fund
+AEG,AEGON N.V.
+URBN,Urban Outfitters Inc.
+EXAS,Exact Sciences Corporation
+TSU,TIM Participacoes S.A.
+AXL,American Axle & Manufacturing Holdings Inc.
+PAA,"Plains All American Pipeline, L.P."
+AMTD,TD AMERITRADE Holding Corporation
+IAG,IAMGOLD Corp.
+HD,"The Home Depot, Inc."
+SCI,Service Corp. International
+TXT,Textron Inc.
+VFH,Vanguard Financials ETF
+XLF,Financial Select Sector SPDR
+PSEC,Prospect Capital Corporation
+BMRN,BioMarin Pharmaceutical Inc.
+BDSI,BioDelivery Sciences International Inc.
+PEK,VanEck Vectors China ETF
+SRE,Sempra Energy
+ITB,iShares Dow Jones US Home Construction
+MA,MasterCard Incorporated
+SOYB,Teucrium Soybean
+FTNT,Fortinet Inc.
+PQ,PetroQuest Energy Inc.
+ALNY,"Alnylam Pharmaceuticals, Inc."
+PGM,iPath DJ-UBS Platinum TR Sub-Idx ETN
+BIIB,Biogen Idec Inc.
+USB,U.S. Bancorp
+NBIX,Neurocrine Biosciences Inc.
+KORS,Michael Kors Holdings Ltd
+CNP,"CenterPoint Energy, Inc."
+DBB,PowerShares DB Base Metals
+JNK,SPDR Barclays High Yield Bond ETF
+OAS,Oasis Petroleum Inc.
+MDLZ,"Mondelez International, Inc."
+ULTA,"Ulta Salon, Cosmetics & Fragrance, Inc."
+YINN,Direxion Daily China Bull 3X Shares
+XLU,Utilities Select Sector SPDR
+TGD,Timmins Gold Corp
+EWD,iShares MSCI Sweden Index
+SLB,Schlumberger Limited
+SZO,PowerShares DB Crude Oil Short ETN
+IPHI,Inphi Corporation
+FHN,First Horizon National Corp.
+NVS,Novartis AG
+WYNN,Wynn Resorts Ltd.
+ILMN,Illumina Inc.
+RRC,Range Resources Corporation
+GPS,Gap Inc.
+OPK,"Opko Health, Inc."
+XLK,Technology Select Sector SPDR
+CAR,"Avis Budget Group, Inc."
+LNT,Alliant Energy Corporation
+GME,GameStop Corp.
+CORT,Corcept Therapeutics Inc.
+XLI,Industrial Select Sector SPDR
+GEVO,"Gevo, Inc."
+QCOM,QUALCOMM Incorporated
+CSX,CSX Corp.
+RYAAY,Ryanair Holdings plc
+CMTL,Comtech Telecommunications Corp.
+COH,Coach Inc.
+DLTR,"Dollar Tree, Inc."
+DOW,The Dow Chemical Company
+IILG,"Interval Leisure Group, Inc."
+ADPT,ADPT Corp
+UPS,"United Parcel Service, Inc."
+SYK,Stryker Corp.
+BG,Bunge Limited
+KOOL,Cesca Therapeutics
+ARLP,Alliance Resource Partners LP
+INFY,Infosys Technologies Limited
+PAG,"Penske Automotive Group, Inc."
+ITA,iShares Dow Jones US Aerospace & Defense
+PGR,Progressive Corp.
+MCD,McDonald's Corp.
+FEP,Franklin Electronic Publishers Inc.
+CF,"CF Industries Holdings, Inc."
+HPQ,Hewlett-Packard Company
+MSTX,Mast Therapeutics Inc
+TSLA,"Tesla Motors, Inc."
+SWX,Southwest Gas Corporation
+BTU,Peabody Energy Corp.
+NVO,Novo Nordisk A/S
+ITC,ITC Holdings Corp.
+HNR,Harvest Natural Resources Inc.
+TEVA,Teva Pharmaceutical Industries Limited
+IWM,iShares Russell 2000 Index ETF
+EBR,Centrais Electricas Brasileiras S.A.
+COLM,Columbia Sportswear Company
+XLV,Health Care Select Sector SPDR
+CRH,CRH plc
+DVN,Devon Energy Corporation
+IMPV,"IMPERVA, INC."
+PFE,Pfizer Inc.
+BA,Boeing Co.
+EBIX,Ebix Inc.
+GDXJ,VanEck Vectors Junior Gold Miners ETF
+NOK,Nokia Corporation
+VOD,Vodafone Group plc
+GFI,Gold Fields Ltd.
+XLE,Energy Select Sector SPDR
+MXI,iShares S&P Global Materials
+RY,Royal Bank of Canada
+UL,Unilever plc
+HOS,"Hornbeck Offshore Services, Inc."
+SLW,Silver Wheaton Corp.
+BBG,Bill Barrett Corp.
+SWK,"Stanley Black & Decker, Inc."
+DHR,Danaher Corp.
+FE,FirstEnergy Corp.
+MFC,Manulife Financial Corporation
+EGO,Eldorado Gold Corp.
+UGAZ,VelocityShares 3x Long Natural Gas ETN
+HBAN,Huntington Bancshares Inc.
+IAU,iShares Gold Trust
+DLPH,Delphi Automotive Plc
+ACAD,"ACADIA Pharmaceuticals, Inc."
+SDS,ProShares UltraShort S&P500
+WPZ,Williams Partners L.P.
+SPU,"SkyPeople Fruit Juice, Inc."
+PRMW,Primo Water Corporation
+SPHB,PowerShares S&P 500 High Beta
+CTXS,"Citrix Systems, Inc."
+OIL,iPath S&P GSCI Crude Oil TR Index ETN
+MON,Monsanto Co.
+HCA,"HCA Holdings, Inc. Common Stock"
+WERN,Werner Enterprises Inc.
+SLX,Market Vectors Steel ETF
+WMT,Walmart Stores Inc.
+YHOO,Yahoo! Inc.
+REXX,Rex Energy Corporation
+ATRS,Antares Pharma Inc.
+LNKD,LinkedIn
+DDD,3D Systems Corporation
+JO,iPath DJ-UBS Coffee TR Sub-Idx ETN
+RCII,Rent-A-Center Inc.
+BIDU,"Baidu, Inc."
+SOXX,iShares PHLX SOX Semiconductor Sector
+VZ,Verizon Communications Inc.
+BSBR,Banco Santander (Brasil) S.A.
+MRO,Marathon Oil Corporation
+SCHW,Charles Schwab Corp.
+ISBC,Investors Bancorp Inc.
+SOXS,Direxion Daily Semicondct Bear 3X Shares
+AMAT,Applied Materials Inc.
+ETFC,E*TRADE Financial Corporation
+FSM,Fortuna Silver Mines Inc
+PODD,Insulet Corporation
+CEMP,Cempra
+DGAZ,VelocityShares 3x Inverse Natural Gas ETN
+RIO,Rio Tinto plc
+CVS,CVS Caremark Corporation
+ICPT,"Intercept Pharmaceuticals, Inc."
+EWU,iShares MSCI United Kingdom Index
+RFG,Rydex S&P Midcap 400 Pure Growth
+DBC,PowerShares DB Commodity Index Tracking
+MUX,McEwen Mining Inc.
+CXO,"Concho Resources, Inc."
+TGT,Target Corp.
+KMB,Kimberly-Clark Corporation
+IYT,iShares Dow Jones Transportation Average
+BMY,Bristol-Myers Squibb Company
+D,"Dominion Resources, Inc."
+NSU,Nevsun Resources Ltd.
+IP,International Paper Co.
+AMD,"Advanced Micro Devices, Inc."
+REZ,iShares FTSE NAREIT Resid Plus Cp Idx
+UFS,Domtar Corporation
+IEX,IDEX Corporation
+CTSH,Cognizant Technology Solutions Corp.
+CB,The Chubb Corporation
+IWF,iShares Russell 1000 Growth Index
+WFC,Wells Fargo & Company
+TRX,Tanzanian Royalty Exploration Corp.
+CRM,Salesforce.com
+ROYT,Pacific Coast Oil Trust
+ABBV,AbbVie Inc.
+CVY,Guggenheim Multi-Asset Income
+SGMS,Scientific Games Corporation
+GOLD,Randgold Resources Ltd.
+RGSE,"Real Goods Solar, Inc."
+ALGT,Allegiant Travel Company
+AYR,Aircastle LTD
+KRE,SPDR KBW Regional Banking
+HMC,"Honda Motor Co., Ltd."
+SWFT,"Swift Transportation Co., LLC"
+IYJ,iShares Dow Jones US Industrial
+VWO,Vanguard MSCI Emerging Markets ETF
+FRC,First Republic Bank
+PPG,PPG Industries Inc.
+GE,General Electric Co.
+TSN,Tyson Foods Inc.
+LUV,Southwest Airlines Co.
+AMCX,AMC Networks Inc
+EGAS,Gas Natural Inc.
+PBF,PBF Energy Inc.
+MAT,Mattel Inc.
+MYGN,Myriad Genetics Inc.
+JKG,iShares Morningstar Mid Core Index
+NXPI,NXP Semiconductors NV
+IMAX,IMAX Corporation
+CLX,Clorox Corporation
+HMY,Harmony Gold Mining Co. Ltd.
+HTZ,"Hertz Global Holdings, Inc."
+EWW,iShares MSCI Mexico Investable Mkt Idx
+HK,Halcon Resources Corp.
+NTRS,Northern Trust Corporation
+SCHB,Schwab U.S. Broad Market ETF
+PWE,Penn West Petroleum Ltd.
+KERX,Keryx Biopharmaceuticals Inc.
+EWC,iShares MSCI Canada Index
+HA,Hawaiian Holdings Inc.
+DAL,Delta Air Lines Inc.
+BSPM,"Biostar Pharmaceuticals, Inc."
+ENH,Endurance Specialty Holdings Ltd.
+ASML,ASML Holding NV
+ABB,ABB Ltd.
+HL,Hecla Mining Co.
+USLV,VelocityShares 3x Long Silver ETN
+SNY,Sanofi-Aventis
+SNV,Synovus Financial Corp.
+LII,"Lennox International, Inc."
+PICO,PICO Holdings Inc.
+RGA,Reinsurance Group of America Inc.
+PANW,"PALO ALTO NETWORKS, INC"
+EWJ,iShares MSCI Japan Index
+MSI,"Motorola Solutions, Inc."
+PUK,Prudential plc
+LODE,Comstock Mining
+NSC,Norfolk Southern Corp.
+RPM,RPM International Inc.
+LOW,Lowe's Companies Inc.
+HTLD,"Heartland Express, Inc."
+CHTR,Charter Communications Inc.
+DEPO,DepoMed Inc.
+IRET,Investors Real Estate Trust
+WY,Weyerhaeuser Co.
+SYT,Syngenta AG
+TVIX,VelocityShares Daily 2x VIX ST ETN
+DFRG,"Del Frisco's Restaurant Group, LLC"
+TNA,Direxion Daily Small Cap Bull 3X Shares
+APA,Apache Corp.
+GM,General Motors Company
+SYRG,Synergy Resources Corp
+BAC,Bank of America Corporation
+JASO,"JA Solar Holdings Co., Ltd."
+CMS,CMS Energy Corp.
+IRWD,Ironwood Pharmaceuticals Inc.
+CL,Colgate-Palmolive Co.
+IYK,iShares Dow Jones US Consumer Goods
+SPY,SPDR S&P 500
+FCX,Freeport-McMoRan Copper & Gold Inc.
+PKY,Parkway Properties Inc.
+EBAY,eBay Inc.
+DRN,Direxion Daily Real Estate Bull 3X Shrs
+NUE,Nucor Corporation
+XOP,SPDR S&P Oil & Gas Exploration & Prod
+ACH,Aluminum Corporation Of China Limited
+IDRA,"Idera Pharmaceuticals, Inc."
+MDY,SPDR S&P MidCap 400
+VCEL,Vericel Corporation
+PM,"Philip Morris International, Inc."
+UCO,ProShares Ultra DJ-UBS Crude Oil
+BKS,"Barnes & Noble, Inc."
+LULU,Lululemon Athletica Inc.
+CPRX,Catalyst Pharmaceutical Partners Inc.
