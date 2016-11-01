@@ -1,1840 +1,368 @@
 degree,industry,name,title
-58,[],NDX,NASDAQ 100
-16,['Exchange Traded Fund'],PZT,PowerShares Insured New York Muni Bond
-9,[],NYLD,"NRG Yield, Inc."
-79,[],TBPH,"Theravance Biopharma, Inc."
-6,['Exchange Traded Fund'],PSCE,PowerShares S&P SmallCap Energy
-12,['Exchange Traded Fund'],RETL,Direxion Daily Retail Bull 2X Shares
-12,['Restaurants'],DFRG,"Del Frisco's Restaurant Group, LLC"
-14,['Semiconductor - Broad Line'],NPTN,NeoPhotonics Corporation
-19,[],NQ_F,E-Mini NASDAQ 100 Futures
-10,['Sporting Goods'],NLS,Nautilus Inc.
-7,['Small Tools & Accessories'],SNA,Snap-on Inc.
-16,[],PN,Patriot National
-31,['Auto Parts'],LKQ,LKQ Corp.
-4,['Exchange Traded Fund'],CORN,Teucrium Corn
-7,['Oil & Gas Drilling & Exploration'],PWE,Penn West Petroleum Ltd.
-113,['Application Software'],FFIV,"F5 Networks, Inc."
-8,['Air Delivery & Freight Services'],ATSG,"Air Transport Services Group, Inc."
-19,['Textile - Apparel Footwear & Accessories'],SKX,Skechers USA Inc.
-5,['Exchange Traded Fund'],XES,SPDR S&P Oil & Gas Equipment & Services
-18,['Sporting Activities'],TRK,Speedway Motorsports Inc.
-77,['Railroads'],CNI,Canadian National Railway Company
-16,['Scientific & Technical Instruments'],FLDM,Fluidigm Corporation
-23,['Foreign Regional Banks'],FBP,First Bancorp
-4,['Exchange Traded Fund'],PJP,PowerShares Dynamic Pharmaceuticals
-23,['Silver'],AG,First Majestic Silver Corp.
-2,[],XAUUSD,Gold U.S. Dollar
-8,['Specialty Chemicals'],CHMT,Chemtura Corporation
-22,['Auto Parts'],DAN,Dana Holding Corporation
-13,['Restaurants'],PZZA,Papa John's International Inc.
-27,['Exchange Traded Fund'],GDXJ,VanEck Vectors Junior Gold Miners ETF
-19,['Technical Services'],CACI,CACI International Inc.
-16,['General Building Materials'],AWI,"Armstrong World Industries, Inc."
-57,['Medical Laboratories & Research'],TMO,"Thermo Fisher Scientific, Inc."
-61,['Exchange Traded Fund'],SLV,iShares Silver Trust
-55,['Independent Oil & Gas'],EPD,Enterprise Products Partners LP
-19,[],NVRO,Nevro
-33,['Independent Oil & Gas'],HNR,Harvest Natural Resources Inc.
-19,['Industrial Equipment & Components'],EMR,Emerson Electric Co.
-5,[],DRNA,Dicerna Pharmaceuticals
-32,[],DPLO,Diplomat Pharmacy
-18,['Biotechnology'],PGNX,Progenics Pharmaceuticals Inc.
-8,[],TAHO,Tahoe Resources Inc. 
-9,['Exchange Traded Fund'],VEU,Vanguard FTSE All-World ex-US ETF
-10,[],ZTO,ZTO Express
-1,[],SLF.CA,Sun Life Fincl Svcs Cda Inc
-4,['Application Software'],WDAY,Workday
-10,['Independent Oil & Gas'],APA,Apache Corp.
-3,['REIT - Diversified'],NLY,"Annaly Capital Management, Inc."
-19,[],VLP,Valero Energy Partners
+16,['Aerospace/Defense Products & Services'],BA,Boeing Co.
+12,['Entertainment - Diversified'],NWSA,News Corp.
+9,['Entertainment - Diversified'],TWX,Time Warner Inc.
+1,['Education & Training Services'],CPLA,Capella Education Co.
+29,['Medical Appliances & Equipment'],EW,Edwards Lifesciences Corp.
+10,['Asset Management'],IVZ,Invesco Ltd.
+3,['Exchange Traded Fund'],XHB,SPDR S&P Homebuilders
+2,['Multimedia & Graphics Software'],CYOU,Changyou.com Limited
+1,['Restaurants'],MCD,McDonald's Corp.
+4,['Exchange Traded Fund'],GDXJ,VanEck Vectors Junior Gold Miners ETF
 9,['Property & Casualty Insurance'],CINF,Cincinnati Financial Corp.
-12,[],SC,Santander Consumer USA Holdings
-26,['Nonmetallic Mineral Mining'],NGD,"New Gold, Inc."
-8,['Advertising Agencies'],IPG,"The Interpublic Group of Companies, Inc."
-5,[],SBOT,Stellar Biotechnologies Inc
-3,['Independent Oil & Gas'],NBL,"Noble Energy, Inc."
-7,['Independent Oil & Gas'],LEI,"Lucas Energy, Inc."
-2,[],ZAYO,Zayo Group Holdings
-3,['REIT - Residential'],CYS,"Cypress Sharpridge Investments, Inc."
-36,[],TRNC,Tronc Inc
-16,['Textile - Apparel Footwear & Accessories'],RCKY,"Rocky Brands, Inc."
-22,['Railroads'],GBX,Greenbrier Companies
-22,[],BRSS,"Global Brass and Copper Holdings, Inc."
-332,['Exchange Traded Fund'],SPY,SPDR S&P 500
-49,['Confectioners'],MDLZ,"Mondelez International, Inc."
-59,['Credit Services'],CIT,CIT Group Inc.
-8,['Hospitals'],AMSG,AmSurg Corp.
-20,['Asset Management'],PFG,Principal Financial Group Inc.
-21,['Regional Airlines'],ALK,"Alaska Air Group, Inc."
-17,['Electric Utilities'],ETR,Entergy Corporation
-22,['Exchange Traded Fund'],VNQ,Vanguard REIT Index ETF
-10,['Biotechnology'],CRMD,"CorMedix, Inc."
-2,[],SUNW,Sunworks Inc
-37,['Life Insurance'],GNW,Genworth Financial Inc.
-21,['Home Furnishings & Fixtures'],ETH,Ethan Allen Interiors Inc.
-1,[],UBER,Uber
-33,['Agricultural Chemicals'],MON,Monsanto Co.
-10,['Diversified Investments'],ICE,"IntercontinentalExchange, Inc."
-33,['Cement'],EXP,Eagle Materials Inc.
-9,['Property & Casualty Insurance'],PRA,ProAssurance Corporation
-41,['Steel & Iron'],X,United States Steel Corp.
-18,['Auto Parts'],MTOR,"Meritor, Inc. Common Stock"
-7,['Exchange Traded Fund'],IWV,iShares Russell 3000 Index
-10,['Apparel Stores'],BKE,Buckle Inc.
-1,[],BTE.CA,Baytex Energy Corp.
-36,['Paper & Paper Products'],IP,International Paper Co.
-10,['Property & Casualty Insurance'],AIG,"American International Group, Inc."
-97,['Exchange Traded Fund'],NUGT,Direxion Daily Gold Miners Bull 3X Shrs
-21,['Diversified Machinery'],PHG,Koninklijke Philips Electronics NV
-9,"['Discount, Variety Stores']",COST,Costco Wholesale Corporation
-2,[],EVER,EverBank Financial
-25,['Application Software'],FTNT,Fortinet Inc.
-16,['Confectioners'],CZZ,Cosan Ltd.
-12,['Scientific & Technical Instruments'],DGLY,Digital Ally Inc.
-13,['Exchange Traded Fund'],SRTY,ProShares UltraPro Short Russell2000
-121,['Industrial Metals & Minerals'],TCK,Teck Resources Limited
-17,['Silver'],EXK,Endeavour Silver Corp.
-31,['Trucking'],ECHO,"Echo Global Logistics, Inc."
-1,[],FDAX_F,Eurex Dax Futures
-10,[],TRXC,TransEnterix Inc. 
-83,['Personal Products'],KMB,Kimberly-Clark Corporation
-149,['Exchange Traded Fund'],QQQ,PowerShares Nasdaq-100 QQQ
-23,['Industrial Metals & Minerals'],PLG,Platinum Group Metals Ltd.
-10,['Diversified Computer Systems'],PNS,Pinnacle Data Systems Inc.
-45,['General Contractors'],EME,EMCOR Group Inc.
-32,['Business Services'],EXLS,"Exlservice Holdings, Inc."
-33,['Computer Peripherals'],SCKT,"Socket Mobile, Inc."
-6,[],VIA,Viacom Inc.
-16,['Heavy Construction'],MTZ,"MasTec, Inc."
-68,['Specialty Chemicals'],LYB,LyondellBasell Industries NV
-41,['Communication Equipment'],EGHT,8x8 Inc.
-100,['Independent Oil & Gas'],SWN,Southwestern Energy Co.
-7,"['Specialty Retail, Other']",SPLS,"Staples, Inc."
-22,['Industrial Metals & Minerals'],RIO,Rio Tinto plc
-42,['Credit Services'],EFX,Equifax Inc.
-27,['REIT - Retail'],GGP,General Growth Properties Inc.
-23,['Exchange Traded Fund'],SPLV,PowerShares Exchange-Traded Fund Trust II
-22,['REIT - Healthcare Facilities'],MPW,Medical Properties Trust Inc.
-22,['Diversified Machinery'],CFX,Colfax Corporation
-18,['Diversified Utilities'],EXC,Exelon Corp.
-43,['Entertainment - Diversified'],WWE,World Wrestling Entertainment Inc.
-46,['Drug Delivery'],ALKS,"Alkermes, Inc."
-26,['Asset Management'],KKR,Kohlberg Kravis Roberts & Co.
-138,['Personal Products'],PG,Procter & Gamble Co.
-86,['Exchange Traded Fund'],GLD,SPDR Gold Shares
-9,[],TLND,Talend
-2,['Independent Oil & Gas'],CIE,"Cobalt International Energy, Inc."
-4,['Business Services'],RRD,R.R. Donnelley & Sons Company
-15,['Research Services'],QGEN,Qiagen NV
-11,['Regional - Northeast Banks'],MTB,M&T Bank Corp.
-68,[],EYES,Second Sight Medical Products
-9,['Oil & Gas Pipelines'],ETE,"Energy Transfer Equity, L.P."
-20,['Exchange Traded Fund'],SH,ProShares Short S&P500
-29,['Home Furnishing Stores'],WSM,Williams-Sonoma Inc.
-9,['Investment Brokerage - National'],MKTX,MarketAxess Holdings Inc.
-4,[],OLED,Universal Display Corp.
-18,['Foreign Regional Banks'],RY,Royal Bank of Canada
-53,['REIT - Healthcare Facilities'],OHI,Omega Healthcare Investors Inc.
-12,['Waste Management'],SMED,Sharps Compliance Corp.
-106,['Drug Manufacturers - Major'],MRK,Merck & Co. Inc.
-19,['Diversified Machinery'],CMI,Cummins Inc.
-12,['Exchange Traded Fund'],RTH,Market Vectors Retail ETF
-26,['Drug Manufacturers - Other'],SHPG,Shire plc
-80,['Foreign Money Center Banks'],BCS,Barclays PLC
-51,['General Building Materials'],RGSE,"Real Goods Solar, Inc."
-62,['Biotechnology'],INO,"Inovio Pharmaceuticals, Inc."
-19,['REIT - Retail'],GTY,Getty Realty Corp.
-54,[],IMNP,Immune Pharmaceuticals
-20,['Oil & Gas Refining & Marketing'],CVI,"CVR Energy, Inc."
-6,['Computer Based Systems'],RSYS,RadiSys Corporation
-8,['Application Software'],ELLI,"Ellie Mae, Inc. Common Stock"
-33,['Major Integrated Oil & Gas'],EPE,EP Energy Corp
-67,['Beverages - Soft Drinks'],FIZZ,National Beverage Corp.
-27,['Oil & Gas Pipelines'],WES,Western Gas Partners LP
-17,['Oil & Gas Pipelines'],MPLX,MPLX LP
-5,['Biotechnology'],ANIP,"ANI Pharmaceuticals, Inc."
-26,['Property & Casualty Insurance'],RDN,Radian Group Inc.
-1,['Farm Products'],AGRO,Adecoagro S.A.
-90,['Education & Training Services'],EDU,New Oriental Education & Technology Group
-2,['REIT - Healthcare Facilities'],VTR,"Ventas, Inc."
-45,[],FELP,Foresight Energy LP
-14,['Internet Information Providers'],TST,"TheStreet, Inc."
-28,['General Building Materials'],OC,Owens Corning
-37,[],FUEL,Rocket Fuel
-22,['Biotechnology'],SGMO,Sangamo Biosciences Inc.
-4,['Closed-End Fund - Debt'],NXC,Nuveen California Select Tax-Free Income Portfolio
-15,['Diversified Electronics'],WIRE,Encore Wire Corp.
-30,['Apparel Stores'],URBN,Urban Outfitters Inc.
-19,[],NTNX,Nutanix
-33,[],NXTD,NXT-ID Inc
-4,['Semiconductor - Specialized'],TSL,Trina Solar Ltd.
-67,['Cigarettes'],MO,Altria Group Inc.
-16,['Steel & Iron'],TX,Ternium S.A.
-47,['Home Improvement Stores'],HD,"The Home Depot, Inc."
-8,[],ADAP,Adaptimmune Therapeutics
-27,[],STUDY,StockTwits Education
-85,['Textile - Apparel Clothing'],VFC,V.F. Corporation
-86,['Communication Equipment'],INFN,Infinera Corporation
-82,['Diversified Computer Systems'],IBM,International Business Machines Corp.
-9,['Diversified Communication Services'],CCI,Crown Castle International Corp.
-22,['Processed & Packaged Goods'],MGPI,MGP Ingredients Inc.
-13,['Packaging & Containers'],MINI,"Mobile Mini, Inc."
-19,['Drug Manufacturers - Other'],UTHR,United Therapeutics Corp.
-2,[],ADRO,Aduro
-82,['Aerospace/Defense - Major Diversified'],RTN,Raytheon Co.
-172,['Internet Information Providers'],AKAM,Akamai Technologies Inc.
-1,[],CGC.CA,Canopy Growth Corp.
-9,['REIT - Industrial'],CUBE,CubeSmart
-176,['Medical Appliances & Equipment'],EW,Edwards Lifesciences Corp.
-35,['Biotechnology'],EXEL,"Exelixis, Inc."
-36,['Multimedia & Graphics Software'],IGT,International Game Technology
-120,['Gold'],AUY,"Yamana Gold, Inc."
-92,['Internet Information Providers'],SFLY,"Shutterfly, Inc."
-9,[],PRAH,PRA Health Sciences
-7,['Exchange Traded Fund'],EWW,iShares MSCI Mexico Investable Mkt Idx
-13,['Resorts & Casinos'],VAC,Marriott Vacations Worldwide Corporation
-65,['Exchange Traded Fund'],XHB,SPDR S&P Homebuilders
-45,['Waste Management'],WM,"Waste Management, Inc."
-2,['Exchange Traded Fund'],FCG,First Trust ISE-Revere Natural Gas Idx
-15,['Diagnostic Substances'],TRIB,Trinity Biotech plc
-7,['CATV Systems'],DISH,Dish Network Corp.
-2,[],USDCAD,US Dollar / Canadian Dollar
-65,[],LABD,Direxion Daily S&P Biotech Bear 3X Shares
-24,"['Specialty Retail, Other']",AM,Antero Resources Midstream
-41,[],PCMI,"PCM, Inc."
-23,['Copper'],SCCO,Southern Copper Corp.
-24,['Medical Appliances & Equipment'],ISRG,"Intuitive Surgical, Inc."
-31,['Biotechnology'],OGXI,"OncoGenex Pharmaceuticals, Inc."
-21,['Regional - Southeast Banks'],SFNC,Simmons First National Corporation
-3,['Exchange Traded Fund'],SOXS,Direxion Daily Semicondct Bear 3X Shares
-19,['Synthetics'],PX,Praxair Inc.
-8,['Entertainment - Diversified'],STRZA,Starz 
-11,['Technical & System Software'],ADSK,"Autodesk, Inc."
-9,[],SMMT,Summit
-17,['Lodging'],H,Hyatt Hotels Corporation
-62,['Biotechnology'],CLVS,"Clovis Oncology, Inc. "
-6,[],TTPH,"Tetraphase Pharmaceuticals, Inc."
-3,['Trucking'],XPO,XPO Logistics
-59,['Diversified Electronics'],GLW,Corning Inc.
-5,['Business Software & Services'],COGT,Cogint Inc.
-12,['Exchange Traded Fund'],IWC,iShares Russell Microcap Index
-10,['Diversified Utilities'],NRG,"NRG Energy, Inc."
-20,['Beverages - Soft Drinks'],PEP,"PepsiCo, Inc."
-26,[],SEDG,SolarEdge Technologies
-15,['Electric Utilities'],PCG,PG & E Corp.
-13,[],AAOI,Applied Optoelectronics
-25,['Diversified Computer Systems'],TDC,Teradata Corporation
-3,['Application Software'],NQ,NQ Mobile Inc.
-84,['Major Integrated Oil & Gas'],COP,ConocoPhillips
-16,[],VRAY,ViewRay
-14,['Industrial Equipment Wholesale'],HDSN,Hudson Technologies Inc.
-39,['Investment Brokerage - National'],AMTD,TD AMERITRADE Holding Corporation
-36,['Regional - Southeast Banks'],IBKC,IberiaBank Corp.
-24,['Accident & Health Insurance'],AIZ,Assurant Inc.
-10,['Application Software'],LOCK,LifeLock
-9,['Specialty Chemicals'],RPM,RPM International Inc.
-20,['Drug Delivery'],PETS,PetMed Express Inc.
-4,['Drug Related Products'],PRGO,Perrigo Co.
-13,['Application Software'],MANH,"Manhattan Associates, Inc."
-9,['Oil & Gas Equipment & Services'],OIS,Oil States International Inc.
-25,['Auto Dealerships'],ABG,"Asbury Automotive Group, Inc."
-11,['Semiconductor - Broad Line'],ISIL,Intersil Corporation
-55,['Auto Dealerships'],PAG,"Penske Automotive Group, Inc."
-2,['Independent Oil & Gas'],CRK,Comstock Resources Inc.
-209,['Textile - Apparel Clothing'],UA,"Under Armour, Inc."
-2,[],ADDYY,Adidas
-15,['Semiconductor - Integrated Circuits'],SQNS,Sequans Communications S.A. Ame
-57,['Medical Appliances & Equipment'],SYK,Stryker Corp.
-16,['REIT - Residential'],UDR,"UDR, Inc."
-8,[],NVCR,NovoCure
-85,['Wireless Communications'],IDCC,"InterDigital, Inc."
-10,['Exchange Traded Fund'],IHI,iShares Dow Jones US Medical Devices
-24,[],SLCA,U.S. Silica Holdings
-1,[],CC,Chemours Co
-16,['Shipping'],SFL,Ship Finance International Limited
-17,[],INGN,Inogen
-5,[],MACRO,Global Macro
-16,[],WB,WEIBO
-166,['Biotechnology'],CELG,Celgene Corporation
-22,[],KNSL,Kinsale Insurance
-13,['Cigarettes'],PM,"Philip Morris International, Inc."
-11,['Information & Delivery Services'],DNB,Dun & Bradstreet Corp.
-32,['Oil & Gas Equipment & Services'],HAL,Halliburton Company
-25,[],COLL,Collegium Pharmaceutical
-16,['Healthcare Information Services'],MDSO,"Medidata Solutions, Inc."
-85,['Aerospace/Defense Products & Services'],FLIR,"FLIR Systems, Inc."
-8,['Exchange Traded Fund'],SMH,VanEck Vectors Semiconductor ETF
-12,[],HTGM,HTG Molecular Diagnostics
-15,['Electric Utilities'],OGE,OGE Energy Corp.
-54,['Exchange Traded Fund'],UUP,PowerShares DB US Dollar Index Bullish
-15,"['Air Services, Other']",AAWW,Atlas Air Worldwide Holdings Inc.
-4,['Home Furnishings & Fixtures'],SCSS,Select Comfort Corporation
-10,[],USDP,USD Partners LP
-17,['Diversified Machinery'],BGG,Briggs & Stratton Corp.
-22,[],YRD,Yirendai
-1,['Exchange Traded Fund'],XLG,Rydex Russell Top 50
-15,['Toys & Games'],MAT,Mattel Inc.
-21,['Sporting Goods Stores'],DKS,Dick's Sporting Goods Inc.
-5,['Oil & Gas Equipment & Services'],GBR,"New Concept Energy, Inc."
-41,['Education & Training Services'],STRA,Strayer Education Inc.
-8,['Restaurants'],MRT,MedEquities Realty Trust
-9,['Gold'],GORO,Gold Resource Corp
-19,['Electric Utilities'],XEL,Xcel Energy Inc.
-21,['Specialty Eateries'],SBUX,Starbucks Corporation
-9,['CATV Systems'],SJR,"Shaw Communications, Inc."
-18,['Medical Appliances & Equipment'],ARAY,Accuray Incorporated
-160,[],GOOGL,Alphabet Inc. Class A
-39,[],PRQR,ProQR Therapeutics
-123,[],DPRX,Dipexium Pharmaceuticals Inc.
-11,['REIT - Residential'],ACC,American Campus Communities Inc.
-9,['Exchange Traded Fund'],EWG,iShares MSCI Germany Index
-9,['Specialty Chemicals'],ALB,Albemarle Corp.
-5,[],SPWH,Sportsman's Warehouse
-48,['Semiconductor - Broad Line'],INTC,Intel Corporation
-6,['Oil & Gas Drilling & Exploration'],CXO,"Concho Resources, Inc."
-9,[],INNL,Innocoll
-58,['Regional - Southwest  Banks'],PB,Prosperity Bancshares Inc.
-70,[],RICE,Rice Energy
-19,['Diversified Investments'],CBOE,"CBOE Holdings, Inc."
-12,['Business Services'],PRAA,Portfolio Recovery Associates Inc.
-22,['Processed & Packaged Goods'],BGS,B&G Foods Inc.
-13,['Entertainment - Diversified'],NWSA,News Corp.
-1,['Exchange Traded Fund'],IXC,iShares S&P Global Energy
-35,[],FIT,Fitbit
-5,['Auto Manufacturers - Major'],KNDI,"Kandi Technologies, Corp"
-6,['Exchange Traded Fund'],RWM,ProShares Short Russell2000
-16,[],ALLE,Allegion plc Ordinary Shares
-26,['Regional - Pacific Banks'],BOH,Bank of Hawaii Corporation
-6,[],HZN,Horizon Global Corporation
-105,[],CRBP,Corbus Pharmaceuticals Holdings Inc
-109,['Medical Instruments & Supplies'],BAX,Baxter International Inc.
-4,['Exchange Traded Fund'],IWP,iShares Russell Midcap Growth Index
-17,['Publishing - Periodicals'],MDP,Meredith Corp.
-18,['Exchange Traded Fund'],FXY,CurrencyShares Japanese Yen Trust
-11,['Regional - Northeast Banks'],CBU,Community Bank System Inc.
-9,['Oil & Gas Refining & Marketing'],INT,World Fuel Services Corp.
-2,['Rental & Leasing Services'],AAN,"Aaron's, Inc."
-58,['Home Furnishings & Fixtures'],TPX,Tempur Pedic International Inc.
-56,[],CAA,CalAtlantic Group
-4,['Exchange Traded Fund'],UDN,PowerShares DB US Dollar Index Bearish
-5,['Exchange Traded Fund'],IEF,iShares Barclays 7-10 Year Treasury
-63,[],DJIA,Dow Jones Industrial Index
-8,['Business Services'],ADS,Alliance Data Systems Corporation
-1,['Biotechnology'],APHB,AmpliPhi Biosciences Corporation
-80,['Communication Equipment'],NOK,Nokia Corporation
-8,[],SPHS,Sophiris Bio Inc.
-10,['REIT - Hotel/Motel'],FCH,FelCor Lodging Trust Inc.
-56,['Processed & Packaged Goods'],MJN,Mead Johnson Nutrition Company
-5,['Medical Laboratories & Research'],ICLR,ICON plc
-7,[],CEFL,UBS E-TRACS Mthly Pay 2x ClosedEnd ETN
-19,['Life Insurance'],MET,"MetLife, Inc."
-21,['Diversified Machinery'],LII,"Lennox International, Inc."
-41,['Broadcasting - Radio'],SIRI,SIRIUS XM Radio Inc.
-10,"['Lumber, Wood Production']",WY,Weyerhaeuser Co.
-57,[],ALLY,Ally Financial
-2,['Biotechnology'],CLDX,"Celldex Therapeutics, Inc."
-19,['Specialty Chemicals'],POL,PolyOne Corporation
-8,['Drugs - Generic'],MYL,"Mylan, Inc."
-46,['Hospitals'],THC,Tenet Healthcare Corp.
-28,['Regional - Midwest Banks'],USB,U.S. Bancorp
-30,['Computer Peripherals'],MRCY,"Mercury Computer Systems, Inc."
-46,['Major Integrated Oil & Gas'],XOM,Exxon Mobil Corporation
-35,['REIT - Industrial'],EXR,Extra Space Storage Inc.
-2,['Drug Manufacturers - Other'],DVAX,Dynavax Technologies Corporation
-2,['Education & Training Services'],CECO,Career Education Corp.
-69,['Drug Manufacturers - Major'],NVS,Novartis AG
-42,['Semiconductor Equipment & Materials'],OCLR,"Oclaro, Inc."
-17,['Information Technology Services'],RAX,"Rackspace Hosting, Inc"
-11,['Investment Brokerage - National'],SCHW,Charles Schwab Corp.
-23,['Application Software'],CDNS,Cadence Design Systems Inc.
-46,['Exchange Traded Fund'],EDZ,Direxion Daily Emrg Mkts Bear 3X Shares
-47,[],MIME,Mimecast
-88,['Semiconductor - Broad Line'],CY,Cypress Semiconductor Corporation
-13,['Application Software'],RP,"RealPage, Inc."
-51,['Printed Circuit Boards'],TTMI,TTM Technologies Inc.
-21,['Exchange Traded Fund'],BNO,United States Brent Oil
-33,['Oil & Gas Drilling & Exploration'],NBR,Nabors Industries Ltd.
-13,['Aerospace/Defense Products & Services'],HII,Huntington Ingalls Industries
-10,['Gas Utilities'],WGP,"Western Gas Equity Partners, LP"
-14,['Technical & System Software'],MENT,Mentor Graphics Corp.
-7,['Exchange Traded Fund'],PNQI,PowerShares NASDAQ Internet
-49,[],LITE,Lumentum Holdings
-5,['Semiconductor - Broad Line'],MXIM,Maxim Integrated Products Inc.
-31,['Diversified Machinery'],HON,Honeywell International Inc.
-16,['Application Software'],DBD,"Diebold, Incorporated"
-13,['Silver'],PAAS,Pan American Silver Corp.
-98,['Exchange Traded Fund'],UNG,United States Natural Gas
-24,['Electric Utilities'],OPTT,"Ocean Power Technologies, Inc"
-11,['Exchange Traded Fund'],VGK,Vanguard MSCI European ETF
-74,[],QSR,Restaurant Brands Intl
-23,['Multimedia & Graphics Software'],CYOU,Changyou.com Limited
-17,['Property & Casualty Insurance'],XL,XL Group plc
-17,"['Specialty Retail, Other']",WMAR,West Marine Inc.
-3,[],FFTY,Innovator IBD 50 ETF
-12,['Chemicals - Major Diversified'],SQM,Chemical & Mining Co. of Chile Inc.
-13,[],EURUSD,Euro / US Dollar
-9,[],ENLK,EnLink Midstream Partners LP
-114,['Steel & Iron'],MTL,Mechel OAO
-30,['Gold'],AU,AngloGold Ashanti Ltd.
-9,[],CATB,Catabasis Pharmaceuticals
-19,['Drugs - Generic'],MNTA,Momenta Pharmaceuticals Inc.
-3,[],NIKKEI,Nikkei 225
-5,[],LOCO,El Pollo Loco Holdings
-27,['Internet Software & Services'],VHC,VirnetX Holding Corp
-26,['Drug Related Products'],HLF,Herbalife Ltd.
-18,['Investment Brokerage - National'],NMR,Nomura Holdings Inc.
-11,['Regional - Southwest  Banks'],BOKF,BOK Financial Corp.
-24,[],NVFY,Nova Lifestyle Inc
-9,[],PLAY,Dave & Buster's Entertainment
-17,[],CHEK,Check-Cap
-64,['Lodging'],WYN,Wyndham Worldwide Corporation
-21,['Drug Manufacturers - Other'],IONS,Ionis Pharmaceuticals Inc
-8,['Semiconductor - Specialized'],AOSL,"Alpha & Omega Semiconductor, Ltd."
-2,[],INSY,Insys Therapeutics
-6,[],PBYI,Puma Biotechnology Inc.
-78,['Money Center Banks'],JPM,JPMorgan Chase & Co.
-7,['Beverages - Brewers'],TAP,Molson Coors Brewing Company
-4,['Exchange Traded Fund'],VAW,Vanguard Materials ETF
-45,['Computer Peripherals'],SYNA,Synaptics Inc.
-10,[],NBI,NASDAQ Biotechnology
-58,['Heavy Construction'],MDR,McDermott International Inc.
-16,['Residential Construction'],LEN,Lennar Corp.
-10,[],VOYA,ING U.S. Inc.
-74,['Oil & Gas Refining & Marketing'],MUR,Murphy Oil Corporation
-28,['Diversified Electronics'],DLB,"Dolby Laboratories, Inc."
-50,['Medical Appliances & Equipment'],BSX,Boston Scientific Corporation
-28,['Home Furnishings & Fixtures'],FBHS,Fortune Brands Home & Security
-15,[],ARIS,ARI Network Services Inc.
-4,['Exchange Traded Fund'],VHT,Vanguard Health Care ETF
-46,['Property & Casualty Insurance'],CB,The Chubb Corporation
-6,['Shipping'],NAT,Nordic American Tanker Shipping Ltd.
-38,['Scientific & Technical Instruments'],CGNX,Cognex Corporation
-4,['Exchange Traded Fund'],IWD,iShares Russell 1000 Value Index
-5,['Telecom Services - Foreign'],KT,KT Corp.
-11,['Technical Services'],MG,"Mistras Group, Inc."
-33,['Major Integrated Oil & Gas'],OXY,Occidental Petroleum Corporation
-25,['Auto Dealerships'],KMX,CarMax Inc.
-19,['Independent Oil & Gas'],DVN,Devon Energy Corporation
-3,['Independent Oil & Gas'],BTE,Baytex Energy Corp.
-28,['Oil & Gas Drilling & Exploration'],PTEN,Patterson-UTI Energy Inc.
-43,['Money Center Banks'],WFC,Wells Fargo & Company
-44,['Packaging & Containers'],SLGN,Silgan Holdings Inc.
-8,['Exchange Traded Fund'],IWO,iShares Russell 2000 Growth Index
-20,['Medical Instruments & Supplies'],BCR,CR Bard Inc.
-27,['Grocery Stores'],KR,The Kroger Co.
-48,['Medical Appliances & Equipment'],RMD,ResMed Inc.
-8,['Gas Utilities'],AMID,American Midstream Partners LP
-30,['Staffing & Outsourcing Services'],TMH,"Team Health Holdings, Inc."
-17,['Medical Appliances & Equipment'],ZBH,"Zimmer Biomet Holdings, Inc."
-21,['Regional - Mid-Atlantic Banks'],UCBI,"United Community Banks, Inc."
-34,['Exchange Traded Fund'],OIL,iPath S&P GSCI Crude Oil TR Index ETN
-19,['Medical Equipment Wholesale'],HSIC,Henry Schein Inc.
-33,['Business Services'],PCLN,Priceline
-4,['Toys & Games'],HAS,Hasbro Inc.
-5,['Internet Information Providers'],TRIP,Tripadvisor Inc
-15,['Biotechnology'],CCXI,"ChemoCentryx, Inc."
-11,['Farm & Construction Machinery'],ASTE,"Astec Industries, Inc."
-83,['Semiconductor - Broad Line'],AMD,"Advanced Micro Devices, Inc."
-5,[],GDJJ,ProShares Ultra Junior Miners
-15,['Scientific & Technical Instruments'],BIO,"Bio-Rad Laboratories, Inc."
-70,['Oil & Gas Drilling & Exploration'],PBR,Petroleo Brasileiro
-4,[],DRIP,Direxion Daily S&P Oil & Gas Exploration & Production Bear 3X Shares
-22,[],DNAI,ProNAi Therapeutics
-26,['Specialty Chemicals'],OLN,Olin Corp.
-9,['Processed & Packaged Goods'],K,Kellogg Company
-60,['Communication Equipment'],NTGR,Netgear Inc.
-41,['Exchange Traded Fund'],OIH,Oil Services HOLDRs
-12,['Semiconductor - Specialized'],LSI,LSI Corporation
-9,['Business Software & Services'],NTCT,NetScout Systems Inc.
-22,['Biotechnology'],ARNA,"Arena Pharmaceuticals, Inc."
-8,['Farm Products'],BG,Bunge Limited
-90,['Internet Information Providers'],YNDX,Yandex N.V.
-15,[],NG_F,Natural Gas
-13,['Water Utilities'],AWK,"American Water Works Company, Inc."
-14,['Business Services'],MA,MasterCard Incorporated
-3,['Gold'],UGLD,VelocityShares 3x Long Gold ETN
-15,['Exchange Traded Fund'],XLI,Industrial Select Sector SPDR
-112,['Biotechnology'],VRTX,Vertex Pharmaceuticals Incorporated
-16,['Exchange Traded Fund'],SLX,Market Vectors Steel ETF
-19,"['Discount, Variety Stores']",TUES,Tuesday Morning Corp.
-34,['Networking & Communication Devices'],CSCO,"Cisco Systems, Inc."
-78,['Oil & Gas Pipelines'],KMI,"Kinder Morgan, Inc."
-70,['Textile - Apparel Footwear & Accessories'],NKE,Nike Inc.
-19,['Drugs Wholesale'],MCK,McKesson Corporation
-14,['Medical Instruments & Supplies'],ATRS,Antares Pharma Inc.
-13,[],TNX,CBOE 10-Year Treasury Yield Index
-12,['Exchange Traded Fund'],SZO,PowerShares DB Crude Oil Short ETN
-10,['Management Services'],BAH,Booz Allen Hamilton Inc.
-46,['Exchange Traded Fund'],XLP,Consumer Staples Select Sector SPDR
-15,['Regional Airlines'],CPA,Copa Holdings SA
-16,[],ETSY,Etsy
-34,['Industrial Electrical Equipment'],AOS,AO Smith Corp.
-18,[],INCR,INC Research Holdings
-20,['Apparel Stores'],GPS,Gap Inc.
-19,['Electric Utilities'],IDA,"IdaCorp, Inc."
-39,['Communication Equipment'],CIEN,CIENA Corp.
-24,['Computer Based Systems'],ADPT,ADPT Corp
-40,['Healthcare Information Services'],CERN,Cerner Corporation
-17,[],BPMC,Blueprint Medicines
-11,['Exchange Traded Fund'],DBC,PowerShares DB Commodity Index Tracking
-7,[],EDIT,Editas Medicine Inc.
-56,['Auto Parts'],ALSN,Allison Transmission
-35,['Auto Parts'],SRI,Stoneridge Inc.
-11,['Catalog & Mail Order Houses'],EBAY,eBay Inc.
-118,[],GRUB,GrubHub
-55,['Aerospace/Defense Products & Services'],COL,Rockwell Collins Inc.
-63,['Business Equipment'],AVY,Avery Dennison Corporation
-6,[],SQBG,Sequential Brands Group
-6,['Business Services'],GDOT,Green Dot Corporation
-49,['Internet Information Providers'],LLNW,"Limelight Networks, Inc."
-36,['Industrial Electrical Equipment'],AME,Ametek Inc.
-47,['Textile - Apparel Clothing'],CRI,"Carter's, Inc."
-20,['Broadcasting - TV'],NXST,Nexstar Broadcasting Group Inc.
-7,['Money Center Banks'],HOMB,"Home Bancshares, Inc. (Conway, AR)"
-14,['Biotechnology'],EBS,"Emergent BioSolutions, Inc."
-3,[],TEDU,Tarena International
-19,['Oil & Gas Equipment & Services'],FTI,"FMC Technologies, Inc."
-12,[],WIX,Wix
-9,[],GKOS,Glaukos
-70,['Auto Parts'],ALV,"Autoliv, Inc."
-16,['Drug Manufacturers - Major'],ABBV,AbbVie Inc.
-4,['Semiconductor - Integrated Circuits'],YGE,Yingli Green Energy Holding Co. Ltd.
-17,['Life Insurance'],RGA,Reinsurance Group of America Inc.
+5,['Steel & Iron'],NUE,Nucor Corporation
+9,['Exchange Traded Fund'],UNG,United States Natural Gas
+1,['Diversified Communication Services'],BBRY,BlackBerry
+11,['Exchange Traded Fund'],NUGT,Direxion Daily Gold Miners Bull 3X Shrs
+14,['Shipping'],TDW,Tidewater Inc.
+15,['Railroads'],CNI,Canadian National Railway Company
+13,['Regional - Pacific Banks'],ZION,Zions Bancorp.
+34,['Biotechnology'],VRTX,Vertex Pharmaceuticals Incorporated
+2,['Drug Manufacturers - Major'],ABBV,AbbVie Inc.
+13,['Exchange Traded Fund'],GLD,SPDR Gold Shares
+1,['Education & Training Services'],XRS,TAL Education Group
+4,['Drug Manufacturers - Major'],GSK,GlaxoSmithKline plc
+5,['Exchange Traded Fund'],XLV,Health Care Select Sector SPDR
+11,['Asset Management'],AMP,Ameriprise Financial Inc.
+8,['Oil & Gas Drilling & Exploration'],NBR,Nabors Industries Ltd.
+6,['Scientific & Technical Instruments'],GRMN,Garmin Ltd.
+7,['Information Technology Services'],NCR,NCR Corp.
+14,['Drug Manufacturers - Other'],RDY,Dr. Reddy's Laboratories Ltd.
+1,['Restaurants'],CAKE,The Cheesecake Factory Incorporated
+18,['Drug Manufacturers - Major'],AZN,AstraZeneca PLC
+12,['Industrial Electrical Equipment'],AME,Ametek Inc.
+4,['Exchange Traded Fund'],TVIX,VelocityShares Daily 2x VIX ST ETN
+3,['Biotechnology'],SGMO,Sangamo Biosciences Inc.
+10,['Biotechnology'],EXAS,Exact Sciences Corporation
+2,['Exchange Traded Fund'],UUP,PowerShares DB US Dollar Index Bullish
+6,['Health Care Plans'],CNC,Centene Corp.
+7,['Semiconductor - Specialized'],SLAB,Silicon Laboratories Inc.
+2,['Drug Manufacturers - Other'],AGN,Allergan Inc.
+20,['Medical Appliances & Equipment'],NUVA,"NuVasive, Inc."
+4,['Exchange Traded Fund'],XME,SPDR S&P Metals & Mining
+19,['Health Care Plans'],ESRX,Express Scripts Inc.
+2,['Textile - Apparel Footwear & Accessories'],SKX,Skechers USA Inc.
+2,['Internet Information Providers'],GRPN,Groupon
+4,['Semiconductor - Specialized'],FSLR,"First Solar, Inc."
+2,['Exchange Traded Fund'],SVXY,Short VIX Short-Term Futures ETF
+4,['Money Center Banks'],C,"Citigroup, Inc."
+22,['Internet Information Providers'],GOOG,Alphabet Inc. Class C
 9,['REIT - Retail'],FRT,Federal Realty Investment Trust
-12,['Exchange Traded Fund'],VDE,Vanguard Energy ETF
-15,[],DRIO,LabStyle Innovations Corp
-30,['Specialty Chemicals'],PPG,PPG Industries Inc.
-10,['Oil & Gas Drilling & Exploration'],RDC,Rowan Companies Inc.
-9,[],YM_F,E-Mini DJIA ($5) Futures
-47,[],TACO,Del Taco Restaurants Inc.
-2,['Aerospace/Defense Products & Services'],ESLT,Elbit Systems Ltd.
-1,[],SRNE,Sorrento Therapeutics Inc.
-6,[],NWBO,"Northwest Biotherapeutics, Inc. "
-61,['Specialty Chemicals'],KRA,Kraton Performance Polymers Inc.
-17,['Semiconductor - Integrated Circuits'],TSEM,Tower Semiconductor Ltd.
-19,['REIT - Office'],GOV,Government Properties Income Trust
-46,['Regional - Southwest  Banks'],CFR,"Cullen/Frost Bankers, Inc."
-93,['Semiconductor - Broad Line'],TXN,Texas Instruments Inc.
-19,['Industrial Equipment & Components'],PH,Parker Hannifin Corporation
-27,['Semiconductor- Memory Chips'],LEDS,SemiLEDs Corporation
-6,[],KN,Knowles Corp.
-23,['Confectioners'],HSY,Hershey Co.
-12,['Business Services'],VNTV,Vantiv
-107,['Exchange Traded Fund'],GDX,VanEck Vectors Gold Miners ETF
-3,['Mortgage Investment'],WMC,Western Asset Mortgage Capital Corporation
-5,[],TYHT,ShineCo Inc.
-4,['Exchange Traded Fund'],ACWI,iShares MSCI ACWI Index
-12,['Restaurants'],YUM,"Yum! Brands, Inc."
-9,['Shipping'],GNK,Genco Shipping & Trading Ltd.
-68,[],BXMT,Blackstone Mortgage Trust Inc.
-6,[],VJET,voxeljet AG
-16,['Electric Utilities'],FE,FirstEnergy Corp.
-44,['Exchange Traded Fund'],XLE,Energy Select Sector SPDR
-34,['Semiconductor Equipment & Materials'],KLAC,KLA-Tencor Corporation
-10,['Specialized Health Services'],USPH,US Physical Therapy Inc.
-83,['Heavy Construction'],DY,Dycom Industries Inc.
-65,['Gas Utilities'],EQT,EQT Corporation
-83,['Electric Utilities'],FCEL,FuelCell Energy Inc.
-36,['Application Software'],CVLT,"CommVault Systems, Inc."
-11,['Application Software'],ORCL,Oracle Corp.
-56,['Steel & Iron'],SXC,Suncoke Energy Inc
-33,['Electric Utilities'],DTE,DTE Energy Co.
-31,['Major Integrated Oil & Gas'],BP,BP plc
-4,['Exchange Traded Fund'],IHE,iShares Dow Jones US Pharmaceuticals
-13,['Exchange Traded Fund'],BIS,ProShares UltraShort Nasdaq Biotech
-141,['Regional Airlines'],LUV,Southwest Airlines Co.
-14,['Application Software'],FH,Form Holdings
-4,['Business Software & Services'],CTSH,Cognizant Technology Solutions Corp.
-11,['Diversified Utilities'],CNP,"CenterPoint Energy, Inc."
-10,['Exchange Traded Fund'],SIL,Global X Silver Miners ETF
-57,['Aerospace/Defense Products & Services'],SPR,Spirit AeroSystems Holdings Inc
-34,['Specialty Chemicals'],SHW,The Sherwin-Williams Company
-8,['Oil & Gas Drilling & Exploration'],WTI,W&T Offshore Inc.
-14,"['Recreational Goods, Other']",BC,Brunswick Corporation
-51,['REIT - Diversified'],CLNY,"Colony Financial, Inc."
-65,['Chemicals - Major Diversified'],DD,EI DuPont de Nemours & Co.
-79,['Internet Information Providers'],SOHU,Sohu.com Inc.
-30,['Business Services'],CMPR,Cimpress N.V.
-23,['Internet Software & Services'],JCOM,"j2 Global Communications, Inc."
-8,[],TF_F,Russell 2000 Index Mini Futures
-41,['Security & Protection Services'],BCO,Brinks Co.
-1,[],ADMP,Adamis Pharmaceuticals Corporation
-28,['Farm & Construction Machinery'],DE,Deere & Company
-27,['Restaurants'],EAT,Brinker International Inc.
-15,[],ONCS,OncoSec Medical Incorporated
-33,['Semiconductor Equipment & Materials'],AMAT,Applied Materials Inc.
-19,['Healthcare Information Services'],QSII,Quality Systems Inc.
-22,['Oil & Gas Equipment & Services'],RES,RPC Inc.
-11,['Exchange Traded Fund'],IYZ,iShares Dow Jones US Telecom
-12,['Exchange Traded Fund'],DNO,United States Short Oil
-17,['Industrial Metals & Minerals'],BBL,BHP Billiton plc
-109,['Exchange Traded Fund'],VXX,iPath S&P 500 VIX Short-Term Futures ETN
-10,[],FANG,Diamondback Energy Inc
-2,['Drug Manufacturers - Major'],ECYT,"Endocyte, Inc."
-4,['Internet Information Providers'],MEET,MeetMe Inc.
-24,['Asset Management'],EVR,Evercore Partners Inc.
-8,[],TYX,CBOE 30-Year Treasury Index
-13,['Cigarettes'],RAI,Reynolds American Inc.
-4,[],ADMS,Adamas Pharmaceuticals
-16,[],NEO,Neogenomics Inc.
-11,['Sporting Goods'],ESCA,Escalade Inc.
-9,['Wireless Communications'],TDS,Telephone & Data Systems Inc.
-121,['Exchange Traded Fund'],DGAZ,VelocityShares 3x Inverse Natural Gas ETN
-15,['Drug Manufacturers - Other'],TARO,Taro Pharmaceutical Industries
-72,['Biotechnology'],CEMP,Cempra
-8,['Sporting Goods Stores'],CAB,Cabela's Inc.
-114,['Farm & Construction Machinery'],CAT,Caterpillar Inc.
-44,['Independent Oil & Gas'],CRZO,Carrizo Oil & Gas Inc.
-34,['Grocery Stores'],CBD,Companhia Brasileira de Distribuicao
-4,['Independent Oil & Gas'],GPOR,Gulfport Energy Corp.
-14,['Medical Appliances & Equipment'],HOLX,Hologic Inc.
-11,[],DRII,Diamond Resorts International Inc
-14,['Cleaning Products'],SCL,Stepan Company
-17,['Exchange Traded Fund'],VIXY,ProShares VIX Short-Term Futures ETF
-19,['Drug Manufacturers - Major'],RIGL,"Rigel Pharmaceuticals, Inc."
-18,['Specialized Health Services'],HLS,HEALTHSOUTH Corp.
-16,[],STAY,Extended Stay America
-31,['Health Care Plans'],AET,Aetna Inc.
-22,['Semiconductor - Integrated Circuits'],AXTI,AXT Inc.
-6,['Drugs - Generic'],LGND,Ligand Pharmaceuticals Inc.
-7,[],QTNT,Quotient
-87,['Biotechnology'],ARIA,Ariad Pharmaceuticals Inc.
-58,['Foreign Money Center Banks'],SAN,Banco Santander
-10,['Biotechnology'],IMMU,Immunomedics Inc.
-28,['Independent Oil & Gas'],COG,Cabot Oil & Gas Corporation
-70,['Exchange Traded Fund'],TLT,iShares 20+ Year Treasury Bond ETF
-55,['Biotechnology'],BMRN,BioMarin Pharmaceutical Inc.
-80,['Exchange Traded Fund'],TZA,Direxion Daily Small Cap Bear 3X Shares
-4,['Asset Management'],PSEC,Prospect Capital Corporation
-52,['Oil & Gas Refining & Marketing'],MPC,Marathon Petroleum Corporation
-25,['Major Integrated Oil & Gas'],CVX,Chevron Corp.
-33,['Telecom Services - Foreign'],VRSN,VeriSign Inc.
-13,['Exchange Traded Fund'],MDY,SPDR S&P MidCap 400
-9,['Independent Oil & Gas'],APC,Anadarko Petroleum Corporation
-27,['Shipping'],KEX,Kirby Corporation
-4,['Business Services'],FLT,"FleetCor Technologies, Inc."
-9,[],TRCH,Torchlight Energy Resources
-4,[],GUSH,Direxion Daily S&P Oil & Gas Exploration & Production Bull 3X Shares
-4,['Steel & Iron'],MT,Arcelor Mittal
-152,['Auto Manufacturers - Major'],F,Ford Motor Co.
-30,['Life Insurance'],SLF,Sun Life Financial Inc.
-154,['Internet Information Providers'],GRPN,Groupon
-5,['Regional - Southeast Banks'],CSFL,"CenterState Banks, Inc."
-25,['Exchange Traded Fund'],SPXU,ProShares UltraPro Short S&P500
-35,['Business Services'],CARB,"Carbonite, Inc"
-11,['CATV Systems'],CHTR,Charter Communications Inc.
-7,['Shipping'],EGLE,"Eagle Bulk Shipping, Inc."
-60,['Diversified Computer Systems'],HPQ,Hewlett-Packard Company
-2,[],BOX,Box Inc.
-33,['Scientific & Technical Instruments'],TRMB,Trimble Navigation Limited
-18,['Application Software'],LOGM,"LogMeIn, Inc."
-50,['Management Services'],NCI,Navigant Consulting Inc.
-62,['Industrial Metals & Minerals'],CLD,Cloud Peak Energy Inc.
-6,[],RMAX,RE/MAX Holdings Inc.
-73,[],RUT,Russell 2000 Index
-25,['Home Furnishing Stores'],BBBY,"Bed Bath & Beyond, Inc."
-28,['Semiconductor - Broad Line'],MLNX,"Mellanox Technologies, Ltd."
-19,['Major Integrated Oil & Gas'],ECA,Encana Corporation
-49,['Diagnostic Substances'],ABAX,Abaxis Inc.
-1,['Biotechnology'],SPPI,"Spectrum Pharmaceuticals, Inc."
-11,['Gold'],NSU,Nevsun Resources Ltd.
-9,['Diversified Machinery'],DOV,Dover Corp.
-8,['Biotechnology'],VNDA,"Vanda Pharmaceuticals, Inc."
-17,['Specialized Health Services'],MD,"MEDNAX, Inc."
-7,['Exchange Traded Fund'],RPG,Rydex S&P 500 Pure Growth
-4,['Semiconductor - Integrated Circuits'],MSCC,Microsemi Corp.
-35,['Resorts & Casinos'],PENN,Penn National Gaming Inc.
-54,[],FNBC,First NBC Bank
-8,['Exchange Traded Fund'],EZU,iShares MSCI EMU Index
-50,['Biotechnology'],AGEN,Agenus Inc.
-55,[],MB,MindBody
-1,['Internet Software & Services'],INAP,Internap Network Services Corp.
-46,['Telecom Services - Domestic'],VZ,Verizon Communications Inc.
-6,[],CIBR,First Trust NASDAQ CEA Cybersec
-18,['Internet Information Providers'],BITA,Bitauto Holdings Limited
-65,['General Entertainment'],SIX,Six Flags Entertainment Corp.
-16,['Processed & Packaged Goods'],MKC,McCormick & Co. Inc.
-50,['Exchange Traded Fund'],TBT,ProShares UltraShort 20+ Year Treasury
-61,['Foreign Regional Banks'],BBVA,"Banco Bilbao Vizcaya Argentaria, S.A."
-11,['Business Services'],DLX,Deluxe Corp.
-7,['Diversified Machinery'],GGG,Graco Inc.
-29,['REIT - Residential'],AVB,Avalonbay Communities Inc.
-17,['Industrial Equipment Wholesale'],AIT,"Applied Industrial Technologies, Inc."
-52,['Textile - Apparel Clothing'],LULU,Lululemon Athletica Inc.
-8,['Personal Services'],HRB,"H&R Block, Inc."
-5,[],CGIX,"Cancer Genetics, Inc."
-14,['Medical Equipment Wholesale'],PDCO,Patterson Companies Inc.
-9,['Cleaning Products'],CHD,Church & Dwight Co. Inc.
-10,['Diversified Machinery'],DHR,Danaher Corp.
-70,['Packaging & Containers'],OI,"Owens-Illinois, Inc."
-7,[],VLKAY,Volkswagen AG
-12,['Exchange Traded Fund'],XME,SPDR S&P Metals & Mining
-42,['Railroads'],WAB,Westinghouse Air Brake Technologies Corporation
-6,['General Contractors'],MYRG,"MYR Group, Inc."
-10,['CATV Systems'],TWC,Time Warner Cable Inc.
-20,['Wireless Communications'],GSAT,Globalstar Inc.
-23,['Computer Peripherals'],EFII,"Electronics for Imaging, Inc."
-13,['Insurance Brokers'],AJG,Arthur J Gallagher & Co.
-11,['Paper & Paper Products'],MERC,Mercer International Inc.
-6,[],OHRP,OHR Pharmaceutical Inc
-34,"['Air Services, Other']",AIRM,Air Methods Corp.
-33,['Exchange Traded Fund'],SVXY,Short VIX Short-Term Futures ETF
-46,['Exchange Traded Fund'],UCO,ProShares Ultra DJ-UBS Crude Oil
-12,['Exchange Traded Fund'],VCR,Vanguard Consumer Discretionary ETF
-3,"['Recreational Goods, Other']",FOSL,"Fossil, Inc."
-13,[],GLPG,Galapagos
-19,[],GC_F,Gold Futures
-133,['Auto Manufacturers - Major'],GM,General Motors Company
-9,['Technical Services'],SAIC,Science Applications International Corporation
-55,['Asset Management'],BK,The Bank of New York Mellon Corporation
-26,['Specialty Chemicals'],AMRS,Amyris Biotechnologies Inc.
-74,['Semiconductor - Broad Line'],STM,STMicroelectronics NV
-16,['Internet Software & Services'],EQIX,"Equinix, Inc."
-1,['Exchange Traded Fund'],FXC,CurrencyShares Canadian Dollar Trust
-5,[],RGLS,Regulus Therapeutics Inc.
-22,[],PTGX,Protagonist Therapeutics
-3,['Drug Related Products'],PBH,Prestige Brands Holdings Inc.
-7,['Exchange Traded Fund'],IYJ,iShares Dow Jones US Industrial
-8,[],EGLT,Egalet
-25,['Auto Parts'],VC,Visteon Corp.
-20,['Regional - Midwest Banks'],CMA,Comerica Incorporated
-11,['Beverages - Brewers'],SAM,Boston Beer Co. Inc.
-9,['Conglomerates'],MGT,MGT Capital Investments
-114,['Information Technology Services'],NOW,ServiceNow
-7,['Oil & Gas Equipment & Services'],HOS,"Hornbeck Offshore Services, Inc."
-9,[],DAX,DAX (Deutscher Aktien Index - Germany)
-133,['Semiconductor - Broad Line'],NXPI,NXP Semiconductors NV
-52,['Exchange Traded Fund'],XLF,Financial Select Sector SPDR
-64,['Auto Parts'],LEA,Lear Corp.
-7,[],GBPUSD,British Pound / US Dollar
-7,['Exchange Traded Fund'],PID,PowerShares Intl Dividend Achievers
-9,['Rubber & Plastics'],CSL,Carlisle Companies Inc.
-17,['Diversified Electronics'],FORD,Forward Industries Inc.
-10,[],ITCI,Intra-Cellular Therapies
-3,['Personal Computers'],DELL,Dell Inc.
-65,['Air Delivery & Freight Services'],CHRW,CH Robinson Worldwide Inc.
-4,['Diversified Electronics'],PLUG,Plug Power Inc.
-19,['REIT - Retail'],EQY,Equity One Inc.
-18,['Silver'],SLW,Silver Wheaton Corp.
-3,['Multimedia & Graphics Software'],GLUU,"Glu Mobile, Inc."
-17,['Medical Instruments & Supplies'],IART,Integra LifeSciences Holdings Corporation
-9,['Property & Casualty Insurance'],FAF,First American Financial Corporation
-2,['Aerospace/Defense Products & Services'],SWHC,Smith & Wesson Holding Corporation
-28,['Oil & Gas Equipment & Services'],MDU,MDU Resources Group Inc.
-12,['Semiconductor - Broad Line'],AVGO,Broadcom
-6,['Computer Peripherals'],SSYS,Stratasys Inc.
-12,['Exchange Traded Fund'],IYE,iShares Dow Jones US Energy
-24,['REIT - Residential'],EQR,Equity Residential
-9,[],Q,Quintiles Transnational Holdings Inc. 
-5,['Diversified Electronics'],UNXL,Uni-Pixel Inc.
-56,['Regional - Northeast Banks'],MBVT,Merchants Bancshares Inc.
-125,['Internet Information Providers'],GOOG,Alphabet Inc. Class C
-9,['Technical Services'],KBR,"KBR, Inc."
-8,[],SQ,Square
-12,['Specialty Chemicals'],KMG,KMG Chemicals Inc.
-10,['Asset Management'],BLK,"BlackRock, Inc."
-62,['Regional - Midwest Banks'],HBAN,Huntington Bancshares Inc.
-26,['Processed & Packaged Goods'],HAIN,"The Hain Celestial Group, Inc."
-15,['Specialty Chemicals'],WPZ,Williams Partners L.P.
-3,['Gold'],FNV,Franco Nevada Corporation
-4,['Waste Management'],ES,Eversource Energy
-24,['Biotechnology'],SGEN,Seattle Genetics Inc.
-2,['Exchange Traded Fund'],ERUS,iShares MSCI Russia Capped Index
-46,['Recreational Vehicles'],HOG,"Harley-Davidson, Inc."
-19,['Property & Casualty Insurance'],RE,Everest Re Group Ltd.
-206,['Restaurants'],CMG,"Chipotle Mexican Grill, Inc."
-3,['Exchange Traded Fund'],KOLD,UltraShort DJ-UBS Natural Gas
-13,['Building Materials Wholesale'],LPX,Louisiana-Pacific Corp.
-32,['Medical Appliances & Equipment'],VAR,Varian Medical Systems Inc.
-26,['Industrial Metals & Minerals'],MUX,McEwen Mining Inc.
-32,[],CALA,Calithera Biosciences
-151,['Music & Video Stores'],NFLX,"Netflix, Inc."
-39,['Medical Appliances & Equipment'],AHPI,Allied Healthcare Products Inc.
-2,['Diversified Investments'],GAIN,Gladstone Investment Corporation
-2,['Aerospace/Defense Products & Services'],RGR,"Sturm, Ruger & Co. Inc."
-2,['Semiconductor Equipment & Materials'],BRKS,Brooks Automation Inc.
-4,['Department Stores'],JCP,"J. C. Penney Company, Inc."
-4,['Exchange Traded Fund'],HEDJ,WisdomTree International Hedged Equity
-8,[],TRHC,Tabula Rasa HealthCare
-6,[],SKLN,Skyline Medical Inc
-14,['Business Services'],YY,YY Inc.
-112,['Oil & Gas Equipment & Services'],BHI,Baker Hughes Incorporated
-16,['Asset Management'],WDR,Waddell & Reed Financial Inc.
-6,['Beverages - Soft Drinks'],MNST,Monster Beverage Corporation
-14,['Medical Appliances & Equipment'],ZLTQ,"ZELTIQ Aesthetics, Inc."
-7,[],AVXS,AveXis
-7,[],NTLA,Intellia Therapeutics 
-23,['Industrial Equipment Wholesale'],MSM,MSC Industrial Direct Co. Inc.
-9,[],MEDP,Medpace Holdings
-12,['Diversified Communication Services'],INFO,IHS Markit
-3,[],ABX.CA,Barrick Gold Corporation
-31,['Regional - Northeast Banks'],WASH,Washington Trust Bancorp Inc.
-18,[],ALDR,Alder BioPharmaceuticals
-23,['Electronics Stores'],GME,GameStop Corp.
-18,['Investment Brokerage - Regional'],RJF,Raymond James Financial Inc.
-24,['Medical Appliances & Equipment'],CRY,CryoLife Inc.
-53,['REIT - Retail'],O,Realty Income Corp.
-33,['Railroads'],UNP,Union Pacific Corporation
-4,['Exchange Traded Fund'],IXJ,iShares S&P Global Healthcare
-13,['REIT - Retail'],KIM,Kimco Realty Corporation
-14,['Railroads'],CSX,CSX Corp.
-21,['Lodging'],MAR,"Marriott International, Inc."
-8,['Regional - Pacific Banks'],PMBC,Pacific Mercantile Bancorp
-6,['Exchange Traded Fund'],IWN,iShares Russell 2000 Value Index
-8,['Personal Products'],NHTC,Natural Health Trends Corp.
-7,['Biotechnology'],OMER,Omeros Corporation
-4,['Semiconductor Equipment & Materials'],AMBA,"Ambarella, Inc."
-64,['Diversified Machinery'],GE,General Electric Co.
-22,['Diversified Electronics'],APH,Amphenol Corporation
-45,[],HLT,Hilton Worldwide
-67,['Drug Manufacturers - Major'],SNY,Sanofi-Aventis
-14,['Medical Laboratories & Research'],DGX,Quest Diagnostics Inc.
-7,['Education & Training Services'],LRN,"K12, Inc."
-45,[],MOMO,Momo
-8,[],BZUN,Baozun
-9,['Steel & Iron'],ROCK,"Gibraltar Industries, Inc."
-3,['Electronic Equipment'],HAR,Harman International Industries Inc.
-11,['Communication Equipment'],CMTL,Comtech Telecommunications Corp.
-17,"['Specialty Retail, Other']",HSNI,"HSN, Inc."
-28,['Trucks & Other Vehicles'],WNC,Wabash National Corp.
-20,['Exchange Traded Fund'],EWM,iShares MSCI Malaysia Index
-4,[],RACE,Ferrari
-129,['Semiconductor - Specialized'],NVDA,NVIDIA Corporation
-9,['Oil & Gas Drilling & Exploration'],LNG,"Cheniere Energy, Inc."
-9,['Electronics Stores'],BBY,Best Buy Co. Inc.
-53,['Oil & Gas Equipment & Services'],CRR,CARBO Ceramics Inc.
-45,['Foreign Regional Banks'],IBN,ICICI Bank Ltd.
-21,['Diversified Machinery'],DDD,3D Systems Corporation
-5,[],IMMY,Imprimis Pharmaceuticals
-50,['Exchange Traded Fund'],SCO,ProShares UltraShort Bloomberg Crude Oil
-13,['Information Technology Services'],CSC,Computer Sciences Corporation
-18,['Medical Appliances & Equipment'],ALGN,Align Technology Inc.
-9,['REIT - Office'],DLR,Digital Realty Trust Inc.
-26,['Diversified Machinery'],JBT,John Bean Technologies Corporation
-32,['Biotechnology'],ANIK,Anika Therapeutics Inc.
-7,['Oil & Gas Equipment & Services'],HLX,"Helix Energy Solutions Group, Inc."
-38,[],BGI,Birks Group Inc
-15,['Biotechnology'],REGN,"Regeneron Pharmaceuticals, Inc."
-23,['Medical Appliances & Equipment'],WMGI,Wright Medical Group Inc.
-16,['Internet Information Providers'],SFUN,SouFun Holdings Ltd.
-20,['Drug Manufacturers - Major'],BSPM,"Biostar Pharmaceuticals, Inc."
-1,[],CPXX,"Celator Pharmaceuticals, Inc."
-11,['Trucks & Other Vehicles'],PCAR,PACCAR Inc.
-14,['Electronics Wholesale'],VOXX,Audiovox Corporation
-31,['Semiconductor - Integrated Circuits'],SWKS,Skyworks Solutions Inc.
-15,['Oil & Gas Drilling & Exploration'],QEP,"QEP Resources, Inc."
-17,['Semiconductor - Integrated Circuits'],IPGP,IPG Photonics Corporation
-9,['Major Integrated Oil & Gas'],STO,Statoil ASA
-8,['Beverages - Brewers'],BUD,Anheuser-Busch InBev
-12,[],TBRA,Tobira Therapeutics
-50,['Regional Airlines'],JBLU,JetBlue Airways Corporation
-118,['Entertainment - Diversified'],TWX,Time Warner Inc.
-11,['Silver'],HL,Hecla Mining Co.
-24,['Independent Oil & Gas'],CNQ,Canadian Natural Resources Limited
-85,['Auto Parts Stores'],ORLY,O'Reilly Automotive Inc.
-40,['Independent Oil & Gas'],REN,Resolute Energy Corporation
-14,['Foreign Regional Banks'],BBD,Banco Bradesco S.A.
-14,['Exchange Traded Fund'],EWC,iShares MSCI Canada Index
-8,['REIT - Diversified'],RPAI,"Retail Properties of America, Inc."
-50,['Foreign Money Center Banks'],CS,Credit Suisse Group
-79,['Lodging'],EXPE,Expedia Inc.
-9,['Pollution & Treatment Controls'],DCI,"Donaldson Company, Inc."
-228,['Auto Manufacturers - Major'],TSLA,"Tesla Motors, Inc."
-80,['Aerospace/Defense Products & Services'],BEAV,BE Aerospace Inc.
-42,['Accident & Health Insurance'],AFL,AFLAC Inc.
-75,['Oil & Gas Drilling & Exploration'],ORIG,Ocean Rig UDW Inc
-28,['Data Storage Devices'],STX,Seagate Technology PLC
-14,['Apparel Stores'],AEO,"American Eagle Outfitters, Inc."
-9,[],ZB_F,30 Year U.S. Treasury Bonds
-5,['Exchange Traded Fund'],EEV,ProShares UltraShort MSCI Emerging Mkts
-70,['Trucking'],SWFT,"Swift Transportation Co., LLC"
-2,['Home Furnishings & Fixtures'],CRC,California Resources Corporation
-43,['Asset Management'],STT,State Street Corp.
-6,['Business Software & Services'],DOX,Amdocs Ltd.
-3,['Exchange Traded Fund'],IEO,iShares Dow Jones US Oil & Gas Ex Index
-8,['Rubber & Plastics'],TWI,Titan International Inc.
-148,['Networking & Communication Devices'],JNPR,"Juniper Networks, Inc."
-25,['Exchange Traded Fund'],DBB,PowerShares DB Base Metals
-2,['Independent Oil & Gas'],MEMP,Memorial Production Partners LP
-36,['Oil & Gas Drilling & Exploration'],RIG,Transocean Ltd.
-21,['Electronic Equipment'],FN,Fabrinet
-14,['Exchange Traded Fund'],XLB,Materials Select Sector SPDR
-1,['Wireless Communications'],UBNT,"Ubiquiti Networks, Inc."
-16,[],BLPH,Bellerophon Therapeutics
-42,['Application Software'],CA,CA Technologies
-134,[],DWTI,VelocityShares 3x Inverse Crude ETN
-1,['Medical Appliances & Equipment'],OPK,"Opko Health, Inc."
-53,['Industrial Electrical Equipment'],BLDP,Ballard Power Systems Inc.
-7,[],XON,INTREXON CORP
-9,['Independent Oil & Gas'],EOG,"EOG Resources, Inc."
-5,['Money Center Banks'],STI,"SunTrust Banks, Inc."
-84,[],BABA,Alibaba
-51,['Independent Oil & Gas'],SU,Suncor Energy Inc.
-8,['Oil & Gas Refining & Marketing'],HFC,HollyFrontier Corporation
-95,['Biotechnology'],EXAS,Exact Sciences Corporation
-24,['Agricultural Chemicals'],SYT,Syngenta AG
-49,['Lodging'],CTRP,Ctrip.com International Ltd.
-31,['Health Care Plans'],CNC,Centene Corp.
-1,[],BKX,KBW Bank Index
-17,['Biotechnology'],ZIOP,"ZIOPHARM Oncology, Inc."
-11,[],SPXS,Direxion Daily S&P500 Bear 3X Shares
-9,[],MDXG,Mimedx Group
-7,[],VKTX,VIKING THERAPEUTICS INC.
-16,['Exchange Traded Fund'],DDM,ProShares Ultra Dow30
-7,['Heavy Construction'],GV,Goldfield Corp.
-19,['Telecom Services - Foreign'],BT,BT Group plc
-19,"['Specialty Retail, Other']",ODP,"Office Depot, Inc."
-3,[],JPNL,Direxion Daily Japan Bull 3x Shares
-17,[],PEN,Penumbra
-26,['Textile - Apparel Footwear & Accessories'],BOOT,Boot Barn Holdings Inc.
-71,['Scientific & Technical Instruments'],IIVI,II-VI Inc.
-89,['Appliances'],WHR,Whirlpool Corp.
-11,['Specialty Chemicals'],NEU,NewMarket Corp.
-30,['Asset Management'],AB,AllianceBernstein Holding L.P.
-20,[],NYA,NYSE Composite Index
-17,['Property Management'],CSGP,CoStar Group Inc.
-37,['Exchange Traded Fund'],FXI,iShares FTSE China 25 Index Fund
-27,['Independent Oil & Gas'],EAC,Erickson Air-Crane Inc
-51,['Property & Casualty Insurance'],CLGX,"CoreLogic, Inc."
-38,['Rental & Leasing Services'],RCII,Rent-A-Center Inc.
-3,['Nonmetallic Mineral Mining'],HNRG,Hallador Energy Company
-12,['Regional - Northeast Banks'],VLY,Valley National Bancorp
-38,['Drug Manufacturers - Other'],ENDP,Endo Pharmaceuticals Holdings Inc.
-90,['Medical Appliances & Equipment'],NUVA,"NuVasive, Inc."
-9,['Money Center Banks'],BNS,The Bank Of Nova Scotia
-35,['Restaurants'],JACK,Jack in the Box Inc.
-35,['Regional - Midwest Banks'],MBFI,MB Financial Inc.
-17,['Property & Casualty Insurance'],ACGL,Arch Capital Group Ltd.
-120,[],JDST,Direxion Daily Jr Gld Mnrs Bear 3X Shrs
-1,[],WING,Wingstop
-50,['Information Technology Services'],HMNY,Helios & Matheson Information T
-7,['Agricultural Chemicals'],AGU,Agrium Inc.
-55,['Hospitals'],HCA,"HCA Holdings, Inc. Common Stock"
-10,['Medical Appliances & Equipment'],FONR,Fonar Corp.
-2,['Exchange Traded Fund'],IEZ,iShares Dow Jones US Oil Equipment Index
-17,['Regional - Northeast Banks'],BPFH,Boston Private Financial Holdings Inc.
-10,['Life Insurance'],PRU,"Prudential Financial, Inc."
-2,['Electric Utilities'],PPL,PPL Corporation
-3,[],JUNO,Juno Therapeutics
-68,['Metal Fabrication'],SCHN,Schnitzer Steel Industries Inc.
-46,['Paper & Paper Products'],UFS,Domtar Corporation
-35,['Asset Management'],BEN,Franklin Resources Inc.
-22,[],BGNE,BeiGene
-15,['Electric Utilities'],CPN,Calpine Corp.
-4,['Air Delivery & Freight Services'],FDX,FedEx Corporation
-9,[],COUP,Coupa Software
-92,['Restaurants'],SONC,Sonic Corp.
-10,['Regional - Northeast Banks'],WBS,Webster Financial Corp.
-51,['Medical Laboratories & Research'],LH,Laboratory Corp. of America Holdings
-112,['Gold'],ABX,Barrick Gold Corporation
-14,['Auto Parts'],DLPH,Delphi Automotive Plc
-6,['REIT - Office'],AAT,"American Assets, Inc."
-18,[],NERV,Minerva Neurosciences
-16,[],JPEP,JP Energy Partners LP
-9,['Personal Services'],SCI,Service Corp. International
-19,['Oil & Gas Refining & Marketing'],HES,Hess Corporation
-96,['Credit Services'],COF,Capital One Financial Corp.
-1,['Oil & Gas Drilling & Exploration'],AREX,"Approach Resources, Inc."
-7,[],CRDS,Crossroads Systems Inc.
-31,[],ANY,Sphere 3D
-2,['Mortgage Investment'],FNMA,Federal National Mortgage Association
-4,['Exchange Traded Fund'],UPRO,ProShares UltraPro S&P500
-29,['Railroads'],TRN,Trinity Industries Inc.
-7,[],DMO,Western Asset Mortgage Defined
-23,['Biotechnology'],PSTI,"Pluristem Therapeutics, Inc."
-19,[],ONCE,Spark Therapeutics
-12,['Oil & Gas Refining & Marketing'],PSX,Phillips 66
-7,['Exchange Traded Fund'],HYG,iShares iBoxx $ High Yield Corporate Bd
-4,['Exchange Traded Fund'],VYM,Vanguard High Dividend Yield Indx ETF
-15,[],AIMT,Aimmune Therapeutics
-10,['Biotechnology'],LXRX,"Lexicon Pharmaceuticals, Inc."
-13,['Semiconductor Equipment & Materials'],UMC,United Microelectronics Corporation
-16,['Property Management'],RLGY,Realogy Holdings Corp
-40,['Restaurants'],MCD,McDonald's Corp.
-28,[],FDC,First Data
-24,[],HDS,HD Supply Holdings Inc.
-20,['Diagnostic Substances'],PTN,Palatin Technologies Inc.
-61,['Consumer Services'],NTRI,NutriSystem Inc.
-12,['Scientific & Technical Instruments'],CYBE,CyberOptics Corp.
-7,['Security & Protection Services'],KTOS,"Kratos Defense & Security Solutions, Inc."
-16,['Diversified Machinery'],ITT,ITT Corporation
-5,['Jewelry Stores'],TIF,Tiffany & Co.
-26,['Electronic Equipment'],SNE,Sony Corporation
-68,['Asset Management'],AMP,Ameriprise Financial Inc.
-5,['Savings & Loans'],UBNK,United Financial Bancorp
-32,['Hospitals'],UHS,Universal Health Services Inc.
-8,[],SCYX,SCYNEXIS
-17,['General Entertainment'],CUK,Carnival plc
-42,['Oil & Gas Drilling & Exploration'],CVE,Cenovus Energy Inc.
-13,['Exchange Traded Fund'],JNK,SPDR Barclays High Yield Bond ETF
-36,['Chemicals - Major Diversified'],APD,Air Products & Chemicals Inc.
-8,['Property & Casualty Insurance'],ENH,Endurance Specialty Holdings Ltd.
-14,['Regional - Northeast Banks'],SBNY,Signature Bank
-36,['Agricultural Chemicals'],CF,"CF Industries Holdings, Inc."
-1,['Semiconductor Equipment & Materials'],LPTH,LightPath Technologies Inc.
-122,[],JNUG,Direxion Daily Jr Gld Mnrs Bull 3X Shrs
-109,['Copper'],FCX,Freeport-McMoRan Copper & Gold Inc.
-6,['Beverages - Soft Drinks'],COT,Cott Corporation
-24,['Accident & Health Insurance'],UNM,Unum Group
-13,['Internet Information Providers'],YHOO,Yahoo! Inc.
-23,['Health Care Plans'],UNH,"Unitedhealth Group, Inc."
-39,['Exchange Traded Fund'],XRT,SPDR S&P Retail
-45,['Money Center Banks'],KEY,KeyCorp
-3,['Exchange Traded Fund'],KOL,VanEck Vectors Coal ETF
-7,['Residential Construction'],PHM,"PulteGroup, Inc."
-20,[],BTG,B2Gold Corp. 
-10,[],DXY,US Dollar Index
-11,['Auto Parts Stores'],AZO,AutoZone Inc.
-32,['Property & Casualty Insurance'],HIG,Hartford Financial Services Group Inc.
-6,['Exchange Traded Fund'],SDOW,ProShares UltraPro Short Dow30
-18,['Biotechnology'],MACK,Merrimack Pharmaceuticals
-9,['Biotechnology'],INCY,Incyte Corporation
-17,[],PIRS,Pieris Pharmaceuticals
-39,['Communication Equipment'],SONS,"Sonus Networks, Inc."
-17,['Independent Oil & Gas'],PDCE,"PDC Energy, Inc."
-71,['Air Delivery & Freight Services'],UPS,"United Parcel Service, Inc."
-6,['Diversified Machinery'],XONE,ExOne
-64,[],AR,Antero Resources
-58,['Biotechnology'],AEZS,AEterna Zentaris Inc. (USA)
-1,['Exchange Traded Fund'],UGA,United States Gasoline
-19,['Broadcasting - TV'],CETV,Central European Media Enterprises Ltd.
-327,['Personal Computers'],AAPL,Apple Inc.
-28,['Exchange Traded Fund'],QID,ProShares UltraShort QQQ
-3,[],GIG,GigPeak Inc.
-2,['Oil & Gas Equipment & Services'],PDS,Precision Drilling Corporation
+21,['Textile - Apparel Clothing'],VFC,V.F. Corporation
+18,['Application Software'],CVLT,"CommVault Systems, Inc."
+2,['Exchange Traded Fund'],XLE,Energy Select Sector SPDR
 4,['Exchange Traded Fund'],IYF,iShares Dow Jones US Financial Sector
-116,['Exchange Traded Fund'],USO,United States Oil ETF
-16,['Regional - Pacific Banks'],SIVB,SVB Financial Group
-6,['Medical Instruments & Supplies'],STAA,STAAR Surgical Company
-57,['Medical Appliances & Equipment'],CSII,Cardiovascular Systems Inc.
-6,['Auto Parts'],PLOW,"Douglas Dynamics, Inc."
-45,[],COMPQ,NASDAQ Composite Index
-7,['Department Stores'],KSS,Kohl's Corp.
-11,['Money Center Banks'],PNC,PNC Financial Services Group Inc.
-26,['Technical Services'],ACM,AECOM Technology Corporation
-18,['Oil & Gas Pipelines'],WMB,"Williams Companies, Inc."
-3,['Medical Instruments & Supplies'],BVX,Bovie Medical Corp.
-31,['Regional - Pacific Banks'],ZION,Zions Bancorp.
-15,['Exchange Traded Fund'],DBA,PowerShares DB Agriculture
-3,[],CERU,Cerulean Pharma
-10,[],KITE,Kite Pharma
-7,[],NTDOY,Nintendo Co.
-42,['Data Storage Devices'],QTM,Quantum Corporation
-8,[],IBTX,"Independent Bank Group, Inc"
-9,[],KTOV,Kitov Pharmaceuticals
-4,[],SFM,Sprouts Farmers Markets LLC
-54,['Diversified Machinery'],CR,Crane Co.
-90,['Personal Services'],WOOF,VCA Antech Inc.
-7,['Exchange Traded Fund'],RJI,ELEMENTS Rogers Intl Commodity ETN
-19,['Personal Services'],ULTA,"Ulta Salon, Cosmetics & Fragrance, Inc."
-22,[],COTV,Cotiviti Holdings
-35,[],NEWM,New Media Investment Group Inc
-22,[],XLRE,Select Sector SPDR Trust Real Estate
-47,[],PLNT,Planet Fitness
-16,['Catalog & Mail Order Houses'],STMP,Stamps.com Inc.
-46,['Biotechnology'],WINT,"Wintree Therapeutics, Inc. "
-9,[],LOXO,Loxo Oncology
-7,['Semiconductor - Integrated Circuits'],ADI,Analog Devices Inc.
-32,[],PF,Pinnacle Foods Group
-60,['Semiconductor - Specialized'],SLAB,Silicon Laboratories Inc.
-6,[],USS_F,Dollar Index Futures
-81,['Drug Manufacturers - Major'],LLY,Eli Lilly & Co.
-11,[],OPHT,Ophthotech Corporation
-82,[],BCC,Boise Cascade Company
-28,[],ELF,E. L. F. Beauty
-30,['Telecom Services - Domestic'],CTL,"CenturyLink, Inc."
-26,['Chemicals - Major Diversified'],HUN,Huntsman Corporation
-7,[],EDF,Stone Harbor Emerging Markets Income Fund
-4,['Internet Software & Services'],ULTI,"Ultimate Software Group, Inc."
-22,['Drug Manufacturers - Other'],TEVA,Teva Pharmaceutical Industries Limited
-19,['Medical Instruments & Supplies'],BDX,"Becton, Dickinson and Company"
-9,[],PYDS,"Payment Data Systems, Inc."
-7,[],NEPT,Neptune Technologies & Bioresources Inc
-76,['Exchange Traded Fund'],TVIX,VelocityShares Daily 2x VIX ST ETN
-7,['Oil & Gas Equipment & Services'],SYRG,Synergy Resources Corp
-12,[],TILE,Interface
-23,[],NETE,Net Element
-139,['Internet Information Providers'],BIDU,"Baidu, Inc."
-46,['Medical Laboratories & Research'],ENZ,Enzo Biochem Inc.
-10,['Information & Delivery Services'],DATA,Tableau Software
-71,['Steel & Iron'],CMC,Commercial Metals Company
-4,['Exchange Traded Fund'],IJH,iShares S&P MidCap 400 Index
-2,['Processed & Packaged Goods'],JVA,Coffee Holding Co.Inc.
-63,['Exchange Traded Fund'],ITB,iShares Dow Jones US Home Construction
-1,['Semiconductor - Integrated Circuits'],INVN,"InvenSense, Inc."
-12,[],AUPH,Aurinia Pharmaceuticals Inc.
-57,['Asset Management'],LAZ,Lazard Ltd.
-12,['Business Services'],PRGX,"PRGX Global, Inc."
-14,['Drugs Wholesale'],CAH,"Cardinal Health, Inc."
-8,[],EVTC,EVERTEC Inc.
-17,['Independent Oil & Gas'],SGY,Stone Energy Corp.
-53,['Publishing - Newspapers'],GCI,"Gannett Co., Inc."
-2,['Exchange Traded Fund'],AMJ,JPMorgan Alerian MLP Index ETN
-43,[],ABEO,Abeona Therapeutics
-9,['Regional - Pacific Banks'],GBCI,Glacier Bancorp Inc.
-17,['Air Delivery & Freight Services'],HUBG,Hub Group Inc.
-2,['Biotechnology'],MDVN,"Medivation, Inc."
-19,[],UBIO,Proshares UltraPro NASDAQ Biotechnology
-19,['Oil & Gas Refining & Marketing'],TSO,Tesoro Corporation
-2,['Diversified Communication Services'],BBRY,BlackBerry
-44,['Multimedia & Graphics Software'],EA,Electronic Arts Inc.
-16,[],BPMX,BioPharmX
-18,['Independent Oil & Gas'],EGY,Vaalco Energy Inc.
-18,['Medical Instruments & Supplies'],HRC,"Hill-Rom Holdings, Inc."
-73,['Office Supplies'],ACCO,ACCO Brands Corporation
-24,['Foreign Money Center Banks'],HSBC,HSBC Holdings plc
-16,['REIT - Diversified'],VNO,Vornado Realty Trust
-24,[],CSAL,Communications Sales & Leasing Inc.
-109,['Internet Information Providers'],FB,Facebook
-11,[],EQGP,EQT GP Holdings LP
-13,['Farm & Construction Machinery'],CASC,Cascadian Therapeutics
-15,[],TTD,The Trade Desk Inc
-4,[],UUPT,PowerShares DB 3x Long US Dollar Fut ETN
-16,['Exchange Traded Fund'],PBE,PowerShares Dynamic Biotech & Genome
-33,['REIT - Diversified'],PSA,Public Storage
-9,['Oil & Gas Drilling & Exploration'],HP,Helmerich & Payne Inc.
-110,['Savings & Loans'],OCN,Ocwen Financial Corp.
-24,[],XXII,22nd Century Group Inc.
-6,['REIT - Healthcare Facilities'],HCP,"HCP, Inc."
-26,[],CETX,Cemtrex Inc.
-7,['Exchange Traded Fund'],MVV,ProShares Ultra MidCap400
-8,[],KHC,The Kraft Heinz Company
-1,['Auto Parts Wholesale'],CVGI,Commercial Vehicle Group Inc.
-44,['Diversified Electronics'],SIMO,Silicon Motion Technology Corp.
-16,[],ECR,Eclipse Resources
-14,['Medical Appliances & Equipment'],KOOL,Cesca Therapeutics
-21,[],EVDY,Everyday Health
-24,"['Specialty Retail, Other']",ZUMZ,"Zumiez, Inc."
-17,['Drug Stores'],RAD,Rite Aid Corp.
-8,['Aerospace/Defense - Major Diversified'],AER,AerCap Holdings N.V.
-25,['Internet Information Providers'],TZOO,Travelzoo Inc.
-4,['Exchange Traded Fund'],DON,WisdomTree MidCap Dividend
-16,['Exchange Traded Fund'],EMB,iShares JPMorgan USD Emerg Markets Bond
-3,['Exchange Traded Fund'],QLD,ProShares Ultra QQQ
-41,['Communication Equipment'],ERIC,LM Ericsson Telephone Co.
-39,['Oil & Gas Drilling & Exploration'],VNR,"Vanguard Natural Resources, LLC"
-11,['Steel & Iron'],TS,Tenaris SA
-52,['Aerospace/Defense Products & Services'],LLL,L-3 Communications Holdings Inc.
-187,['Aerospace/Defense Products & Services'],BA,Boeing Co.
-1,['Exchange Traded Fund'],RSP,Rydex S&P Equal Weight
-5,['Exchange Traded Fund'],FXD,First Trust Consumer Disc AlphaDEX
-57,['Business Services'],ATHN,"athenahealth, Inc."
-53,['Diversified Communication Services'],LVLT,Level 3 Communications Inc.
-48,['Major Airlines'],DAL,Delta Air Lines Inc.
-32,['Exchange Traded Fund'],FXE,CurrencyShares Euro Trust
-9,['Gas Utilities'],SRE,Sempra Energy
-82,['Diversified Communication Services'],TWER,TowerStream Corporation
-6,['Resorts & Casinos'],CZR,"Caesars Entertainment, Inc."
-43,[],PYPL,PayPal
-20,['Drug Manufacturers - Major'],ICPT,"Intercept Pharmaceuticals, Inc."
-26,[],BLUE,bluebird bio Inc.
-121,['Appliances'],IRBT,iRobot Corporation
-16,['Life Insurance'],TMK,Torchmark Corp.
-20,['Drug Stores'],WBA,Walgreens Boots Alliance
-5,[],EPS.CA,Epsilon Energy Ltd J
-41,['Semiconductor - Specialized'],CRUS,Cirrus Logic Inc.
-30,['General Building Materials'],USG,USG Corporation
-25,['Exchange Traded Fund'],XLU,Utilities Select Sector SPDR
-15,"['Specialty Retail, Other']",SBH,Sally Beauty Holdings Inc.
-19,['Drug Manufacturers - Major'],HZNP,Horizon Pharma Inc
-11,['Property & Casualty Insurance'],TRV,"The Travelers Companies, Inc."
-16,['Diversified Machinery'],PNR,"Pentair, Inc."
-58,['Diversified Investments'],GS,"Goldman Sachs Group, Inc."
-68,['Aerospace/Defense - Major Diversified'],NOC,Northrop Grumman Corporation
-7,['Exchange Traded Fund'],ONEQ,Fidelity Nasdaq Composite Index Tracking
-28,[],CVRR,CVR Refining LP
-21,[],MBLY,Mobileye
-21,[],ZYNE,Zynerba Pharmaceuticals
-15,['Auto Parts Wholesale'],GPC,Genuine Parts Company
-9,['Medical Appliances & Equipment'],IVC,Invacare Corporation
-18,['Farm & Construction Machinery'],AGCO,AGCO Corporation
-8,['Oil & Gas Equipment & Services'],TRU,TransUnion
-4,['Biotechnology'],JAZZ,"Jazz Pharmaceuticals, Inc."
-10,[],GEA,General Electric Capital Corporation
-2,[],BB.CA,BlackBerry
-10,[],ZG,Zillow Class A
-224,['Catalog & Mail Order Houses'],AMZN,Amazon.com Inc.
-33,['Rental & Leasing Services'],HTZ,"Hertz Global Holdings, Inc."
-60,[],RWLK,ReWalk Robotics
-6,['Resorts & Casinos'],LVS,Las Vegas Sands Corp.
-162,['Independent Oil & Gas'],CWEI,Clayton Williams Energy Inc.
-29,['Application Software'],ADBE,Adobe Systems Inc.
-3,['Exchange Traded Fund'],RYH,Rydex S&P Equal Weight Health Care
-4,['Packaging & Containers'],CCK,Crown Holdings Inc.
-9,['Personal Services'],WTW,"Weight Watchers International, Inc."
-10,[],CSTM,Constellium N.V
-37,['Steel & Iron'],GGB,Gerdau S.A.
-16,['Exchange Traded Fund'],ERY,Direxion Daily Energy Bear 3X Shares
-142,['CATV Systems'],CMCSA,Comcast Corporation
-22,['Wireless Communications'],AMX,America Movil S.A.B. de C.V.
-17,['Textile - Apparel Footwear & Accessories'],WWW,Wolverine World Wide Inc.
-1,['Asset Management'],EV,Eaton Vance Corp.
-14,['Sporting Goods Stores'],BGFV,Big 5 Sporting Goods Corp.
-15,[],NEWR,New Relic
-4,[],ZEN,Zendesk Inc.
-39,[],FOXA,Twenty-First Century Fox Inc
-9,[],PBPB,Potbelly Sandwich Shop
-50,['Aerospace/Defense Products & Services'],GD,General Dynamics Corp.
-31,[],LN,Line
-9,['Electric Utilities'],PAM,Pampa Energia SA
-8,[],GWB,Great Western Bancorp
-44,['Regional - Southwest  Banks'],CBSH,Commerce Bancshares Inc.
-6,[],CAFD,8point3 Energy Partners
-12,[],AERI,Aerie Pharmaceuticals
-35,['Drug Manufacturers - Other'],AGN,Allergan Inc.
-18,['Savings & Loans'],BOFI,BofI Holding Inc.
-18,[],SHAK,Shake Shack
-26,['Resorts & Casinos'],WYNN,Wynn Resorts Ltd.
-4,[],TSE,Trinseo
-10,['Asset Management'],NTRS,Northern Trust Corporation
-10,['Exchange Traded Fund'],SKYY,First Trust ISE Cloud Computing Index Fund
-47,['Credit Services'],DFS,Discover Financial Services
-9,['Diversified Utilities'],PNM,"PNM Resources, Inc."
-30,['Oil & Gas Refining & Marketing'],MRO,Marathon Oil Corporation
-45,['Trucking'],ODFL,Old Dominion Freight Line Inc.
-112,['Business Services'],V,"Visa, Inc."
-4,[],TTFS,Trimtabs Float Shrink ETF
-46,['Business Services'],ROL,Rollins Inc.
-8,[],CFRX,ContraFect Corporation
-17,[],AYA,"Amaya, Inc."
-22,['Regional - Pacific Banks'],WAL,Western Alliance Bancorporation
-45,['Aerospace/Defense Products & Services'],TASR,TASER International Inc.
-146,['Aerospace/Defense Products & Services'],LMT,Lockheed Martin Corporation
-46,['Exchange Traded Fund'],XLY,Consumer Discret Select Sector SPDR
-6,[],MZOR,Mazor Robotics Ltd. 
-12,['Exchange Traded Fund'],PBJ,PowerShares Dynamic Food & Beverage
-2,['Specialty Chemicals'],FTK,Flotek Industries Inc.
-9,['Aerospace/Defense Products & Services'],TGI,"Triumph Group, Inc."
-32,[],CFG,Citizens Financial Group
-16,['Surety & Title Insurance'],ORI,Old Republic International Corp.
-40,[],QTS,QTS Realty Trust
-2,['Exchange Traded Fund'],AMLP,ALPS Alerian MLP ETF
-23,['Exchange Traded Fund'],KRE,SPDR KBW Regional Banking
-8,[],LPCN,Lipocine Inc.
-18,['Business Services'],CATM,Cardtronics Inc.
-5,['Electric Utilities'],CIG,Cia Energetica de Minas Gerais
-31,[],QRVO,Qorvo
-19,['Telecom Services - Foreign'],ORAN,Orange
-41,['Scientific & Technical Instruments'],WAT,Waters Corp.
-42,"['Discount, Variety Stores']",TGT,Target Corp.
-23,"['Specialty Retail, Other']",FINL,Finish Line Inc.
-26,['Specialty Chemicals'],GRA,W.R. Grace & Co.
-38,['Agricultural Chemicals'],POT,"Potash Corp. of Saskatchewan, Inc."
-10,[],SILJ,PureFunds ISE Junior Silver Mining ETF 
-6,['Metal Fabrication'],WOR,"Worthington Industries, Inc."
-12,['Business Services'],MCO,Moody's Corp.
-5,[],RXN,Rexnord Corporation
-9,[],DX_F,CME US Dollar Index Futures
-178,['Drug Manufacturers - Major'],BMY,Bristol-Myers Squibb Company
-19,['Investment Brokerage - Regional'],GHL,"Greenhill & Co., Inc."
-27,['Waste Management'],RSG,"Republic Services, Inc."
-8,[],BTCUSD,Bitcoin USD
-120,['Biotechnology'],BIIB,Biogen Idec Inc.
-15,['Diversified Electronics'],NEON,"Neonode, Inc."
-7,['Property & Casualty Insurance'],MTG,MGIC Investment Corp.
-13,[],RPD,Rapid7
-97,['Oil & Gas Equipment & Services'],SPN,Superior Energy Services Inc.
-7,['REIT - Residential'],PMT,PennyMac Mortgage Investment Trust
-1,['Medical Instruments & Supplies'],ISR,"IsoRay, Inc."
-19,[],VA,Virgin America
-36,['Independent Oil & Gas'],OAS,Oasis Petroleum Inc.
-15,['Semiconductor - Specialized'],LLTC,Linear Technology Corp.
-20,['Steel & Iron'],STLD,Steel Dynamics Inc.
-20,['Semiconductor - Specialized'],SPWR,SunPower Corporation
-10,[],BBP,BioShares Biotechnology Products ETF
-9,[],FTV,Fortive Corp
-20,['Management Services'],FCN,"FTI Consulting, Inc."
-9,['Diversified Machinery'],ITW,Illinois Tool Works Inc.
-19,['Mortgage Investment'],AI,Arlington Asset Investment Corp.
-25,[],NRZ,New Residential Investment Corp
-4,['Exchange Traded Fund'],IVV,iShares S&P 500 Index
-121,['Medical Appliances & Equipment'],ABMD,Abiomed Inc.
-68,['Oil & Gas Equipment & Services'],WFT,Weatherford International Ltd.
-10,[],TRUE,TrueCar
-157,['Broadcasting - Radio'],P,Pandora
-2,[],ND_F,NASDAQ 100 Futures
-35,['Meat Products'],TSN,Tyson Foods Inc.
-9,['Auto Manufacturers - Major'],TM,Toyota Motor Corp.
-82,['Information Technology Services'],NCR,NCR Corp.
-32,['Exchange Traded Fund'],SDS,ProShares UltraShort S&P500
-12,[],CPG,Crescent Point Energy Corp.
-17,['Foreign Money Center Banks'],LYG,Lloyds Banking Group plc
-7,[],RUN,Sunrun
-7,['Shipping'],GLOG,GasLog
-13,['Gold'],BVN,Compania de Minas Buenaventura SA
-29,['Exchange Traded Fund'],TNA,Direxion Daily Small Cap Bull 3X Shares
-23,['Auto Parts'],JCI,Johnson Controls Inc.
-5,['Information Technology Services'],VNET,21Vianet Group Inc.
-30,['Internet Information Providers'],LNKD,LinkedIn
-127,['Industrial Metals & Minerals'],VALE,Vale S.A.
-32,['Semiconductor Equipment & Materials'],TER,Teradyne Inc.
-4,['Biotechnology'],NVAX,"Novavax, Inc."
-91,['Communication Equipment'],QCOM,QUALCOMM Incorporated
-84,[],RTTR,Ritter Pharmaceuticals
-23,['Semiconductor - Specialized'],CSIQ,Canadian Solar Inc.
-13,['Exchange Traded Fund'],FBT,First Trust NYSE Arca Biotech Index
-15,[],DBVT,DBV Technologies
-74,['Drug Manufacturers - Major'],PFE,Pfizer Inc.
-9,['Biotechnology'],PTIE,Pain Therapeutics Inc.
-15,['Trucking'],SAIA,"Saia, Inc."
-3,[],FTSE,FTSE 100 Index
-15,['Savings & Loans'],ISBC,Investors Bancorp Inc.
-48,['Biotechnology'],ALXN,"Alexion Pharmaceuticals, Inc."
-1,[],CNNX,Cone Midstream Partners LP
-5,[],REPH,Recro Pharma
-53,['Personal Products'],CL,Colgate-Palmolive Co.
-102,['Computer Peripherals'],LOGI,Logitech International SA
-8,['Business Services'],SNX,SYNNEX Corp.
-123,['Exchange Traded Fund'],IWM,iShares Russell 2000 Index ETF
-5,[],YYY,YieldShares High Income ETF
-7,['Exchange Traded Fund'],GSG,iShares S&P GSCI Commodity-Indexed Trust
-19,['Home Health Care'],AMED,Amedisys Inc.
-69,['Information & Delivery Services'],NLSN,Nielsen Holdings B.V.
-61,['Biotechnology'],ACAD,"ACADIA Pharmaceuticals, Inc."
-29,['REIT - Residential'],ESS,Essex Property Trust Inc.
-57,['Railroads'],NSC,Norfolk Southern Corp.
-14,"['Specialty Retail, Other']",FIVE,Five Below Inc.
-18,['Exchange Traded Fund'],IYT,iShares Dow Jones Transportation Average
-105,['Metal Fabrication'],ATI,Allegheny Technologies Inc.
-37,['REIT - Retail'],SKT,Tanger Factory Outlet Centers Inc.
-10,['Gas Utilities'],SJI,"South Jersey Industries, Inc."
-18,[],COMM,commScope
-16,['Beverages - Soft Drinks'],PRMW,Primo Water Corporation
-18,['Steel & Iron'],PKX,POSCO
-16,['Exchange Traded Fund'],SRS,ProShares UltraShort Real Estate
-10,[],BBC,BioShares Biotechnology Clinical Trials Fund
+25,['Education & Training Services'],EDU,New Oriental Education & Technology Group
+15,['Biotechnology'],ARIA,Ariad Pharmaceuticals Inc.
+1,['Steel & Iron'],SXC,Suncoke Energy Inc
+6,['Agricultural Chemicals'],MON,Monsanto Co.
+4,['Steel & Iron'],MT,Arcelor Mittal
+12,['Gold'],AU,AngloGold Ashanti Ltd.
+23,['Money Center Banks'],BAC,Bank of America Corporation
+11,['Lodging'],CTRP,Ctrip.com International Ltd.
+4,['Apparel Stores'],AEO,"American Eagle Outfitters, Inc."
+41,['Oil & Gas Equipment & Services'],BHI,Baker Hughes Incorporated
+11,['Recreational Vehicles'],PII,"Polaris Industries, Inc."
+3,['Major Integrated Oil & Gas'],CVX,Chevron Corp.
+6,['Exchange Traded Fund'],SCO,ProShares UltraShort Bloomberg Crude Oil
+6,['Drug Manufacturers - Major'],NVS,Novartis AG
+5,['Semiconductor - Broad Line'],INTC,Intel Corporation
+3,['Exchange Traded Fund'],VXX,iPath S&P 500 VIX Short-Term Futures ETN
+45,['Restaurants'],CMG,"Chipotle Mexican Grill, Inc."
+5,['Medical Appliances & Equipment'],AHPI,Allied Healthcare Products Inc.
+15,['Property & Casualty Insurance'],CLGX,"CoreLogic, Inc."
+17,['Biotechnology'],CLVS,"Clovis Oncology, Inc. "
+2,['Drug Manufacturers - Other'],TEVA,Teva Pharmaceutical Industries Limited
+9,['Auto Parts Wholesale'],GPC,Genuine Parts Company
+46,['Auto Manufacturers - Major'],GM,General Motors Company
+8,['Office Supplies'],ACCO,ACCO Brands Corporation
+8,['Diversified Machinery'],CR,Crane Co.
+16,['Auto Manufacturers - Major'],TSLA,"Tesla Motors, Inc."
+1,['Life Insurance'],GNW,Genworth Financial Inc.
+10,['Drug Manufacturers - Major'],HZNP,Horizon Pharma Inc
+2,['Exchange Traded Fund'],JO,iPath DJ-UBS Coffee TR Sub-Idx ETN
+20,['Oil & Gas Drilling & Exploration'],ORIG,Ocean Rig UDW Inc
+7,['Exchange Traded Fund'],UVXY,ProShares Trust Ultra VIX Short-Term Futures ETF
+6,['Electric Utilities'],SO,Southern Company
+1,['Industrial Metals & Minerals'],TCK,Teck Resources Limited
+31,['Broadcasting - Radio'],P,Pandora
+9,['Exchange Traded Fund'],TLT,iShares 20+ Year Treasury Bond ETF
+7,['Industrial Metals & Minerals'],CLF,Cliffs Natural Resources Inc.
+17,['Specialty Chemicals'],PPG,PPG Industries Inc.
+31,['Farm & Construction Machinery'],CAT,Caterpillar Inc.
+6,['Drug Manufacturers - Major'],BMY,Bristol-Myers Squibb Company
+2,['Steel & Iron'],TX,Ternium S.A.
+64,['Personal Products'],PG,Procter & Gamble Co.
+8,['Metal Fabrication'],SCHN,Schnitzer Steel Industries Inc.
+4,['Exchange Traded Fund'],XIV,VelocityShares Daily Inverse VIX ST ETN
+1,['Foreign Regional Banks'],DB,Deutsche Bank AG
+2,['Exchange Traded Fund'],SLX,Market Vectors Steel ETF
+1,['Exchange Traded Fund'],EZU,iShares MSCI EMU Index
+8,['Biotechnology'],WINT,"Wintree Therapeutics, Inc. "
+2,['Gold'],RGLD,"Royal Gold, Inc."
+10,['REIT - Office'],BXP,Boston Properties Inc.
+17,['Music & Video Stores'],NFLX,"Netflix, Inc."
+5,['Major Integrated Oil & Gas'],BP,BP plc
+10,['Exchange Traded Fund'],DIA,SPDR Dow Jones Industrial Average
+3,['Drug Manufacturers - Major'],BSPM,"Biostar Pharmaceuticals, Inc."
+24,['Appliances'],WHR,Whirlpool Corp.
+1,['Aluminum'],AA,Alcoa Inc.
+18,['Scientific & Technical Instruments'],WAT,Waters Corp.
+2,['Broadcasting - TV'],CBS,CBS Corporation
+7,['Electric Utilities'],FCEL,FuelCell Energy Inc.
+12,['Biotechnology'],EXEL,"Exelixis, Inc."
+2,['Silver'],SLW,Silver Wheaton Corp.
+33,['Wireless Communications'],S,Sprint Nextel Corp.
+11,['Internet Information Providers'],BIDU,"Baidu, Inc."
+2,['Exchange Traded Fund'],FXE,CurrencyShares Euro Trust
+3,['Auto Manufacturers - Major'],F,Ford Motor Co.
+11,['Textile - Apparel Clothing'],LULU,Lululemon Athletica Inc.
+7,['Independent Oil & Gas'],RRC,Range Resources Corporation
+4,['Packaging & Containers'],OI,"Owens-Illinois, Inc."
+15,['General Entertainment'],SIX,Six Flags Entertainment Corp.
+9,['Management Services'],NCI,Navigant Consulting Inc.
+17,['Personal Products'],CL,Colgate-Palmolive Co.
+1,['Exchange Traded Fund'],TAN,Guggenheim Solar
+1,['Biotechnology'],AMGN,Amgen Inc.
+8,['Oil & Gas Equipment & Services'],BAS,"Basic Energy Services, Inc."
+1,['Major Integrated Oil & Gas'],SNP,China Petroleum & Chemical Corp.
+14,['Exchange Traded Fund'],UGAZ,VelocityShares 3x Long Natural Gas ETN
+2,['Specialty Eateries'],SBUX,Starbucks Corporation
+2,['Medical Appliances & Equipment'],MDT,"Medtronic, Inc."
+2,['Waste Management'],WM,"Waste Management, Inc."
+5,['Diversified Electronics'],SIMO,Silicon Motion Technology Corp.
+21,['Oil & Gas Equipment & Services'],WFT,Weatherford International Ltd.
+9,['REIT - Residential'],ESS,Essex Property Trust Inc.
+9,['Diversified Machinery'],DOV,Dover Corp.
+7,['Asset Management'],STT,State Street Corp.
+2,['Specialty Chemicals'],AMRS,Amyris Biotechnologies Inc.
+12,['Money Center Banks'],JPM,JPMorgan Chase & Co.
+14,['Oil & Gas Equipment & Services'],HAL,Halliburton Company
+6,['Exchange Traded Fund'],XLB,Materials Select Sector SPDR
+3,['Diagnostic Substances'],ABAX,Abaxis Inc.
+12,['Asset Management'],BK,The Bank of New York Mellon Corporation
+4,['Independent Oil & Gas'],CRZO,Carrizo Oil & Gas Inc.
+6,['Industrial Metals & Minerals'],MUX,McEwen Mining Inc.
+9,['Industrial Equipment & Components'],EMR,Emerson Electric Co.
+7,['Electronic Equipment'],SNE,Sony Corporation
+1,['Exchange Traded Fund'],OIH,Oil Services HOLDRs
+25,['Conglomerates'],MMM,3M Co.
+29,['Chemicals - Major Diversified'],DD,EI DuPont de Nemours & Co.
+5,['Semiconductor - Broad Line'],NXPI,NXP Semiconductors NV
+5,['Biotechnology'],ANIK,Anika Therapeutics Inc.
+1,['Personal Products'],KMB,Kimberly-Clark Corporation
+13,['Steel & Iron'],SIM,Grupo Simec S.A.B. de C.V.
+4,['Semiconductor - Specialized'],NVDA,NVIDIA Corporation
+19,['Telecom Services - Domestic'],T,"AT&T, Inc."
+3,['Business Software & Services'],CTSH,Cognizant Technology Solutions Corp.
+3,['Exchange Traded Fund'],XLK,Technology Select Sector SPDR
+7,['Regional Airlines'],JBLU,JetBlue Airways Corporation
+6,['Auto Parts'],LEA,Lear Corp.
+4,['Gold'],KGC,Kinross Gold Corporation
+12,['REIT - Retail'],KIM,Kimco Realty Corporation
+9,['Drug Manufacturers - Major'],SNY,Sanofi-Aventis
+20,['Drug Manufacturers - Major'],LLY,Eli Lilly & Co.
+4,['Application Software'],ORCL,Oracle Corp.
+3,['Semiconductor - Broad Line'],MLNX,"Mellanox Technologies, Ltd."
+13,['Regional - Northeast Banks'],MBVT,Merchants Bancshares Inc.
+18,['Asset Management'],KKR,Kohlberg Kravis Roberts & Co.
+1,['Savings & Loans'],HMST,"Homestreet, Inc."
+3,['Business Services'],PCLN,Priceline
+29,['Credit Services'],COF,Capital One Financial Corp.
+30,['Independent Oil & Gas'],CWEI,Clayton Williams Energy Inc.
+7,['Asset Management'],EVR,Evercore Partners Inc.
+15,['Steel & Iron'],MTL,Mechel OAO
+3,['Gold'],NEM,Newmont Mining Corp.
+3,['Foreign Money Center Banks'],HSBC,HSBC Holdings plc
+33,['Internet Information Providers'],AKAM,Akamai Technologies Inc.
+3,['Home Furnishings & Fixtures'],ETH,Ethan Allen Interiors Inc.
+12,['Independent Oil & Gas'],SWN,Southwestern Energy Co.
+7,['Sporting Activities'],TRK,Speedway Motorsports Inc.
+5,['Home Improvement Stores'],HD,"The Home Depot, Inc."
+13,['Electric Utilities'],CPN,Calpine Corp.
+15,['Exchange Traded Fund'],USO,United States Oil ETF
+3,['Exchange Traded Fund'],IYM,iShares Dow Jones US Basic Materials
+12,['REIT - Residential'],EQR,Equity Residential
+4,['Independent Oil & Gas'],CNQ,Canadian Natural Resources Limited
+37,['Steel & Iron'],AKS,AK Steel Holding Corporation
+9,['Independent Oil & Gas'],EOG,"EOG Resources, Inc."
+4,['Drug Related Products'],HLF,Herbalife Ltd.
+9,['Major Integrated Oil & Gas'],OXY,Occidental Petroleum Corporation
+10,['Gold'],ABX,Barrick Gold Corporation
+6,['Exchange Traded Fund'],OIL,iPath S&P GSCI Crude Oil TR Index ETN
+5,['Entertainment - Diversified'],DIS,Walt Disney Co.
+8,['Exchange Traded Fund'],XLY,Consumer Discret Select Sector SPDR
+22,['CATV Systems'],CMCSA,Comcast Corporation
+9,['Exchange Traded Fund'],IWM,iShares Russell 2000 Index ETF
+13,['Savings & Loans'],OCN,Ocwen Financial Corp.
+12,['Biotechnology'],ACAD,"ACADIA Pharmaceuticals, Inc."
+4,['Communication Equipment'],INFN,Infinera Corporation
+3,['Gold'],GG,Goldcorp Inc.
+23,['Aerospace/Defense Products & Services'],UTX,United Technologies Corp.
+1,['Aerospace/Defense Products & Services'],COL,Rockwell Collins Inc.
+9,['Oil & Gas Refining & Marketing'],MUR,Murphy Oil Corporation
+16,['General Building Materials'],MAS,Masco Corporation
+19,['Property & Casualty Insurance'],CB,The Chubb Corporation
+2,['Department Stores'],WMT,Walmart Stores Inc.
+1,"['Discount, Variety Stores']",TGT,Target Corp.
+10,['Asset Management'],TROW,"T. Rowe Price Group, Inc."
+1,"['Specialty Retail, Other']",WMAR,West Marine Inc.
+11,['Investment Brokerage - National'],AMTD,TD AMERITRADE Holding Corporation
+3,['Information Technology Services'],CSC,Computer Sciences Corporation
+8,['Medical Instruments & Supplies'],UNIS,Unilife Corporation
+7,['Aerospace/Defense - Major Diversified'],NOC,Northrop Grumman Corporation
+12,['Information Technology Services'],HMNY,Helios & Matheson Information T
+13,['Aerospace/Defense Products & Services'],BEAV,BE Aerospace Inc.
+4,['Metal Fabrication'],ATI,Allegheny Technologies Inc.
+14,['Processed & Packaged Goods'],MKC,McCormick & Co. Inc.
+31,['Beverages - Soft Drinks'],KO,The Coca-Cola Company
+9,['Agricultural Chemicals'],POT,"Potash Corp. of Saskatchewan, Inc."
+55,['Exchange Traded Fund'],SPY,SPDR S&P 500
+17,['Exchange Traded Fund'],DGAZ,VelocityShares 3x Inverse Natural Gas ETN
+30,['Information & Delivery Services'],NLSN,Nielsen Holdings B.V.
+12,['Asset Management'],CG,Carlyle Group
+1,['Trucks & Other Vehicles'],STS,Supreme Industries Inc.
+13,['Steel & Iron'],GGB,Gerdau S.A.
+1,['Biotechnology'],BMRN,BioMarin Pharmaceutical Inc.
+10,['Regional - Northeast Banks'],MTB,M&T Bank Corp.
+7,['Regional Airlines'],LUV,Southwest Airlines Co.
+7,['Packaging & Containers'],SLGN,Silgan Holdings Inc.
+2,['Oil & Gas Drilling & Exploration'],LGCY,Legacy Reserves Lp
+2,['Internet Information Providers'],SOHU,Sohu.com Inc.
+3,['Internet Software & Services'],NTES,"NetEase.com, Inc."
+7,['Electric Utilities'],DTE,DTE Energy Co.
+2,['Lodging'],EXPE,Expedia Inc.
+10,['Biotechnology'],CELG,Celgene Corporation
+1,['Money Center Banks'],WFC,Wells Fargo & Company
+8,['Semiconductor- Memory Chips'],RMBS,Rambus Inc.
+9,['Agricultural Chemicals'],CF,"CF Industries Holdings, Inc."
+3,['Electric Utilities'],DUK,Duke Energy Corporation
+5,['Exchange Traded Fund'],VEU,Vanguard FTSE All-World ex-US ETF
+19,['Credit Services'],DFS,Discover Financial Services
+7,['Communication Equipment'],SONS,"Sonus Networks, Inc."
+8,['Scientific & Technical Instruments'],DGLY,Digital Ally Inc.
+1,['Industrial Electrical Equipment'],LFUS,Littelfuse Inc.
+4,['Major Integrated Oil & Gas'],TOT,Total SA
+1,['Restaurants'],BWLD,Buffalo Wild Wings Inc.
+7,['Exchange Traded Fund'],GDX,VanEck Vectors Gold Miners ETF
+19,['Internet Information Providers'],TWTR,Twitter
+5,['Steel & Iron'],STLD,Steel Dynamics Inc.
+14,['Regional - Northeast Banks'],WASH,Washington Trust Bancorp Inc.
+3,['Electric Utilities'],NEE,"NextEra Energy, Inc."
+10,['Drug Manufacturers - Major'],PFE,Pfizer Inc.
+4,['REIT - Residential'],AGNC,American Capital Agency Corp.
+14,['Communication Equipment'],ERIC,LM Ericsson Telephone Co.
+5,['Diversified Investments'],APO,"Apollo Global Management, LLC"
+9,['Wireless Communications'],TDS,Telephone & Data Systems Inc.
+17,['Semiconductor - Broad Line'],AMD,"Advanced Micro Devices, Inc."
+3,['General Building Materials'],RGSE,"Real Goods Solar, Inc."
+4,['Exchange Traded Fund'],XOP,SPDR S&P Oil & Gas Exploration & Prod
+11,['Textile - Apparel Footwear & Accessories'],NKE,Nike Inc.
+2,"['Recreational Goods, Other']",FOSL,"Fossil, Inc."
+18,['Application Software'],MSFT,Microsoft Corporation
+14,['Diversified Communication Services'],TWER,TowerStream Corporation
+4,"['Lumber, Wood Production']",WY,Weyerhaeuser Co.
+91,['Personal Computers'],AAPL,Apple Inc.
+4,['Confectioners'],MDLZ,"Mondelez International, Inc."
+10,['Medical Instruments & Supplies'],BCR,CR Bard Inc.
+15,['Trucking'],SWFT,"Swift Transportation Co., LLC"
+12,['Internet Service Providers'],VIPS,Vipshop Holdings Limited
+27,['Drug Manufacturers - Major'],JNJ,Johnson & Johnson
+32,['Business Services'],V,"Visa, Inc."
+13,['Diversified Investments'],GS,"Goldman Sachs Group, Inc."
+4,['Agricultural Chemicals'],MOS,Mosaic Co.
+7,['Computer Peripherals'],LOGI,Logitech International SA
+25,['Copper'],FCX,Freeport-McMoRan Copper & Gold Inc.
+7,['Application Software'],CRM,Salesforce.com
+3,['Exchange Traded Fund'],XLU,Utilities Select Sector SPDR
+6,['Industrial Metals & Minerals'],VALE,Vale S.A.
+1,['Exchange Traded Fund'],XLP,Consumer Staples Select Sector SPDR
+2,['Apparel Stores'],KORS,Michael Kors Holdings Ltd
+7,['Independent Oil & Gas'],CHK,Chesapeake Energy Corporation
+35,['Networking & Communication Devices'],JNPR,"Juniper Networks, Inc."
+12,['Insurance Brokers'],AJG,Arthur J Gallagher & Co.
+6,['Communication Equipment'],QCOM,QUALCOMM Incorporated
+6,['Telecom Services - Domestic'],VZ,Verizon Communications Inc.
+1,['Major Airlines'],DAL,Delta Air Lines Inc.
+1,['Semiconductor Equipment & Materials'],CREE,Cree Inc.
+47,['Aerospace/Defense Products & Services'],LMT,Lockheed Martin Corporation
+1,['Semiconductor - Specialized'],SPWR,SunPower Corporation
+9,['REIT - Office'],DLR,Digital Realty Trust Inc.
+6,['Diversified Computer Systems'],HPQ,Hewlett-Packard Company
+1,['Semiconductor - Integrated Circuits'],SWKS,Skyworks Solutions Inc.
+9,['Major Integrated Oil & Gas'],XOM,Exxon Mobil Corporation
+3,['Semiconductor - Broad Line'],AVGO,Broadcom
+5,['Chemicals - Major Diversified'],DOW,The Dow Chemical Company
+8,['Exchange Traded Fund'],IBB,iShares Nasdaq Biotechnology ETF
+2,['Drug Delivery'],VRX,"Valeant Pharmaceuticals International, Inc."
 11,['Savings & Loans'],PBCT,People's United Financial Inc.
-3,[],CXRX,Concordia Healthcare
-8,[],FGEN,FibroGen
-15,['Restaurants'],DPZ,"Domino's Pizza, Inc."
-15,['Oil & Gas Drilling & Exploration'],EVEP,EV Energy Partners LP
-3,['Processed & Packaged Goods'],FLO,"Flowers Foods, Inc."
-4,['Shipping'],TOPS,Top Ships Inc.
-11,['Gold'],IAG,IAMGOLD Corp.
-23,['Information Technology Services'],XRX,Xerox Corp.
-57,['Oil & Gas Drilling & Exploration'],LGCY,Legacy Reserves Lp
-54,['Exchange Traded Fund'],SQQQ,ProShares UltraPro Short QQQ
-35,['Communication Equipment'],ARRS,Arris Group Inc.
-8,[],MTCH,Match Group
-18,['Printed Circuit Boards'],FLEX,Flextronics International Ltd.
-167,[],SAEX,"SAExploration Holdings, Inc."
-3,['Personal Products'],NUS,Nu Skin Enterprises Inc.
-31,['Gold'],GG,Goldcorp Inc.
-15,['Broadcasting - TV'],SNI,"Scripps Networks Interactive, Inc."
-25,['Diversified Communication Services'],IDT,IDT Corporation
-24,['Health Care Plans'],MOH,Molina Healthcare Inc.
-2,['Exchange Traded Fund'],UWM,ProShares Ultra Russell2000
-40,[],FCAU,FIAT CHRYSLER AUTOMOBILES N.V.
-22,['Application Software'],PFPT,Proofpoint
-13,['Aluminum'],AA,Alcoa Inc.
-1,['Life Insurance'],MFC,Manulife Financial Corporation
-35,[],CL_F,"Light, Sweet Crude Oil Futures"
-31,[],GIMO,Gigamon Inc.
-8,[],CDW,CDW Corp.
-17,['Biotechnology'],CERS,Cerus Corporation
-4,['Exchange Traded Fund'],VTI,Vanguard Total Stock Market ETF
-95,['Exchange Traded Fund'],IBB,iShares Nasdaq Biotechnology ETF
-32,['Exchange Traded Fund'],SOXX,iShares PHLX SOX Semiconductor Sector
-37,['Regional Airlines'],ALGT,Allegiant Travel Company
-50,['Semiconductor- Memory Chips'],RMBS,Rambus Inc.
-18,[],SYF,Synchrony Financial
-4,['REIT - Industrial'],PLD,ProLogis
-15,['Drug Manufacturers - Other'],NVO,Novo Nordisk A/S
-9,"['Movie Production, Theaters']",RGC,Regal Entertainment Group
-10,['Shipping'],DRYS,"DryShips, Inc."
-16,['Beverages - Soft Drinks'],SPU,"SkyPeople Fruit Juice, Inc."
-14,['REIT - Hotel/Motel'],HST,Host Hotels & Resorts Inc.
-50,['Business Services'],FISV,"Fiserv, Inc."
-2,[],CXR.CA,Concordia Healthcare Corp
-129,['Data Storage Devices'],WDC,Western Digital Corp.
-9,['Railroads'],KSU,Kansas City Southern
-40,['Application Software'],NUAN,"Nuance Communications, Inc."
-72,['Exchange Traded Fund'],XBI,SPDR S&P Biotech
-4,[],COTY,Coty Inc.
-84,['Independent Oil & Gas'],RRC,Range Resources Corporation
-6,['Home Furnishings & Fixtures'],LZB,La-Z-Boy Inc.
-12,['Exchange Traded Fund'],VDC,Vanguard Consumer Staples ETF
-232,['Internet Information Providers'],TWTR,Twitter
-2,['Exchange Traded Fund'],RSX,VanEck Vectors Russia ETF
-12,[],HPE,Hewlett Packard Enterprise
-11,[],XGTI,"xG Technology, Inc."
-2,['Resorts & Casinos'],CCL,Carnival Corporation
-4,['Packaging & Containers'],BLL,Ball Corporation
-8,['Gold'],RGLD,"Royal Gold, Inc."
-63,['Drug Manufacturers - Major'],JNJ,Johnson & Johnson
-14,['Telecom Services - Foreign'],PHI,Philippine Long Distance Telephone Co.
-15,['Chemicals - Major Diversified'],SHLM,"A. Schulman, Inc."
-18,['Aluminum'],CENX,Century Aluminum Co.
-6,[],OTIC,Otonomy
-27,[],NCLH,Norwegian Cruise Lines
-13,['Exchange Traded Fund'],IAU,iShares Gold Trust
-7,['Medical Instruments & Supplies'],TFX,Teleflex Incorporated
-35,['Shipping'],TDW,Tidewater Inc.
-18,['Sporting Goods'],ELY,Callaway Golf Co.
-167,['Telecom Services - Domestic'],T,"AT&T, Inc."
-12,['Medical Instruments & Supplies'],MMSI,"Merit Medical Systems, Inc."
-46,['Regional - Midwest Banks'],FITB,Fifth Third Bancorp
-30,['Auto Parts'],BWA,BorgWarner Inc.
-1,[],TERP,TerraForm Power
-47,['Machine Tools & Accessories'],PRLB,"Proto Labs, INC."
-25,[],TKAI,Tokai Pharmaceuticals
-7,['Drug Manufacturers - Major'],RPTP,Raptor Pharmaceuticals Corp.
-29,['Technical & System Software'],INFY,Infosys Technologies Limited
-11,[],HRTG,Heritage Insurance Holdings
-9,['Oil & Gas Drilling & Exploration'],DO,Diamond Offshore Drilling Inc.
-18,[],XNCR,Xencor
-11,['Shipping'],TK,Teekay Corporation
-4,['Credit Services'],WU,Western Union Co.
-60,['Multimedia & Graphics Software'],ATVI,"Activision Blizzard, Inc."
-11,['Beverages - Soft Drinks'],REED,"REEDS, Inc."
-98,['Restaurants'],CAKE,The Cheesecake Factory Incorporated
-2,['Mortgage Investment'],FMCC,Freddie Mac
-26,[],HAWK,Blackhawk Network Holdings Inc
-22,['Exchange Traded Fund'],EWZ,iShares MSCI Brazil Index
-3,['Industrial Metals & Minerals'],URRE,"Uranium Resources, Inc."
-18,['Biotechnology'],CYTK,Cytokinetics Inc.
-45,['Biotechnology'],GILD,Gilead Sciences Inc.
-26,[],NVCN,Neovasc Inc.
-14,[],VEEV,Veeva Systems
-4,[],HACK,PureFunds ISE Cyber Security ETF
-119,['Restaurants'],BWLD,Buffalo Wild Wings Inc.
-4,[],GDM,NYSE Arca Gold Miners Index
-74,[],TWLO,Twilio
-16,['Nonmetallic Mineral Mining'],AXU,Alexco Resource Corporation
-66,[],PTC,PTC Inc
-11,['Packaging & Containers'],GPK,Graphic Packaging Holding Company
-19,['Metal Fabrication'],GTLS,Chart Industries Inc.
-16,['Biotechnology'],OSIR,"Osiris Therapeutics, Inc."
-18,['Medical Appliances & Equipment'],MDT,"Medtronic, Inc."
-6,[],XAR,SPDR S&P Aerospace & Defense ETF
-16,[],LC,LendingClub
-45,['Internet Software & Services'],NTES,"NetEase.com, Inc."
-65,['Information Technology Services'],UIS,Unisys Corporation
-34,['Broadcasting - TV'],CBS,CBS Corporation
-19,['Air Delivery & Freight Services'],EXPD,Expeditors International of Washington Inc.
-10,[],SBIO,ALPS Medical Breakthroughs ETF
-17,['Industrial Metals & Minerals'],SWC,Stillwater Mining Co.
-41,['Asset Management'],CG,Carlyle Group
-12,['Insurance Brokers'],MMC,"Marsh & McLennan Companies, Inc."
-28,[],BRX,REIT Brixmor
-16,['Exchange Traded Fund'],USD,ProShares Ultra Semiconductors
-17,[],RNG,RINGCENTRAL INC.
-2,['Restaurants'],DNKN,Dunkin Donuts
-14,['Electric Utilities'],ELP,Companhia Paranaense de Energia
-14,['REIT - Retail'],MAC,Macerich Co.
-8,[],FLGT,Fulgent Genetics
-6,['Shipping'],ESEA,"Euroseas, Ltd."
-3,['Exchange Traded Fund'],EWU,iShares MSCI United Kingdom Index
-9,['Oil & Gas Equipment & Services'],DRQ,"Dril-Quip, Inc."
-19,[],GDDY,GoDaddy Group
-90,['REIT - Residential'],AGNC,American Capital Agency Corp.
-197,['Steel & Iron'],AKS,AK Steel Holding Corporation
-89,['Conglomerates'],MMM,3M Co.
-5,['Medical Appliances & Equipment'],SPNC,The Spectranetics Corporation
-77,['Application Software'],CRM,Salesforce.com
-16,['Regional - Northeast Banks'],STBA,S&T Bancorp Inc.
-13,[],AHH,Armada Hoffler Properties
-100,['Gold'],NEM,Newmont Mining Corp.
-16,['Insurance Brokers'],BRO,Brown & Brown Inc.
-90,['Oil & Gas Refining & Marketing'],VLO,Valero Energy Corp.
-36,[],TSRO,Tesaro Inc.
-30,['General Contractors'],CBI,Chicago Bridge & Iron Company N.V.
-18,['Diversified Investments'],NDAQ,Nasdaq OMX Group Inc.
-16,['Scientific & Technical Instruments'],ST,Sensata Technologies Holding NV
-24,['Oil & Gas Equipment & Services'],SLB,Schlumberger Limited
-9,['Sporting Goods'],POOL,Pool Corp
-55,['Medical Instruments & Supplies'],UNIS,Unilife Corporation
-7,['Textile - Apparel Footwear & Accessories'],FL,"Foot Locker, Inc."
-5,['Drug Manufacturers - Other'],PTX,"Pernix Therapeutics Holdings, Inc."
-16,['Drug Delivery'],VRX,"Valeant Pharmaceuticals International, Inc."
-4,[],ASHR,China A-Shares ETF
-15,['Gas Utilities'],NJR,New Jersey Resources Corp.
-56,['Trucking'],YRCW,YRC Worldwide Inc.
-5,[],VVIX,CBOE VIX VOLATILITY INDEX
-21,[],LNTH,Lantheus Holdings
-7,[],CRSP,CRISPR Therapeutics
-23,['Rental & Leasing Services'],R,"Ryder System, Inc."
-18,[],VSLR,Vivint Solar
-1,[],SSEC,Shanghai Composite
-13,[],EARS,Auris Medical Holding
-30,['Residential Construction'],MTH,Meritage Homes Corporation
-7,[],NAP,Navios Maritime Midstream Partners LP
-5,['Property & Casualty Insurance'],AWH,Allied World Assurance Company Holdings Ltd.
-118,['Exchange Traded Fund'],UGAZ,VelocityShares 3x Long Natural Gas ETN
-28,['Gold'],GFI,Gold Fields Ltd.
-22,['Credit Services'],RM,Regional Management
-16,['Exchange Traded Fund'],DTO,PowerShares DB Crude Oil Dble Short ETN
-23,['General Contractors'],SERV,ServiceMaster
-29,['Diversified Machinery'],IR,Ingersoll-Rand Plc
-24,[],INVT,Inventergy Global Inc
-6,['Independent Oil & Gas'],MTDR,Matador Resources Company
-17,['Drug Manufacturers - Other'],BIOD,Biodel Inc.
-16,['Industrial Metals & Minerals'],BHP,BHP Billiton Ltd.
-16,['Management Services'],ICFI,ICF International Inc.
-17,['Major Airlines'],CEA,China Eastern Airlines Corp. Ltd.
-10,['Exchange Traded Fund'],TQQQ,ProShares UltraPro QQQ
-156,['Industrial Metals & Minerals'],CLF,Cliffs Natural Resources Inc.
-46,['Independent Oil & Gas'],NFX,Newfield Exploration Co.
-37,['Communication Equipment'],DRWI,DragonWave Inc.
-50,['Oil & Gas Equipment & Services'],BAS,"Basic Energy Services, Inc."
-8,['Biotechnology'],ARWR,Arrowhead Research Corp.
-62,['Biotechnology'],SRPT,Sarepta Therapeutics Inc.
-55,['Packaging & Containers'],SEE,Sealed Air Corporation
-15,['Independent Oil & Gas'],CEO,CNOOC Ltd.
-10,[],TPIC,TPI Composites
-9,['Exchange Traded Fund'],SOXL,Direxion Daily Semicondct Bull 3X Shares
-37,['Rubber & Plastics'],GT,Goodyear Tire & Rubber Co.
-19,['Conglomerates'],NMFC,New Mountain Finance Corp
-10,[],TPB,Turning Point Brands
-12,['Home Furnishings & Fixtures'],STLY,Stanley Furniture Co. Inc.
-7,['Industrial Electrical Equipment'],BNSO,Bonso Electronics International Inc.
-26,['Internet Information Providers'],YELP,Yelp
-15,['Home Health Care'],CHE,Chemed Corp.
-116,['Specialty Eateries'],PNRA,Panera Bread Co.
-11,[],EQM,EQT Midstream Partners 
-8,['REIT - Diversified'],DEI,Douglas Emmett Inc
-12,['Specialized Health Services'],BEAT,Bio Telemetry
-7,['Processed & Packaged Goods'],CAG,"ConAgra Foods, Inc."
-26,['CATV Systems'],DISCA,"Discovery Communications, Inc."
-9,['Scientific & Technical Instruments'],RTEC,Rudolph Technologies Inc.
-35,[],GLOB,Globant
-6,['Chemicals - Major Diversified'],CE,Celanese Corp.
-15,['Exchange Traded Fund'],EWI,iShares MSCI Italy Index
-10,[],VTTI,VTTI Energy Partners LP
-8,['Exchange Traded Fund'],DXD,ProShares UltraShort Dow30
-9,['Waste Management'],SRCL,"Stericycle, Inc."
-36,['Medical Instruments & Supplies'],LMAT,"LeMaitre Vascular, Inc."
-32,[],PTCT,"PTC Therapeutics, Inc."
-31,['Oil & Gas Refining & Marketing'],ALDW,Alon USA Partners
-14,['Exchange Traded Fund'],BOIL,ProShares Ultra DJ UBS Natural
-19,['Investment Brokerage - National'],MS,Morgan Stanley
-107,['Scientific & Technical Instruments'],GRMN,Garmin Ltd.
-15,[],NSAM,NorthStar Asset Management Group
-13,['Application Software'],SPLK,Splunk
-16,['Exchange Traded Fund'],MZZ,ProShares UltraShort MidCap400
-5,[],TICK,NYSE - TICK
-11,['Data Storage Devices'],NTAP,"NetApp, Inc."
-16,['Exchange Traded Fund'],SKF,ProShares UltraShort Financials
-9,"['Discount, Variety Stores']",DG,Dollar General Corporation
-3,[],MNK,Mallinckrodt plc
-1,['Communication Equipment'],HRS,Harris Corp.
-6,['Cigarettes'],BTI,British American Tobacco plc
-18,[],TNXP,Tonix Pharmaceuticals Holding Corp 
-6,['Technical Services'],TTEK,Tetra Tech Inc.
-44,[],ES_F,E-Mini S&P 500 Futures
-9,[],ZL_F,Soybean Oil Futures
-32,['Specialized Health Services'],DVA,"DaVita, Inc."
-9,[],TRCO,Tribune Media Company
-23,['Restaurants'],WEN,The Wendy's Company
-71,['Drug Manufacturers - Other'],MDCO,Medicines Co.
-18,['Biotechnology'],THLD,Threshold Pharmaceuticals Inc.
-27,['Property & Casualty Insurance'],AXS,Axis Capital Holdings Ltd.
-41,['Health Care Plans'],ESRX,Express Scripts Inc.
-1,['Closed-End Fund - Equity'],USA,Liberty All Star Equity Fund
-8,[],VUZI,Vuzix Corp
-8,['Department Stores'],M,"Macy's, Inc."
-37,['Drug Manufacturers - Major'],GSK,GlaxoSmithKline plc
-6,[],LTXB,LegacyTexas Financial Group Inc.
-15,[],FV,First Trust Dorsey Wright Focus 5 ETF
-9,['Regional - Southeast Banks'],FNB,F.N.B. Corporation
-16,['Exchange Traded Fund'],DBO,PowerShares DB Oil
-34,['Machine Tools & Accessories'],TKR,Timken Co.
-8,"['Specialty Retail, Other']",FLWS,1-800-Flowers.com Inc.
-9,['CATV Systems'],VIA.B,"Viacom, Inc."
-5,[],USDX,US Dollar Index
-3,['Electronic Equipment'],HIT,Hitachi Ltd.
-4,['Exchange Traded Fund'],FEZ,SPDR EURO STOXX 50
-26,['Medical Appliances & Equipment'],ABT,Abbott Laboratories
-129,['Drug Stores'],GNC,GNC Corp.
-42,['Industrial Electrical Equipment'],ABB,ABB Ltd.
-26,['Diversified Machinery'],GNRC,Generac Holdings Inc.
-18,['REIT - Diversified'],AMT,American Tower Corp.
-2,['Exchange Traded Fund'],EIS,iShares MSCI Israel Cap Invest Mkt Index
-7,[],BRG,Bluerock Residential
-1,[],QHC,Quorum Health Corp
-167,['Application Software'],MSFT,Microsoft Corporation
-8,[],VMEM,"VIOLIN MEMORY, INC. "
-11,[],EVH,Evolent Health
-9,['Investment Brokerage - National'],ETFC,E*TRADE Financial Corporation
-23,['Auto Dealerships'],CPRT,"Copart, Inc."
-6,['Biotechnology'],MSTX,Mast Therapeutics Inc
-5,[],DJT,Dow Jones Transports
-83,['Mortgage Investment'],TREE,"Tree.Com, Inc."
-2,['Business Software & Services'],PEGA,Pegasystems Inc.
-13,['Asset Management'],NOAH,Noah Holdings Limited
-9,['Packaging & Containers'],SON,Sonoco Products Co.
-46,['Silver'],CDE,Coeur d`Alene Mines Corporation
-64,['REIT - Retail'],SPG,Simon Property Group Inc.
-5,['Exchange Traded Fund'],VT,Vanguard Total World Stock Index ETF
-64,['Foreign Regional Banks'],DB,Deutsche Bank AG
-49,['Exchange Traded Fund'],XIV,VelocityShares Daily Inverse VIX ST ETN
-7,[],CEB,Corporate Executive Board Co.
-5,['Photographic Equipment & Supplies'],KODK,Eastman Kodak Co.
-55,['Beverages - Soft Drinks'],DPS,"Dr Pepper Snapple Group, Inc."
-23,['Grocery Stores'],WFM,"Whole Foods Market, Inc."
-6,['Chemicals - Major Diversified'],EMN,Eastman Chemical Co.
-23,"['Movie Production, Theaters']",LGF,Lions Gate Entertainment Corp.
-8,['Business Equipment'],PAY,"VeriFone Systems, Inc"
-111,['Diversified Communication Services'],VG,Vonage Holdings Corporation
-15,['Electric Utilities'],SO,Southern Company
-7,['Business Software & Services'],IRM,Iron Mountain Inc.
-40,['Agricultural Chemicals'],MOS,Mosaic Co.
-12,['Exchange Traded Fund'],USL,United States 12 Month Oil
-8,[],TGTX,TG Therapeutics
-3,[],AST,"Asterias Biotherapeutics, Inc."
-11,['Semiconductor Equipment & Materials'],ENTG,"Entegris, Inc."
-57,[],CTRV,ContraVir Pharmaceuticals
-3,['Biotechnology'],GALE,"Galena Biopharma, Inc."
-17,[],RDUS,Radius Health
-14,['Exchange Traded Fund'],XOP,SPDR S&P Oil & Gas Exploration & Prod
-4,['Regional - Southeast Banks'],OZRK,"Bank of the Ozarks, Inc."
-28,['Medical Laboratories & Research'],PRXL,Parexel International Corp.
-135,[],SPX,S&P 500 Index
-8,['Diagnostic Substances'],AXDX,Accelerate Diagnostics Inc
-4,[],ACIU,AC Immune
-7,[],GWPH,GW Pharmaceuticals plc
-2,['Networking & Communication Devices'],PANW,"PALO ALTO NETWORKS, INC"
-1,['Savings & Loans'],CASH,"Meta Financial Group, Inc."
-26,['Chemicals - Major Diversified'],GEVO,"Gevo, Inc."
-21,['Oil & Gas Drilling & Exploration'],ATW,"Atwood Oceanics, Inc."
-13,[],EKSO,Ekso Bionics
-13,['Wireless Communications'],VIV,Vivo Participacoes S.A.
-1,[],WGBS,WaferGen Bio-systems Inc.
-8,[],SYN,Synthetic Biologics Inc.
-8,['Medical Appliances & Equipment'],BABY,Natus Medical Inc.
-17,['Independent Oil & Gas'],GST,"Gastar Exploration, Ltd."
-28,['Industrial Metals & Minerals'],CNX,CONSOL Energy Inc.
-140,['Exchange Traded Fund'],UVXY,ProShares Trust Ultra VIX Short-Term Futures ETF
-4,['Security & Protection Services'],TYC,Tyco International Ltd.
-11,['Shipping'],STNG,Scorpio Tankers Inc.
-16,['Exchange Traded Fund'],FXG,First Trust Consumer Staples AlphaDEX
-17,['Housewares & Accessories'],CLX,Clorox Corporation
-41,['General Entertainment'],MMYT,MakeMyTrip Limited
-12,['Independent Oil & Gas'],CLR,Continental Resources Inc.
-29,['Independent Oil & Gas'],SM,SM Energy Company
-42,['Exchange Traded Fund'],XLV,Health Care Select Sector SPDR
-16,['Steel & Iron'],SIM,Grupo Simec S.A.B. de C.V.
-2,['Independent Oil & Gas'],DNR,Denbury Resources Inc.
-4,[],ZC_F,Corn Futures
-2,['Gold'],HMY,Harmony Gold Mining Co. Ltd.
-8,[],SSNLF,Samsung Electronics Co. Ltd.
-39,['Regional - Southeast Banks'],RF,Regions Financial Corp.
-7,['Residential Construction'],TOL,Toll Brothers Inc.
-67,['Semiconductor - Specialized'],UCTT,Ultra Clean Holdings Inc.
-109,['Technical & System Software'],VMW,"VMware, Inc."
-1,['Rental & Leasing Services'],CAR,"Avis Budget Group, Inc."
-15,['Beverages - Brewers'],BREW,"Craft Brewers Alliance, Inc."
-51,['Oil & Gas Equipment & Services'],NOV,"National Oilwell Varco, Inc."
-36,['Semiconductor Equipment & Materials'],LRCX,Lam Research Corporation
-45,[],VIX,CBOE Volatility Index
-7,['Exchange Traded Fund'],DOG,ProShares Short Dow30
-15,[],PI,Impinj
-16,['Oil & Gas Refining & Marketing'],IMO,Imperial Oil Ltd.
-20,['Exchange Traded Fund'],YINN,Direxion Daily China Bull 3X Shares
-7,['Closed-End Fund - Equity'],CLM,Cornerstone Strategic Value Fund Inc.
-41,['Department Stores'],WMT,Walmart Stores Inc.
-15,['Advertising Agencies'],LAMR,Lamar Advertising Co.
-15,['Asset Management'],GLAD,Gladstone Capital Corporation
-3,['Drug Manufacturers - Other'],SGYP,"Synergy Pharmaceuticals, Inc."
-6,['Biotechnology'],MNKD,MannKind Corp.
-44,['Medical Appliances & Equipment'],CYNO,"Cynosure, Inc."
-44,['Recreational Vehicles'],PII,"Polaris Industries, Inc."
-9,['Semiconductor - Broad Line'],ON,ON Semiconductor Corp.
-1,[],LDOS,"Leidos Holdings, Inc."
-13,['Drug Stores'],CVS,CVS Caremark Corporation
-3,[],SFTBY,SoftBank Corp.
-11,['Electronics Wholesale'],AXE,Anixter International Inc.
-43,['Exchange Traded Fund'],XLK,Technology Select Sector SPDR
-18,['Semiconductor - Integrated Circuits'],API,Advanced Photonix Inc.
-43,['Semiconductor - Specialized'],SCTY,SolarCity
-2,[],CYBR,Cyber-Ark Software
-14,['Education & Training Services'],CPLA,Capella Education Co.
-4,['Medical Appliances & Equipment'],STJ,St. Jude Medical Inc.
-1,['Business Software & Services'],N,NetSuite Inc.
-30,['Exchange Traded Fund'],YANG,Direxion Daily China Bear 3X Shares
-19,['Property & Casualty Insurance'],WRB,W.R. Berkley Corporation
-64,['Aerospace/Defense Products & Services'],UTX,United Technologies Corp.
-86,[],GBT,Global Blood Therapeutics
-6,['Semiconductor - Specialized'],MXL,"MaxLinear, Inc."
-15,['Semiconductor Equipment & Materials'],CREE,Cree Inc.
-37,['Electric Utilities'],WEC,Wisconsin Energy Corp.
-98,['Hospitals'],CYH,"Community Health Systems, Inc."
-36,['Drug Manufacturers - Other'],AMRN,Amarin Corporation plc
-6,[],GRAM,Grana y Montero S.A.A.
-12,['Biotechnology'],PRTK,"Paratek Pharmaceuticals, Inc."
-69,['Home Improvement Stores'],LOW,Lowe's Companies Inc.
-35,['Oil & Gas Drilling & Exploration'],SDRL,SeaDrill Limited
-8,[],CLSD,Clearside Biomedical
-7,"['Specialty Retail, Other']",BID,Sotheby's
-138,[],ACIA,Acacia Communications
-20,['Regional - Southeast Banks'],FHN,First Horizon National Corp.
-1,['Exchange Traded Fund'],ERO,iPath EUR/USD Exchange Rate ETN
-11,['Internet Software & Services'],ANGI,Angie's List
-118,['Wireless Communications'],S,Sprint Nextel Corp.
-5,['Independent Oil & Gas'],ISRL,Isramco Inc.
-5,['Drugs - Generic'],CPRX,Catalyst Pharmaceutical Partners Inc.
-13,['REIT - Retail'],UBA,Urstadt Biddle Properties Inc.
-37,['Drug Manufacturers - Major'],AZN,AstraZeneca PLC
-12,['Regional - Pacific Banks'],UMPQ,Umpqua Holdings Corporation
-40,['Exchange Traded Fund'],EEM,iShares MSCI Emerging Markets Index
-5,['Exchange Traded Fund'],IYK,iShares Dow Jones US Consumer Goods
-3,[],GBIM,GlobeImmune
-23,['Independent Oil & Gas'],WPX,WPX Energy Inc.
-15,[],CMRX,"Chimerix, Inc."
-57,['Research Services'],GPRO,GoPro
-118,['Independent Oil & Gas'],CHK,Chesapeake Energy Corporation
-2,[],CARA,Cara Therapeutics
-5,['Scientific & Technical Instruments'],CUB,Cubic Corporation
-42,['Major Airlines'],SAVE,Spirit Airlines
-8,[],ACTA,Actua Corporation
-48,['Industrial Equipment Wholesale'],DXPE,DXP Enterprises Inc.
-24,['Metal Fabrication'],CRS,Carpenter Technology Corp.
-24,['Exchange Traded Fund'],BIB,ProShares Ultra Nasdaq Biotechnology
-4,['Exchange Traded Fund'],CZA,Guggenheim Mid-Cap Core
-25,['Drug Manufacturers - Major'],NBIX,Neurocrine Biosciences Inc.
-14,['Textile - Apparel Clothing'],RL,Polo Ralph Lauren Corp.
-45,[],HTBX,Heat Biologics Inc.
-7,['Semiconductor - Specialized'],MX,Magnachip Semiconductor
-54,['Mortgage Investment'],ASPS,Altisource Portfolio Solutions S.A.
-64,[],DUST,Direxion Daily Gold Miners Bear 3X Shrs
-1,['Exchange Traded Fund'],FAS,Direxion Daily Financial Bull 3X Shares
-15,['General Contractors'],PWR,"Quanta Services, Inc."
-5,['Restaurants'],ARCO,Arcos Dorados Holdings Inc. Cla
-2,['Property & Casualty Insurance'],BRK.B,Berkshire Hathaway Inc.
-5,['Residential Construction'],KBH,KB Home
-19,['Waste Management'],CVA,Covanta Holding Corporation
-46,['Machine Tools & Accessories'],SWK,"Stanley Black & Decker, Inc."
-8,[],SRC,Spirit Realty Capital Inc
-11,['Asset Management'],IVZ,Invesco Ltd.
-54,[],JD,JD.com
-30,['Asset Management'],TROW,"T. Rowe Price Group, Inc."
-31,['Exchange Traded Fund'],IYR,iShares Dow Jones US Real Estate
-12,['Exchange Traded Fund'],OLO,PowerShares DB Crude Oil Long ETN
-10,['Internet Software & Services'],SINA,Sina Corp.
-1,['Exchange Traded Fund'],GASX,Direxion Daily Nat Gas Rltd Bear 2X Shrs
-2,['Exchange Traded Fund'],PKB,PowerShares Dynamic Building & Construct
-10,['Investment Brokerage - Regional'],PJC,Piper Jaffray Companies
-4,['Textile - Apparel Clothing'],COLM,Columbia Sportswear Company
-4,['Food - Major Diversified'],WWAV,WhiteWave Foods Company
-17,['Telecom Services - Foreign'],TEF,"Telefonica, S.A."
-10,['Industrial Electrical Equipment'],ESNC,EnSync Inc.
-31,['Cement'],CX,"CEMEX, S.A.B. de C.V."
-59,['Money Center Banks'],C,"Citigroup, Inc."
-41,['REIT - Office'],COR,CoreSite Realty Corporation
-12,[],RMP,Rice Midstream Partners LP
-10,['Exchange Traded Fund'],BBH,Biotech HOLDRs
-9,['Cleaning Products'],ECL,Ecolab Inc.
-16,['Rental & Leasing Services'],URI,"United Rentals, Inc."
-27,['Gold'],KGC,Kinross Gold Corporation
-62,['Staffing & Outsourcing Services'],RHI,Robert Half International Inc.
-10,['Independent Oil & Gas'],XEC,Cimarex Energy Co.
-27,[],TEAM,Atlassian
-9,['Drug Manufacturers - Other'],DEPO,DepoMed Inc.
-7,[],CPTA,Capitala Finance Corp
-26,[],GLOP,GASLOG PARTNERS LP 
-17,[],AKAO,Achaogen Inc.
-16,['Beverages - Soft Drinks'],KOF,Coca-Cola FEMSA S.A.B de C.V.
-11,['Regional - Mid-Atlantic Banks'],CHCO,City Holding Co.
-109,['Money Center Banks'],BAC,Bank of America Corporation
-18,['Aerospace/Defense - Major Diversified'],TXT,Textron Inc.
-47,[],AAL,American Airlines Group
-25,['Exchange Traded Fund'],VIIX,VelocityShares Long VIX Short Term ETN
-23,['CATV Systems'],AMCX,AMC Networks Inc
-3,['Auto Manufacturers - Major'],HMC,"Honda Motor Co., Ltd."
-12,['Industrial Metals & Minerals'],TGB,Taseko Mines Ltd.
-22,['Gold'],EGO,Eldorado Gold Corp.
-11,['Foreign Regional Banks'],BPOP,Popular Inc.
-16,['Processed & Packaged Goods'],LNCE,"Snyder's-Lance, Inc."
-17,['Jewelry Stores'],SIG,Signet Jewelers Limited
-32,['Railroads'],CP,Canadian Pacific Railway Limited
-56,['Credit Services'],AXP,American Express Company
-38,['Multimedia & Graphics Software'],TTWO,Take-Two Interactive Software Inc.
-7,['Exchange Traded Fund'],KBE,SPDR KBW Bank
-10,['Exchange Traded Fund'],TAN,Guggenheim Solar
-7,['REIT - Residential'],ARR,"ARMOUR Residential REIT, Inc."
-73,['Entertainment - Diversified'],DIS,Walt Disney Co.
-115,['Beverages - Soft Drinks'],KO,The Coca-Cola Company
-7,['Packaging & Containers'],BMS,"Bemis Company, Inc."
-7,['REIT - Diversified'],MTGE,American Capital Mortgage Investment
-15,[],OPGN,OpGen
-32,['Savings & Loans'],HMST,"Homestreet, Inc."
-74,['Education & Training Services'],XRS,TAL Education Group
-12,['Exchange Traded Fund'],XTN,SPDR S&P Transportation
-14,['Farm Products'],ADM,Archer Daniels Midland Company
-7,['Internet Information Providers'],IAC,IAC/InterActiveCorp.
-37,['General Building Materials'],MAS,Masco Corporation
-120,[],TMUS,"T-Mobile US, Inc. "
-60,['Textile - Apparel Footwear & Accessories'],DECK,Deckers Outdoor Corp.
-5,['Exchange Traded Fund'],MUB,iShares S&P National AMT-Free Muni Bd
-25,[],FEYE,FireEye Inc
-7,[],CONE,CyrusOne Inc.
-17,[],PAYC,Paycom Software
-9,['Specialty Chemicals'],WLK,Westlake Chemical Corp.
-65,['Asset Management'],BX,The Blackstone Group
-17,[],ESND,Essendant Inc
-4,['Drug Manufacturers - Major'],ZTS,Zoetis Inc.
-58,['Gold'],AEM,Agnico Eagle Mines Ltd.
-2,['Department Stores'],SHLD,Sears Holdings Corporation
-20,['REIT - Office'],BXP,Boston Properties Inc.
-3,[],USDNOK,US Dollar / Norweigen Krona
-14,['Diversified Electronics'],OESX,"Orion Energy Systems, Inc"
-15,['Business Software & Services'],AZPN,Aspen Technology Inc.
-2,[],BXLT,Baxalta Incorporated Common Sto
-1,['Restaurants'],RRGB,Red Robin Gourmet Burgers Inc.
-35,['Exchange Traded Fund'],FDN,First Trust Dow Jones Internet Index
-89,[],UWTI,VelocityShares 3x Long Crude ETN
-2,['REIT - Office'],EQC,Equity Commonwealth Common Shar
-8,['Apparel Stores'],KORS,Michael Kors Holdings Ltd
-20,['Electric Utilities'],CMS,CMS Energy Corp.
-17,['Meat Products'],PPC,Pilgrim's Pride Corporation
-4,['Closed-End Fund - Debt'],CHY,Calamos Convertible & High Income Fund
-14,[],ONVO,Organovo Holdings Inc
-47,[],OPB,Opus Bank
-19,['Oil & Gas Pipelines'],MMLP,Martin Midstream Partners LP
-7,['Regional Airlines'],SKYW,SkyWest Inc.
-24,['Business Software & Services'],KONE,Kingtone Wirelessinfo Solution Holding Ltd.
-15,['Medical Laboratories & Research'],ALR,Alere Inc.
-12,[],MBRX,Moleculin Biotech
-32,['Business Software & Services'],TSS,"Total System Services, Inc."
-10,['Savings & Loans'],BANR,Banner Corporation
-39,[],LABU,Direxion Daily S&P Biotech Bull 3X Shares
-66,['Exchange Traded Fund'],DIA,SPDR Dow Jones Industrial Average
-20,['Investment Brokerage - National'],CME,CME Group Inc.
-14,['Auto Parts Wholesale'],MGA,"Magna International, Inc."
-13,['Biotechnology'],VCEL,Vericel Corporation
-16,['Drug Manufacturers - Other'],RDY,Dr. Reddy's Laboratories Ltd.
-17,['Exchange Traded Fund'],RUSS,Direxion Daily Russia Bear 3x
-16,['Industrial Equipment Wholesale'],WCC,WESCO International Inc.
-60,['Machine Tools & Accessories'],KMT,Kennametal Inc.
-8,['Diagnostic Substances'],AMAG,"AMAG Pharmaceuticals, Inc."
-5,[],SXCP,Suncoke Energy Partners L.P.
-4,['Semiconductor Equipment & Materials'],ACLS,Axcelis Technologies Inc.
-92,['Oil & Gas Drilling & Exploration'],WLL,Whiting Petroleum Corp.
-13,['Internet Service Providers'],VIPS,Vipshop Holdings Limited
-112,['Chemicals - Major Diversified'],DOW,The Dow Chemical Company
-8,['Application Software'],INTU,Intuit Inc.
-4,['Independent Oil & Gas'],PXD,Pioneer Natural Resources Co.
-99,['Biotechnology'],AMGN,Amgen Inc.
-6,['Medical Appliances & Equipment'],ETRM,"EnteroMedics, Inc."
-7,[],TRIL,Trillium Therapeutics
-16,['Beverages - Wineries & Distillers'],STZ,Constellation Brands Inc.
-41,['Oil & Gas Drilling & Exploration'],ESV,Ensco plc
-1,['Oil & Gas Equipment & Services'],GLBL,TerraForm Global
-33,['Networking & Communication Devices'],FNSR,Finisar Corp.
-26,['Exchange Traded Fund'],SSO,ProShares Ultra S&P500
-16,[],MNGA,Magnegas Corporation
-23,[],EBIO,Eleven Biotherapeutics
-12,['Internet Information Providers'],INXN,Interxion Holding NV
-37,['Oil & Gas Refining & Marketing'],ALJ,"Alon USA Energy, Inc."
-37,['Exchange Traded Fund'],TWM,ProShares UltraShort Russell2000
-37,['Semiconductor- Memory Chips'],MU,Micron Technology Inc.
-48,['Semiconductor - Specialized'],FSLR,"First Solar, Inc."
-3,['Exchange Traded Fund'],IWF,iShares Russell 1000 Growth Index
-20,['Oil & Gas Pipelines'],ETP,Energy Transfer Partners L.P.
-6,[],MTLS,Materialise NV
-12,['Steel & Iron'],NUE,Nucor Corporation
-5,['Industrial Electrical Equipment'],LFUS,Littelfuse Inc.
-29,['Property Management'],DFT,"DuPont Fabros Technology, Inc."
-24,['Trucks & Other Vehicles'],STS,Supreme Industries Inc.
-9,['Medical Appliances & Equipment'],GMED,"Globus Medical, Inc."
+4,['CATV Systems'],AMCX,AMC Networks Inc
+4,['Aerospace/Defense - Major Diversified'],RTN,Raytheon Co.
+4,['Semiconductor Equipment & Materials'],OCLR,"Oclaro, Inc."
+12,['Technical Services'],ACM,AECOM Technology Corporation
+3,['General Contractors'],SERV,ServiceMaster
+1,['Electronics Stores'],GME,GameStop Corp.
+4,['Drug Manufacturers - Other'],NVO,Novo Nordisk A/S
+2,['Medical Appliances & Equipment'],KOOL,Cesca Therapeutics
+3,['Biotechnology'],GILD,Gilead Sciences Inc.
+10,['Heavy Construction'],MDR,McDermott International Inc.
+3,['Exchange Traded Fund'],EEM,iShares MSCI Emerging Markets Index
+1,['General Entertainment'],MMYT,MakeMyTrip Limited
+3,['Gold'],FNV,Franco Nevada Corporation
+15,['Biotechnology'],BIIB,Biogen Idec Inc.
+8,['Foreign Regional Banks'],IBN,ICICI Bank Ltd.
+4,['Independent Oil & Gas'],EAC,Erickson Air-Crane Inc
+17,['Oil & Gas Refining & Marketing'],VLO,Valero Energy Corp.
+13,['Diversified Computer Systems'],IBM,International Business Machines Corp.
+44,['Drug Manufacturers - Major'],MRK,Merck & Co. Inc.
+12,['Silver'],PAAS,Pan American Silver Corp.
+64,['Textile - Apparel Clothing'],UA,"Under Armour, Inc."
+5,['Asset Management'],BX,The Blackstone Group
+7,['Asset Management'],BEN,Franklin Resources Inc.
+39,['Medical Instruments & Supplies'],BAX,Baxter International Inc.
+2,['Exchange Traded Fund'],ITB,iShares Dow Jones US Home Construction
+2,['Chemicals - Major Diversified'],GEVO,"Gevo, Inc."
+6,['Telecom Services - Foreign'],ORAN,Orange
+7,['Diversified Communication Services'],VG,Vonage Holdings Corporation
+26,['Specialty Eateries'],PNRA,Panera Bread Co.
+11,['Medical Appliances & Equipment'],BSX,Boston Scientific Corporation
+8,['Agricultural Chemicals'],AGU,Agrium Inc.
+3,['Air Delivery & Freight Services'],CHRW,CH Robinson Worldwide Inc.
+9,['REIT - Retail'],O,Realty Income Corp.
+4,['Scientific & Technical Instruments'],IIVI,II-VI Inc.
+6,['Steel & Iron'],X,United States Steel Corp.
+7,['REIT - Hotel/Motel'],HST,Host Hotels & Resorts Inc.
+1,['CATV Systems'],VIA.B,"Viacom, Inc."
+8,['Aerospace/Defense Products & Services'],GD,General Dynamics Corp.
+2,['Exchange Traded Fund'],KOL,VanEck Vectors Coal ETF
+13,['REIT - Residential'],UDR,"UDR, Inc."
+20,['Exchange Traded Fund'],QQQ,PowerShares Nasdaq-100 QQQ
+16,['Major Airlines'],SAVE,Spirit Airlines
+13,['Home Improvement Stores'],LOW,Lowe's Companies Inc.
+2,['Electric Utilities'],PPL,PPL Corporation
+5,['Biotechnology'],CEMP,Cempra
+1,['Research Services'],GPRO,GoPro
+1,['Investment Brokerage - Regional'],GHL,"Greenhill & Co., Inc."
+9,['Appliances'],IRBT,iRobot Corporation
+14,['Industrial Electrical Equipment'],BLDP,Ballard Power Systems Inc.
+14,['Healthcare Information Services'],MDSO,"Medidata Solutions, Inc."
+1,['Exchange Traded Fund'],SQQQ,ProShares UltraPro Short QQQ
+14,['Money Center Banks'],KEY,KeyCorp
+7,['Lodging'],H,Hyatt Hotels Corporation
+26,['Catalog & Mail Order Houses'],AMZN,Amazon.com Inc.
+18,['Exchange Traded Fund'],XLF,Financial Select Sector SPDR
+8,['Business Software & Services'],KONE,Kingtone Wirelessinfo Solution Holding Ltd.
+7,['Exchange Traded Fund'],XBI,SPDR S&P Biotech
+17,['Communication Equipment'],CIEN,CIENA Corp.
+4,['Exchange Traded Fund'],SKYY,First Trust ISE Cloud Computing Index Fund
+7,['REIT - Retail'],SPG,Simon Property Group Inc.
+2,['Lodging'],WYN,Wyndham Worldwide Corporation
+18,['Internet Information Providers'],FB,Facebook
+1,['Specialty Chemicals'],SHW,The Sherwin-Williams Company
+14,['Electric Utilities'],FE,FirstEnergy Corp.
+4,['Networking & Communication Devices'],FNSR,Finisar Corp.
+1,['Accident & Health Insurance'],AIZ,Assurant Inc.
+29,['Oil & Gas Equipment & Services'],SPN,Superior Energy Services Inc.
+2,['Industrial Metals & Minerals'],CLD,Cloud Peak Energy Inc.
+19,['Restaurants'],SONC,Sonic Corp.
+7,['Industrial Metals & Minerals'],PLG,Platinum Group Metals Ltd.

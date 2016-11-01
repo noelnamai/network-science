@@ -1,4 +1,6 @@
 #import the necessary methods from tweepy library
+import json
+
 from tweepy import Stream
 from tweepy import OAuthHandler
 from tweepy.streaming import StreamListener
@@ -11,7 +13,7 @@ consumer_secret     = "Im5z7Kx4VzeXOgxYyuoiBb0eeYSkknOvYLgIjdvlBZg3zyMfBn"
 
 #basic listener that just prints received tweets to stdout.
 class StdOutListener(StreamListener):
-
+    
 	def on_data(self, data):
 		print(data)
 		return True
@@ -22,7 +24,6 @@ class StdOutListener(StreamListener):
 			return False
 
 if __name__ == "__main__":
-
     #handles Twitter authetification and the connection to Twitter Streaming API
     listener = StdOutListener()
     auth = OAuthHandler(consumer_key, consumer_secret)
